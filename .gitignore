@@ -1,0 +1,16 @@
+/.vscode
+/dist
+/Django
+/images
+/peak-element.py
+/pywhatkit_dbs.txt
+/snake-game.py
+/socket_programming.py
+/sqlite-tools-win32-x86-3360000
+/sqlite-tools-win32-x86-3360000.zip
+/sqlite.db
+/Template-Commit.sql
+/Test-Code
+/test.xml
+/ui-watch.spec
+/__pycache__
