@@ -1,7 +1,6 @@
 /.vscode
 /dist
 /Django
-/images
 /peak-element.py
 /pywhatkit_dbs.txt
 /snake-game.py
