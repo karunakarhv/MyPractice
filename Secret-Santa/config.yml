@@ -1,0 +1,40 @@
+# Required to connect to your outgoing mail server. Example for using gmail:
+# gmail
+SMTP_SERVER: smtp.gmail.com
+SMTP_PORT: 587
+USERNAME: test123
+PASSWORD: "*****"
+
+TIMEZONE: 'US/Pacific'
+
+PARTICIPANTS:
+  - Karun <ZZZ@gmail.com>
+  - Adithi <zzzz@gmail.com>
+  - Amitav <zzzz@gmail.com>
+  - Kiran <zzzz@gmail.com>
+  - Prarthana <zzzz@gmail.com>
+  - Bella <zzz@gmail.com>
+
+
+# Warning -- if you mess this up you could get an infinite loop
+DONT-PAIR:
+  - Adithi, Karun    # Adithi and Karun are married
+  - Adithi, Amitav   # Adithi and Amitav are mom and son
+  - Karun, Amitav    # Karun and Amitav are dad and son
+
+# From address should be the organizer in case participants have any questions
+FROM: Karun <test123@gmail.com>
+
+# Both SUBJECT and MESSAGE can include variable substitution for the
+# "santa" and "santee"
+SUBJECT: Your secret santa recipient is {santee}
+MESSAGE:
+  Dear {santa},
+
+  This year you are {santee}'s Secret Santa!. Ho Ho Ho!
+
+  The maximum spending limit is 20.00$
+
+  This message was automatically generated from a computer.
+
+  Nothing could possibly go wrong...
