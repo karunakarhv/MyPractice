@@ -19,10 +19,6 @@ def timeDiff(dateTime1, dateTime2):
         raise TypeError("dateTime1 and dateTime2 must be an instance of datetime!")
     return dateTime1 - dateTime2
 
-class Animal():
-    """[summary]
-    """
-
 startTime = '18:20:50'
 endTime = '18:23:30'
 
