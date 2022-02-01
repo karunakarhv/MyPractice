@@ -19,8 +19,8 @@ def timeDiff(dateTime1, dateTime2):
         raise TypeError("dateTime1 and dateTime2 must be an instance of datetime!")
     return dateTime1 - dateTime2
 
-startTime = '18:20:50'
-endTime = '18:23:30'
+startTime = '19:19:29'
+endTime = '19:25:39'
 
 dt1 = datetime.strptime(startTime, '%H:%M:%S')
 dt2 = datetime.strptime(endTime, '%H:%M:%S')
