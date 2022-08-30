@@ -11,4 +11,5 @@
 /Template-Commit.sql
 /test.xml
 /ui-watch.spec
-/__pycache__
+*.py[cod]
+*.xml
