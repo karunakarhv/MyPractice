@@ -30,3 +30,6 @@ def test_2(setup):
 
 def test_3(setup):
     print('Test 3')
+
+def cleanup():
+    print('requires cleanup')
