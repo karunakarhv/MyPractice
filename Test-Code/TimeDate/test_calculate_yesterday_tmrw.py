@@ -4,7 +4,8 @@
 
 import datetime
 
-today = datetime.date.today()
+today = datetime.datetime.now()
+print(datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"))
 yesterday = today - datetime.timedelta(days=1)
 tomorrow = today + datetime.timedelta(days=1)
 print('Today - {}'.format(today))
