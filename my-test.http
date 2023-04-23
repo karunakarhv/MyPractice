@@ -1,0 +1,21 @@
+{{hostname}}people/1/
+
+###
+
+{{hostname}}planets/2/
+
+
+# films:
+{{hostname}}films/
+#people:
+{{hostname}}people/
+#planets:
+{{hostname}}planets/
+#species:
+{{hostname}}species/
+#starships:z
+{{hostname}}starships/
+#vehicles:
+
+get {{hostname}}vehicles/
+
