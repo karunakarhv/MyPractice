@@ -1,4 +1,4 @@
-# Topics Covered in the blog
+# Topics Posted in the blog
 1. Exploring the Power of Python's Requests Library for Web Interaction
 2. Logging in Python: Mastering Effective Debugging and Monitoring
 3. Datetime in Python: Managing Time and Dates
@@ -12,4 +12,7 @@
 11. Deep Diff
 12. Python Cloning or Copying a list
 13. Python Tips and Tricks
-14. 
+
+# Topics for scheduling
+
+# Topics yet to schedule
