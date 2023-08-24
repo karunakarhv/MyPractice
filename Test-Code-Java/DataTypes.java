@@ -14,9 +14,17 @@ public class DataTypes {
         DataTypes dataTypes;
         //Java is a case sensitive language.
         //Camel case - Coding Standards.
-        
+
         int batmanbegins; // Less readability
 
         int batmanBegins; //More readability
+
+        var testValue = Boolean.TRUE;
+        if(Boolean.TRUE.equals(testValue)){
+            System.out.println("True");
+        }
+        else{
+            System.out.println("False");
+        }
     }
 }

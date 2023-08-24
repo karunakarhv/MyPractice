@@ -4,7 +4,7 @@ import string
 letters = string.ascii_uppercase + string.ascii_lowercase + string.ascii_letters #+ string.whitespace
 # + string.punctuation
 for j in range(1):
-    shiftType = ''.join(random.choice(letters) for i in range(110))
+    shiftType = ''.join(random.choice(letters) for i in range(31))
     print(shiftType)
 
 
