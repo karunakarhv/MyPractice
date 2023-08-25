@@ -12,7 +12,10 @@
 11. Deep Diff
 12. Python Cloning or Copying a list
 13. Python Tips and Tricks
+14. Python Classes: Blueprint for Structuring Code and Data
 
 # Topics for scheduling
+1. Unit Testing in Python: Ensuring Code Reliability and Quality
+2. Exploring Inheritance and Polymorphism in Python: Building Flexible and Reusable Code
 
 # Topics yet to schedule
