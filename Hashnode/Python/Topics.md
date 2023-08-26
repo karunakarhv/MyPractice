@@ -13,9 +13,10 @@
 12. Python Cloning or Copying a list
 13. Python Tips and Tricks
 14. Python Classes: Blueprint for Structuring Code and Data
+15. Exploring Inheritance and Polymorphism in Python: Building Flexible and Reusable Code
 
 # Topics for scheduling
 1. Unit Testing in Python: Ensuring Code Reliability and Quality
-2. Exploring Inheritance and Polymorphism in Python: Building Flexible and Reusable Code
+2. Dictionaries in Python: Unleashing Key-Value Pair Magic
 
 # Topics yet to schedule
