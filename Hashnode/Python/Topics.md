@@ -14,9 +14,10 @@
 13. Python Tips and Tricks
 14. Python Classes: Blueprint for Structuring Code and Data
 15. Exploring Inheritance and Polymorphism in Python: Building Flexible and Reusable Code
+16. Unit Testing in Python: Ensuring Code Reliability and Quality
 
 # Topics for scheduling
-1. Unit Testing in Python: Ensuring Code Reliability and Quality
-2. Dictionaries in Python: Unleashing Key-Value Pair Magic
+1. Dictionaries in Python: Unleashing Key-Value Pair Magic
+2. Tuples in Python: Immutable and Versatile Data Containers
 
 # Topics yet to schedule

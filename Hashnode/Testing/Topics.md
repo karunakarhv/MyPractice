@@ -7,9 +7,10 @@
 6. Breaking Boundaries: A Guide to Boundary Value Testing in Software Quality
 7. Mastering Performance Testing: Ensuring Your Application's Peak Performance
 8. Pushing Limits: Unveiling the Power of Stress Testing in Software Performance
+9. Simplifying Testing Efforts: Unveiling the Magic of Equivalence Testing
 
 # Topics for scheduling
-1. Simplifying Testing Efforts: Unveiling the Magic of Equivalence Testing
-2. Unveiling Test Coverage: A Guiding Light in Software Testing Excellence
+1. Unveiling Test Coverage: A Guiding Light in Software Testing Excellence
+2. Navigating Software Success: The Power of Requirements Traceability Matrices
 
 # Topics yet to schedule
