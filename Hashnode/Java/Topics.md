@@ -4,9 +4,10 @@
 3. Setting up Development Environment
 4. Java Syntax and Structure
 5. Data Types and Variables
+6. Operators
 
 # Topics for scheduling
-1. Operators
-2. Control Structures
+1. Control Structures
+2. Demystifying Methods and Functions in Java Programming
 
 # Topics yet to schedule
