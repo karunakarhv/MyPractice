@@ -5,9 +5,14 @@
 4. Java Syntax and Structure
 5. Data Types and Variables
 6. Operators
+7. Control Structures
 
 # Topics for scheduling
-1. Control Structures
-2. Demystifying Methods and Functions in Java Programming
+1. Demystifying Methods and Functions in Java Programming
+2. Java Object-Oriented Programming (OOP) Basics: A Comprehensive Guide
+3. Java Object-Oriented Programming (OOP) Basics(Access Modifiers): A Comprehensive Guide
+4. Java Object-Oriented Programming (OOP) Basics(Enapsulation): A Comprehensive Guide
+5. Java Object-Oriented Programming (OOP) Basics(Inheritance): A Comprehensive Guide
+6. Java Object-Oriented Programming (OOP) Basics(Polymorphism): A Comprehensive Guide
 
 # Topics yet to schedule
