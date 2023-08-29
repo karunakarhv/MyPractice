@@ -16,9 +16,10 @@
 15. Exploring Inheritance and Polymorphism in Python: Building Flexible and Reusable Code
 16. Unit Testing in Python: Ensuring Code Reliability and Quality
 17. Dictionaries in Python: Unleashing Key-Value Pair Magic
+18. Tuples in Python: Immutable and Versatile Data Containers
 
 # Topics for scheduling
-1. Tuples in Python: Immutable and Versatile Data Containers
-2. Sets in Python: Harnessing Uniqueness and Set Operations
+1. Sets in Python: Harnessing Uniqueness and Set Operations
+2. 
 
 # Topics yet to schedule
