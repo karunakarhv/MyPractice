@@ -7,12 +7,12 @@
 6. Operators
 7. Control Structures
 8. Demystifying Methods and Functions in Java Programming
+9. Java Object-Oriented Programming (OOP) Basics: A Comprehensive Guide
 
 # Topics for scheduling
-1. Java Object-Oriented Programming (OOP) Basics: A Comprehensive Guide
-2. Java Object-Oriented Programming (OOP) Basics(Access Modifiers): A Comprehensive Guide
-3. Java Object-Oriented Programming (OOP) Basics(Enapsulation): A Comprehensive Guide
-4. Java Object-Oriented Programming (OOP) Basics(Inheritance): A Comprehensive Guide
-5. Java Object-Oriented Programming (OOP) Basics(Polymorphism): A Comprehensive Guide
+1. Java Object-Oriented Programming (OOP) Basics(Access Modifiers): A Comprehensive Guide
+2. Java Object-Oriented Programming (OOP) Basics(Enapsulation): A Comprehensive Guide
+3. Java Object-Oriented Programming (OOP) Basics(Inheritance): A Comprehensive Guide
+4. Java Object-Oriented Programming (OOP) Basics(Polymorphism): A Comprehensive Guide
 
 # Topics yet to schedule

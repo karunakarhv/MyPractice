@@ -10,9 +10,10 @@
 9. Simplifying Testing Efforts: Unveiling the Magic of Equivalence Testing
 10. Unveiling Test Coverage: A Guiding Light in Software Testing Excellence
 11. Navigating Software Success: The Power of Requirements Traceability Matrices
+12. Unlocking Precision: The Art of Crafting Effective Test Case Documents
 
 # Topics for scheduling
-1. Unlocking Precision: The Art of Crafting Effective Test Case Documents
-2. Mastering Bug Reporting: The Art of Communicating Software Glitches Effectively
+1. Mastering Bug Reporting: The Art of Communicating Software Glitches Effectively
+2. Mastering Transparency: Crafting a Comprehensive Test Summary Report
 
 # Topics yet to schedule

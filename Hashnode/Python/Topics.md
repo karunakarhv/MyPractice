@@ -17,9 +17,10 @@
 16. Unit Testing in Python: Ensuring Code Reliability and Quality
 17. Dictionaries in Python: Unleashing Key-Value Pair Magic
 18. Tuples in Python: Immutable and Versatile Data Containers
+19. Sets in Python: Harnessing Uniqueness and Set Operations
 
 # Topics for scheduling
-1. Sets in Python: Harnessing Uniqueness and Set Operations
-2. 
+1. Navigating Date and Time in Python: A Comprehensive Guide
+2. Python Threads: Concurrent Execution Made Effortless
 
 # Topics yet to schedule
