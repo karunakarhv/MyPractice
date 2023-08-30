@@ -13,3 +13,4 @@
 /ui-watch.spec
 *.py[cod]
 *.xml
+/virt
