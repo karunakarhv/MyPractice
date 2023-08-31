@@ -18,9 +18,10 @@
 17. Dictionaries in Python: Unleashing Key-Value Pair Magic
 18. Tuples in Python: Immutable and Versatile Data Containers
 19. Sets in Python: Harnessing Uniqueness and Set Operations
+20. Navigating Date and Time in Python: A Comprehensive Guide
 
 # Topics for scheduling
-1. Navigating Date and Time in Python: A Comprehensive Guide
-2. Python Threads: Concurrent Execution Made Effortless
+1. Python Threads: Concurrent Execution Made Effortless
+2. Thread Synchronization in Python: Maintaining Harmony in Concurrent Execution
 
 # Topics yet to schedule
