@@ -11,9 +11,10 @@
 10. Unveiling Test Coverage: A Guiding Light in Software Testing Excellence
 11. Navigating Software Success: The Power of Requirements Traceability Matrices
 12. Unlocking Precision: The Art of Crafting Effective Test Case Documents
+13. Mastering Bug Reporting: The Art of Communicating Software Glitches Effectively
 
 # Topics for scheduling
-1. Mastering Bug Reporting: The Art of Communicating Software Glitches Effectively
-2. Mastering Transparency: Crafting a Comprehensive Test Summary Report
+1. Mastering Transparency: Crafting a Comprehensive Test Summary Report
+2. Unveiling the Power of Regression Test Results: Ensuring Software Continuity
 
 # Topics yet to schedule
