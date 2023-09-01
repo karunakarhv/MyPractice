@@ -19,9 +19,10 @@
 18. Tuples in Python: Immutable and Versatile Data Containers
 19. Sets in Python: Harnessing Uniqueness and Set Operations
 20. Navigating Date and Time in Python: A Comprehensive Guide
+21. Python Threads: Concurrent Execution Made Effortless
 
 # Topics for scheduling
-1. Python Threads: Concurrent Execution Made Effortless
-2. Thread Synchronization in Python: Maintaining Harmony in Concurrent Execution
+1. Thread Synchronization in Python: Maintaining Harmony in Concurrent Execution
+2. Rotating File Handler in Python Logging: Managing Log Files Like a Pro
 
 # Topics yet to schedule
