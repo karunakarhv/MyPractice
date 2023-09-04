@@ -10,9 +10,10 @@
 9. Java Object-Oriented Programming (OOP) Basics: A Comprehensive Guide
 10. Java Object-Oriented Programming (OOP) Basics(Enapsulation): A Comprehensive Guide
 11. Java Object-Oriented Programming (OOP) Basics(Access Modifiers): A Comprehensive Guide
+12. Java Object-Oriented Programming (OOP) Basics(Inheritance): A Comprehensive Guide
+13. Java Object-Oriented Programming (OOP) Basics(Polymorphism): A Comprehensive Guide
 
 # Topics for scheduling
-1. Java Object-Oriented Programming (OOP) Basics(Inheritance): A Comprehensive Guide
-2. Java Object-Oriented Programming (OOP) Basics(Polymorphism): A Comprehensive Guide
+1. Arrays vs. Lists: Choosing the Right Data Structure in Java
 
 # Topics yet to schedule

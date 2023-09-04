@@ -13,9 +13,11 @@
 12. Unlocking Precision: The Art of Crafting Effective Test Case Documents
 13. Mastering Bug Reporting: The Art of Communicating Software Glitches Effectively
 14. Mastering Transparency: Crafting a Comprehensive Test Summary Report
+15. Unveiling the Power of Regression Test Results: Ensuring Software Continuity
+16. Mastering Quality Assurance: Harnessing the Power of Test Case Management Tools
 
 # Topics for scheduling
-1. Unveiling the Power of Regression Test Results: Ensuring Software Continuity
-2. Mastering Quality Assurance: Harnessing the Power of Test Case Management Tools
+1. Mastering Man-Hour Estimation: A Critical Skill for Project Success
+
 
 # Topics yet to schedule

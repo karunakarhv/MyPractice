@@ -20,9 +20,11 @@
 19. Sets in Python: Harnessing Uniqueness and Set Operations
 20. Navigating Date and Time in Python: A Comprehensive Guide
 21. Python Threads: Concurrent Execution Made Effortless
+22. Thread Synchronization in Python: Maintaining Harmony in Concurrent Execution
+23. Rotating File Handler in Python Logging: Managing Log Files Like a Pro
 
 # Topics for scheduling
-1. Thread Synchronization in Python: Maintaining Harmony in Concurrent Execution
-2. Rotating File Handler in Python Logging: Managing Log Files Like a Pro
+1. The Power of time.sleep() in Python: Pausing Execution Like a Pro
+
 
 # Topics yet to schedule
