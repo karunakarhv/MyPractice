@@ -12,8 +12,9 @@
 11. Java Object-Oriented Programming (OOP) Basics(Access Modifiers): A Comprehensive Guide
 12. Java Object-Oriented Programming (OOP) Basics(Inheritance): A Comprehensive Guide
 13. Java Object-Oriented Programming (OOP) Basics(Polymorphism): A Comprehensive Guide
+14. Arrays vs. Lists: Choosing the Right Data Structure in Java
 
 # Topics for scheduling
-1. Arrays vs. Lists: Choosing the Right Data Structure in Java
+1. 
 
 # Topics yet to schedule

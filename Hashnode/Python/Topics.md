@@ -22,9 +22,10 @@
 21. Python Threads: Concurrent Execution Made Effortless
 22. Thread Synchronization in Python: Maintaining Harmony in Concurrent Execution
 23. Rotating File Handler in Python Logging: Managing Log Files Like a Pro
+24. The Power of time.sleep() in Python: Pausing Execution Like a Pro
 
 # Topics for scheduling
-1. The Power of time.sleep() in Python: Pausing Execution Like a Pro
+1. Design Patterns in Python: Crafting Elegant and Reusable Solutions
 
 
 # Topics yet to schedule
