@@ -15,9 +15,10 @@
 14. Mastering Transparency: Crafting a Comprehensive Test Summary Report
 15. Unveiling the Power of Regression Test Results: Ensuring Software Continuity
 16. Mastering Quality Assurance: Harnessing the Power of Test Case Management Tools
+17. Mastering Man-Hour Estimation: A Critical Skill for Project Success
 
 # Topics for scheduling
-1. Mastering Man-Hour Estimation: A Critical Skill for Project Success
+1. Clearing the Air: Understanding the Significance of Smoke Testing in Software Development"
 
 
 # Topics yet to schedule
