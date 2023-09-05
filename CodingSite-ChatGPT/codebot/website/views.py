@@ -9,7 +9,6 @@ from .models import Code
 # Create your views here.
 
 def home(request):
-    # API Key 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
     lang_list = ['awk', 'bash', 'c', 'clike', 'cpp', 'csharp', 'css', 'gherkin', 'git', 'graphql', 'java', 'javadoc', 'javadoclike', 'javascript', 'json', 'makefile', 'markdown', 'markup', 'powershell', 'python', 'xml-doc', 'yaml']
     if request.method == "POST":
         code = request.POST['code']
@@ -44,7 +43,6 @@ def home(request):
     return render(request, 'home.html', {'lang_list':lang_list})
 
 def suggest(request):
-    # API Key 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
     lang_list = ['awk', 'bash', 'c', 'clike', 'cpp', 'csharp', 'css', 'gherkin', 'git', 'graphql', 'java', 'javadoc', 'javadoclike', 'javascript', 'json', 'makefile', 'markdown', 'markup', 'powershell', 'python', 'xml-doc', 'yaml']
     if request.method == "POST":
         code = request.POST['code']
