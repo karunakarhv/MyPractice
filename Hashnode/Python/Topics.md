@@ -23,9 +23,10 @@
 22. Thread Synchronization in Python: Maintaining Harmony in Concurrent Execution
 23. Rotating File Handler in Python Logging: Managing Log Files Like a Pro
 24. The Power of time.sleep() in Python: Pausing Execution Like a Pro
+25. Design Patterns in Python: Crafting Elegant and Reusable Solutions
 
 # Topics for scheduling
-1. Design Patterns in Python: Crafting Elegant and Reusable Solutions
+1. Observer Pattern in Python: A Blueprint for Event Handling and Communication
 
 
 # Topics yet to schedule

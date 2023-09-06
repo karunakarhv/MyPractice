@@ -16,9 +16,10 @@
 15. Unveiling the Power of Regression Test Results: Ensuring Software Continuity
 16. Mastering Quality Assurance: Harnessing the Power of Test Case Management Tools
 17. Mastering Man-Hour Estimation: A Critical Skill for Project Success
+18. Clearing the Air: Understanding the Significance of Smoke Testing in Software Development"
 
 # Topics for scheduling
-1. Clearing the Air: Understanding the Significance of Smoke Testing in Software Development"
+1. Stitching It Together: The Comprehensive Guide to Integration Testing in Software Development
 
 
 # Topics yet to schedule
