@@ -14,8 +14,9 @@
 13. Java Object-Oriented Programming (OOP) Basics(Polymorphism): A Comprehensive Guide
 14. Arrays vs. Lists: Choosing the Right Data Structure in Java
 15. Basic Input and Output in Java
+16. Exception Handling in Java
 
 # Topics for scheduling
-1. Exception Handling in Java
+1. String Manipulation in Java
 
 # Topics yet to schedule
