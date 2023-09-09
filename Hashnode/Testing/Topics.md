@@ -18,9 +18,12 @@
 17. Mastering Man-Hour Estimation: A Critical Skill for Project Success
 18. Clearing the Air: Understanding the Significance of Smoke Testing in Software Development
 19. Stitching It Together: The Comprehensive Guide to Integration Testing in Software Development
+20. Beyond Functionality: A Deep Dive into Usability Testing for Exceptional User Experiences
+21. Cracking the Code of User Story Testing: A Key to Agile Success
 
 # Topics for scheduling
-1. Beyond Functionality: A Deep Dive into Usability Testing for Exceptional User Experiences
+1. Crunching the Numbers: The Importance of Accuracy Testing in Software Development
+
 
 
 # Topics yet to schedule

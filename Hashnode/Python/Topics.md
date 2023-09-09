@@ -25,9 +25,12 @@
 24. The Power of time.sleep() in Python: Pausing Execution Like a Pro
 25. Design Patterns in Python: Crafting Elegant and Reusable Solutions
 26. Observer Pattern in Python: A Blueprint for Event Handling and Communication
+27. Structural Design Patterns in Python: Crafting Flexible and Efficient Code Structures
+28. Creational Design Patterns in Python: Crafting Objects Creatively and Efficiently
 
 # Topics for scheduling
-1. Structural Design Patterns in Python: Crafting Flexible and Efficient Code Structures
+1. Factory Method Pattern in Python: Crafting Objects Creatively
+2. 
 
 
 # Topics yet to schedule

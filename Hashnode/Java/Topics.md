@@ -15,8 +15,10 @@
 14. Arrays vs. Lists: Choosing the Right Data Structure in Java
 15. Basic Input and Output in Java
 16. Exception Handling in Java
+17. String Manipulation in Java
+18. Type Casting and Conversion in Java
 
 # Topics for scheduling
-1. String Manipulation in Java
+1. 
 
 # Topics yet to schedule
