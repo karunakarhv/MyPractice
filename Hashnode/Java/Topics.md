@@ -17,8 +17,10 @@
 16. Exception Handling in Java
 17. String Manipulation in Java
 18. Type Casting and Conversion in Java
+19. Basic File I/O
+20. Java Standard Library
 
 # Topics for scheduling
-1. 
+1. Collections Framework in Java
 
 # Topics yet to schedule
