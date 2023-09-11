@@ -20,10 +20,10 @@
 19. Stitching It Together: The Comprehensive Guide to Integration Testing in Software Development
 20. Beyond Functionality: A Deep Dive into Usability Testing for Exceptional User Experiences
 21. Cracking the Code of User Story Testing: A Key to Agile Success
+22. Crunching the Numbers: The Importance of Accuracy Testing in Software Development
+23. Navigating the Software Maze: A Deep Dive into State Transition Testing
 
 # Topics for scheduling
-1. Crunching the Numbers: The Importance of Accuracy Testing in Software Development
-
-
+1. Cracking the Code: Combinatorial Testing Strategies for Efficient Software Quality Assurance
 
 # Topics yet to schedule

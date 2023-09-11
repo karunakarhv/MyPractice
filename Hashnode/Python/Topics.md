@@ -27,10 +27,11 @@
 26. Observer Pattern in Python: A Blueprint for Event Handling and Communication
 27. Structural Design Patterns in Python: Crafting Flexible and Efficient Code Structures
 28. Creational Design Patterns in Python: Crafting Objects Creatively and Efficiently
+29. Factory Method Pattern in Python: Crafting Objects Creatively
+30. Abstract Factory Pattern in Python: Crafting Families of Related Objects
 
 # Topics for scheduling
-1. Factory Method Pattern in Python: Crafting Objects Creatively
-2. 
+1. Builder Pattern in Python: Construct Complex Objects Step by Step
 
 
 # Topics yet to schedule
