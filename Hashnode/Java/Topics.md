@@ -19,8 +19,9 @@
 18. Type Casting and Conversion in Java
 19. Basic File I/O
 20. Java Standard Library
+21. Collections Framework in Java
 
 # Topics for scheduling
-1. Collections Framework in Java
+1. Collection - Interfaces in Java
 
 # Topics yet to schedule
