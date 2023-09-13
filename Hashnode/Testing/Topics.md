@@ -23,8 +23,9 @@
 22. Crunching the Numbers: The Importance of Accuracy Testing in Software Development
 23. Navigating the Software Maze: A Deep Dive into State Transition Testing
 24. Cracking the Code: Combinatorial Testing Strategies for Efficient Software Quality Assurance
+25. Unlocking Software Quality: A Deep Dive into Use Case Testing
 
 # Topics for scheduling
-1. Unlocking Software Quality: A Deep Dive into Use Case Testing
+1. Practical Tips and Best Practices for Conducting effective Use Case Testing
 
 # Topics yet to schedule
