@@ -30,9 +30,10 @@
 29. Factory Method Pattern in Python: Crafting Objects Creatively
 30. Abstract Factory Pattern in Python: Crafting Families of Related Objects
 31. Builder Pattern in Python: Construct Complex Objects Step by Step
+32. Prototype Pattern in Python: Cloning Objects for Efficiency
 
 # Topics for scheduling
-1. Prototype Pattern in Python: Cloning Objects for Efficiency
+1. Object Pool Pattern in Python: Efficiently Managing and Reusing Resources
 
 
 # Topics yet to schedule
