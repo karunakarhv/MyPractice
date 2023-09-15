@@ -20,8 +20,10 @@
 19. Basic File I/O
 20. Java Standard Library
 21. Collections Framework in Java
+22. Collection - Interfaces in Java
+23. Set Interface in Java
 
 # Topics for scheduling
-1. Collection - Interfaces in Java
+1. Queue Interface in Java
 
 # Topics yet to schedule
