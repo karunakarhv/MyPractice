@@ -31,9 +31,11 @@
 30. Abstract Factory Pattern in Python: Crafting Families of Related Objects
 31. Builder Pattern in Python: Construct Complex Objects Step by Step
 32. Prototype Pattern in Python: Cloning Objects for Efficiency
+33. Object Pool Pattern in Python: Efficiently Managing and Reusing Resources
+34. Pytest in Python: Simplifying Testing
 
 # Topics for scheduling
-1. Object Pool Pattern in Python: Efficiently Managing and Reusing Resources
+1. Fixtures in Pytest: Reusable Test Setup and Teardown
 
 
 # Topics yet to schedule
