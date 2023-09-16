@@ -25,8 +25,9 @@
 24. Cracking the Code: Combinatorial Testing Strategies for Efficient Software Quality Assurance
 25. Unlocking Software Quality: A Deep Dive into Use Case Testing
 26. Practical Tips and Best Practices for Conducting effective Use Case Testing
+27. Cracking the Code: Navigating Software Complexity with Basis Path Testing
 
 # Topics for scheduling
-1. Cracking the Code: Navigating Software Complexity with Basis Path Testing
+1. Fortifying Your Software: The Ultimate Guide to Security Testing
 
 # Topics yet to schedule
