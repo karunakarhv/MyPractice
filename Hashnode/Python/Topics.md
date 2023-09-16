@@ -33,9 +33,10 @@
 32. Prototype Pattern in Python: Cloning Objects for Efficiency
 33. Object Pool Pattern in Python: Efficiently Managing and Reusing Resources
 34. Pytest in Python: Simplifying Testing
+35. Fixtures in Pytest: Reusable Test Setup and Teardown
 
 # Topics for scheduling
-1. Fixtures in Pytest: Reusable Test Setup and Teardown
+1. Parameterization in Pytest: Running Tests with Multiple Inputs
 
 
 # Topics yet to schedule
