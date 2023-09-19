@@ -34,9 +34,10 @@
 33. Object Pool Pattern in Python: Efficiently Managing and Reusing Resources
 34. Pytest in Python: Simplifying Testing
 35. Fixtures in Pytest: Reusable Test Setup and Teardown
+36. Parameterization in Pytest: Running Tests with Multiple Inputs
 
 # Topics for scheduling
-1. Parameterization in Pytest: Running Tests with Multiple Inputs
+1. Plugins in Pytest: Extending Pytest's Functionality
 
 
 # Topics yet to schedule

@@ -23,8 +23,9 @@
 22. Collection - Interfaces in Java
 23. Set Interface in Java
 24. Queue Interface in Java
+25. Deque Interface in Java
 
 # Topics for scheduling
-1. Deque Interface in Java
+1. Map Interface in Java
 
 # Topics yet to schedule
