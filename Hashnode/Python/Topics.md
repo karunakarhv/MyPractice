@@ -35,9 +35,10 @@
 34. Pytest in Python: Simplifying Testing
 35. Fixtures in Pytest: Reusable Test Setup and Teardown
 36. Parameterization in Pytest: Running Tests with Multiple Inputs
+37. Plugins in Pytest: Extending Pytest's Functionality
 
 # Topics for scheduling
-1. Plugins in Pytest: Extending Pytest's Functionality
+1. Powerful Command Line Options in Pytest
 
 
 # Topics yet to schedule

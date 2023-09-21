@@ -24,8 +24,9 @@
 23. Set Interface in Java
 24. Queue Interface in Java
 25. Deque Interface in Java
+26. Map Interface in Java
 
 # Topics for scheduling
-1. Map Interface in Java
+1. SortedMap Interface in Java
 
 # Topics yet to schedule
