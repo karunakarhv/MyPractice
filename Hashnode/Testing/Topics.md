@@ -27,8 +27,9 @@
 26. Practical Tips and Best Practices for Conducting effective Use Case Testing
 27. Cracking the Code: Navigating Software Complexity with Basis Path Testing
 28. Fortifying Your Software: The Ultimate Guide to Security Testing
+29. Unmasking Vulnerabilities: A Deep Dive into Penetration Testing
 
 # Topics for scheduling
-1. Unmasking Vulnerabilities: A Deep Dive into Penetration Testing
+1. Uncovering Hidden Flaws: The Art of Error Guessing in Software Testing
 
 # Topics yet to schedule
