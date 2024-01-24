@@ -10,9 +10,23 @@
 9. Java Object-Oriented Programming (OOP) Basics: A Comprehensive Guide
 10. Java Object-Oriented Programming (OOP) Basics(Enapsulation): A Comprehensive Guide
 11. Java Object-Oriented Programming (OOP) Basics(Access Modifiers): A Comprehensive Guide
+12. Java Object-Oriented Programming (OOP) Basics(Inheritance): A Comprehensive Guide
+13. Java Object-Oriented Programming (OOP) Basics(Polymorphism): A Comprehensive Guide
+14. Arrays vs. Lists: Choosing the Right Data Structure in Java
+15. Basic Input and Output in Java
+16. Exception Handling in Java
+17. String Manipulation in Java
+18. Type Casting and Conversion in Java
+19. Basic File I/O
+20. Java Standard Library
+21. Collections Framework in Java
+22. Collection - Interfaces in Java
+23. Set Interface in Java
+24. Queue Interface in Java
+25. Deque Interface in Java
+26. Map Interface in Java
 
 # Topics for scheduling
-1. Java Object-Oriented Programming (OOP) Basics(Inheritance): A Comprehensive Guide
-2. Java Object-Oriented Programming (OOP) Basics(Polymorphism): A Comprehensive Guide
+1. SortedMap Interface in Java
 
 # Topics yet to schedule

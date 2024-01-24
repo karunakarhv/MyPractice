@@ -20,9 +20,25 @@
 19. Sets in Python: Harnessing Uniqueness and Set Operations
 20. Navigating Date and Time in Python: A Comprehensive Guide
 21. Python Threads: Concurrent Execution Made Effortless
+22. Thread Synchronization in Python: Maintaining Harmony in Concurrent Execution
+23. Rotating File Handler in Python Logging: Managing Log Files Like a Pro
+24. The Power of time.sleep() in Python: Pausing Execution Like a Pro
+25. Design Patterns in Python: Crafting Elegant and Reusable Solutions
+26. Observer Pattern in Python: A Blueprint for Event Handling and Communication
+27. Structural Design Patterns in Python: Crafting Flexible and Efficient Code Structures
+28. Creational Design Patterns in Python: Crafting Objects Creatively and Efficiently
+29. Factory Method Pattern in Python: Crafting Objects Creatively
+30. Abstract Factory Pattern in Python: Crafting Families of Related Objects
+31. Builder Pattern in Python: Construct Complex Objects Step by Step
+32. Prototype Pattern in Python: Cloning Objects for Efficiency
+33. Object Pool Pattern in Python: Efficiently Managing and Reusing Resources
+34. Pytest in Python: Simplifying Testing
+35. Fixtures in Pytest: Reusable Test Setup and Teardown
+36. Parameterization in Pytest: Running Tests with Multiple Inputs
+37. Plugins in Pytest: Extending Pytest's Functionality
 
 # Topics for scheduling
-1. Thread Synchronization in Python: Maintaining Harmony in Concurrent Execution
-2. Rotating File Handler in Python Logging: Managing Log Files Like a Pro
+1. Powerful Command Line Options in Pytest
+
 
 # Topics yet to schedule
