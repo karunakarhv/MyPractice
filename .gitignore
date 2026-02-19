@@ -14,3 +14,7 @@
 *.py[cod]
 *.xml
 /virt
+*/node_modules
+*.js.map
+*.env
+*/dist
