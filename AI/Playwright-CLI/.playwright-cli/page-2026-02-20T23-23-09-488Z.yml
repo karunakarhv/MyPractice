@@ -1,0 +1,1434 @@
+- generic [ref=e2]:
+  - region "Skip to main content":
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#__docusaurus_skipToContent_fallback"
+  - navigation "Main" [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "Playwright logo Playwright for .NET" [ref=e7] [cursor=pointer]:
+          - /url: /dotnet/
+          - img "Playwright logo" [ref=e9]
+          - generic [ref=e10]: Playwright for .NET
+        - link "Docs" [ref=e11] [cursor=pointer]:
+          - /url: /dotnet/docs/intro
+        - link "API" [ref=e12] [cursor=pointer]:
+          - /url: /dotnet/docs/api/class-playwright
+        - button ".NET" [ref=e14] [cursor=pointer]
+        - link "Community" [ref=e15] [cursor=pointer]:
+          - /url: /dotnet/community/welcome
+      - generic [ref=e16]:
+        - link "GitHub repository" [ref=e17] [cursor=pointer]:
+          - /url: https://github.com/microsoft/playwright-dotnet
+        - link "Discord server" [ref=e18] [cursor=pointer]:
+          - /url: https://aka.ms/playwright/discord
+        - button "Switch between dark and light mode (currently system mode)" [disabled] [ref=e20]:
+          - img [ref=e21]
+        - button "Search (Command+K)" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]:
+            - img [ref=e26]
+            - generic [ref=e28]: Search
+  - generic [ref=e31]:
+    - complementary [ref=e32]:
+      - navigation "Docs sidebar" [ref=e35]:
+        - list [ref=e36]:
+          - listitem [ref=e37]:
+            - button "Getting Started" [expanded] [ref=e39] [cursor=pointer]
+            - list [ref=e40]:
+              - listitem [ref=e41]:
+                - link "Installation" [ref=e42] [cursor=pointer]:
+                  - /url: /dotnet/docs/intro
+              - listitem [ref=e43]:
+                - link "Writing tests" [ref=e44] [cursor=pointer]:
+                  - /url: /dotnet/docs/writing-tests
+              - listitem [ref=e45]:
+                - link "Generating tests" [ref=e46] [cursor=pointer]:
+                  - /url: /dotnet/docs/codegen-intro
+              - listitem [ref=e47]:
+                - link "Running and debugging tests" [ref=e48] [cursor=pointer]:
+                  - /url: /dotnet/docs/running-tests
+              - listitem [ref=e49]:
+                - link "Trace viewer" [ref=e50] [cursor=pointer]:
+                  - /url: /dotnet/docs/trace-viewer-intro
+              - listitem [ref=e51]:
+                - link "Setting up CI" [ref=e52] [cursor=pointer]:
+                  - /url: /dotnet/docs/ci-intro
+              - listitem [ref=e53]:
+                - link "Test Runners" [ref=e54] [cursor=pointer]:
+                  - /url: /dotnet/docs/test-runners
+          - listitem [ref=e55]:
+            - link "Getting started - Library" [ref=e56] [cursor=pointer]:
+              - /url: /dotnet/docs/library
+          - listitem [ref=e57]:
+            - link "Release notes" [ref=e58] [cursor=pointer]:
+              - /url: /dotnet/docs/release-notes
+          - listitem [ref=e59]:
+            - button "Guides" [expanded] [ref=e61] [cursor=pointer]
+            - list [ref=e62]:
+              - listitem [ref=e63]:
+                - link "Actions" [ref=e64] [cursor=pointer]:
+                  - /url: /dotnet/docs/input
+              - listitem [ref=e65]:
+                - link "Auto-waiting" [ref=e66] [cursor=pointer]:
+                  - /url: /dotnet/docs/actionability
+              - listitem [ref=e67]:
+                - link "API testing" [ref=e68] [cursor=pointer]:
+                  - /url: /dotnet/docs/api-testing
+              - listitem [ref=e69]:
+                - link "Assertions" [ref=e70] [cursor=pointer]:
+                  - /url: /dotnet/docs/test-assertions
+              - listitem [ref=e71]:
+                - link "Authentication" [ref=e72] [cursor=pointer]:
+                  - /url: /dotnet/docs/auth
+              - listitem [ref=e73]:
+                - link "Browsers" [ref=e74] [cursor=pointer]:
+                  - /url: /dotnet/docs/browsers
+              - listitem [ref=e75]:
+                - link "Clock" [ref=e76] [cursor=pointer]:
+                  - /url: /dotnet/docs/clock
+              - listitem [ref=e77]:
+                - link "Debugging Tests" [ref=e78] [cursor=pointer]:
+                  - /url: /dotnet/docs/debug
+              - listitem [ref=e79]:
+                - link "Dialogs" [ref=e80] [cursor=pointer]:
+                  - /url: /dotnet/docs/dialogs
+              - listitem [ref=e81]:
+                - link "Downloads" [ref=e82] [cursor=pointer]:
+                  - /url: /dotnet/docs/downloads
+              - listitem [ref=e83]:
+                - link "Emulation" [ref=e84] [cursor=pointer]:
+                  - /url: /dotnet/docs/emulation
+              - listitem [ref=e85]:
+                - link "Evaluating JavaScript" [ref=e86] [cursor=pointer]:
+                  - /url: /dotnet/docs/evaluating
+              - listitem [ref=e87]:
+                - link "Events" [ref=e88] [cursor=pointer]:
+                  - /url: /dotnet/docs/events
+              - listitem [ref=e89]:
+                - link "Extensibility" [ref=e90] [cursor=pointer]:
+                  - /url: /dotnet/docs/extensibility
+              - listitem [ref=e91]:
+                - link "Frames" [ref=e92] [cursor=pointer]:
+                  - /url: /dotnet/docs/frames
+              - listitem [ref=e93]:
+                - link "Handles" [ref=e94] [cursor=pointer]:
+                  - /url: /dotnet/docs/handles
+              - listitem [ref=e95]:
+                - link "Isolation" [ref=e96] [cursor=pointer]:
+                  - /url: /dotnet/docs/browser-contexts
+              - listitem [ref=e97]:
+                - link "Locators" [ref=e98] [cursor=pointer]:
+                  - /url: /dotnet/docs/locators
+              - listitem [ref=e99]:
+                - link "Mock APIs" [ref=e100] [cursor=pointer]:
+                  - /url: /dotnet/docs/mock
+              - listitem [ref=e101]:
+                - link "Navigations" [ref=e102] [cursor=pointer]:
+                  - /url: /dotnet/docs/navigations
+              - listitem [ref=e103]:
+                - link "Network" [ref=e104] [cursor=pointer]:
+                  - /url: /dotnet/docs/network
+              - listitem [ref=e105]:
+                - link "Other locators" [ref=e106] [cursor=pointer]:
+                  - /url: /dotnet/docs/other-locators
+              - listitem [ref=e107]:
+                - link "Pages" [ref=e108] [cursor=pointer]:
+                  - /url: /dotnet/docs/pages
+              - listitem [ref=e109]:
+                - link "Page object models" [ref=e110] [cursor=pointer]:
+                  - /url: /dotnet/docs/pom
+              - listitem [ref=e111]:
+                - link "Screenshots" [ref=e112] [cursor=pointer]:
+                  - /url: /dotnet/docs/screenshots
+              - listitem [ref=e113]:
+                - link "Snapshot testing" [ref=e114] [cursor=pointer]:
+                  - /url: /dotnet/docs/aria-snapshots
+              - listitem [ref=e115]:
+                - link "Test generator" [ref=e116] [cursor=pointer]:
+                  - /url: /dotnet/docs/codegen
+              - listitem [ref=e117]:
+                - link "Touch events (legacy)" [ref=e118] [cursor=pointer]:
+                  - /url: /dotnet/docs/touch-events
+              - listitem [ref=e119]:
+                - link "Trace viewer" [ref=e120] [cursor=pointer]:
+                  - /url: /dotnet/docs/trace-viewer
+              - listitem [ref=e121]:
+                - link "Videos" [ref=e122] [cursor=pointer]:
+                  - /url: /dotnet/docs/videos
+              - listitem [ref=e123]:
+                - link "WebView2" [ref=e124] [cursor=pointer]:
+                  - /url: /dotnet/docs/webview2
+          - listitem [ref=e125]:
+            - button "Integrations" [ref=e127] [cursor=pointer]
+          - listitem [ref=e128]:
+            - link "Supported languages" [ref=e129] [cursor=pointer]:
+              - /url: /dotnet/docs/languages
+    - main [ref=e130]:
+      - generic [ref=e132]:
+        - generic [ref=e134]:
+          - article [ref=e135]:
+            - navigation "Breadcrumbs" [ref=e136]:
+              - list [ref=e137]:
+                - listitem [ref=e138]:
+                  - link "Home page" [ref=e139] [cursor=pointer]:
+                    - /url: /dotnet/
+                    - img [ref=e140]
+                - listitem [ref=e142]:
+                  - generic [ref=e143]: Guides
+                - listitem [ref=e144]:
+                  - generic [ref=e145]: Locators
+            - generic [ref=e146]:
+              - heading "Locators" [level=1] [ref=e148]
+              - heading "IntroductionDirect link to Introduction" [level=2] [ref=e149]:
+                - text: Introduction
+                - link "Direct link to Introduction" [ref=e150] [cursor=pointer]:
+                  - /url: "#introduction"
+                  - text: "#"
+              - paragraph [ref=e151]:
+                - link "Locator" [ref=e152] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator
+                - text: s are the central piece of Playwright's auto-waiting and retry-ability. In a nutshell, locators represent a way to find element(s) on the page at any moment.
+              - heading "Quick GuideDirect link to Quick Guide" [level=3] [ref=e153]:
+                - text: Quick Guide
+                - link "Direct link to Quick Guide" [ref=e154] [cursor=pointer]:
+                  - /url: "#quick-guide"
+                  - text: "#"
+              - paragraph [ref=e155]: These are the recommended built-in locators.
+              - list [ref=e156]:
+                - listitem [ref=e157]:
+                  - link "Page.GetByRole()" [ref=e158] [cursor=pointer]:
+                    - /url: "#locate-by-role"
+                  - text: to locate by explicit and implicit accessibility attributes.
+                - listitem [ref=e159]:
+                  - link "Page.GetByText()" [ref=e160] [cursor=pointer]:
+                    - /url: "#locate-by-text"
+                  - text: to locate by text content.
+                - listitem [ref=e161]:
+                  - link "Page.GetByLabel()" [ref=e162] [cursor=pointer]:
+                    - /url: "#locate-by-label"
+                  - text: to locate a form control by associated label's text.
+                - listitem [ref=e163]:
+                  - link "Page.GetByPlaceholder()" [ref=e164] [cursor=pointer]:
+                    - /url: "#locate-by-placeholder"
+                  - text: to locate an input by placeholder.
+                - listitem [ref=e165]:
+                  - link "Page.GetByAltText()" [ref=e166] [cursor=pointer]:
+                    - /url: "#locate-by-alt-text"
+                  - text: to locate an element, usually image, by its text alternative.
+                - listitem [ref=e167]:
+                  - link "Page.GetByTitle()" [ref=e168] [cursor=pointer]:
+                    - /url: "#locate-by-title"
+                  - text: to locate an element by its title attribute.
+                - listitem [ref=e169]:
+                  - link "Page.GetByTestId()" [ref=e170] [cursor=pointer]:
+                    - /url: "#locate-by-test-id"
+                  - text: to locate an element based on its
+                  - code [ref=e171]: data-testid
+                  - text: attribute (other attributes can be configured).
+              - code [ref=e175]:
+                - generic [ref=e176]: await Page.GetByLabel("User Name").FillAsync("John");
+                - generic [ref=e177]: await Page.GetByLabel("Password").FillAsync("secret-password");
+                - generic [ref=e178]: "await Page.GetByRole(AriaRole.Button, new() { Name = \"Sign in\" }).ClickAsync();"
+                - generic [ref=e179]: await Expect(Page.GetByText("Welcome, John!")).ToBeVisibleAsync();
+              - heading "Locating elementsDirect link to Locating elements" [level=2] [ref=e180]:
+                - text: Locating elements
+                - link "Direct link to Locating elements" [ref=e181] [cursor=pointer]:
+                  - /url: "#locating-elements"
+                  - text: "#"
+              - paragraph [ref=e182]:
+                - text: Playwright comes with multiple built-in locators. To make tests resilient, we recommend prioritizing user-facing attributes and explicit contracts such as
+                - link "Page.GetByRole()" [ref=e183] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-role
+                - text: .
+              - paragraph [ref=e184]: For example, consider the following DOM structure.
+              - generic [ref=e185]:
+                - generic [ref=e191]: http://localhost:3000
+                - generic [ref=e197]:
+                  - button "Sign in" [ref=e200] [cursor=pointer]
+                  - code [ref=e205]:
+                    - generic [ref=e206]: <button>Sign in</button>
+              - paragraph [ref=e207]:
+                - text: Locate the element by its role of
+                - code [ref=e208]: button
+                - text: with name "Sign in".
+              - code [ref=e212]:
+                - generic [ref=e213]: "await Page.GetByRole(AriaRole.Button, new() { Name = \"Sign in\" }).ClickAsync();"
+              - generic [ref=e214]:
+                - generic [ref=e215]:
+                  - img [ref=e217]
+                  - text: note
+                - paragraph [ref=e220]:
+                  - text: Use the
+                  - link "code generator" [ref=e221] [cursor=pointer]:
+                    - /url: /dotnet/docs/codegen
+                  - text: to generate a locator, and then edit it as you'd like.
+              - paragraph [ref=e222]: Every time a locator is used for an action, an up-to-date DOM element is located in the page. In the snippet below, the underlying DOM element will be located twice, once prior to every action. This means that if the DOM changes in between the calls due to re-render, the new element corresponding to the locator will be used.
+              - code [ref=e226]:
+                - generic [ref=e227]: "var locator = Page.GetByRole(AriaRole.Button, new() { Name = \"Sign in\" });"
+                - generic [ref=e228]: await locator.HoverAsync();
+                - generic [ref=e229]: await locator.ClickAsync();
+              - paragraph [ref=e230]:
+                - text: Note that all methods that create a locator, such as
+                - link "Page.GetByLabel()" [ref=e231] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-label
+                - text: ", are also available on the"
+                - link "Locator" [ref=e232] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator
+                - text: and
+                - link "FrameLocator" [ref=e233] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-framelocator
+                - text: classes, so you can chain them and iteratively narrow down your locator.
+              - code [ref=e237]:
+                - generic [ref=e238]: var locator = Page
+                - generic [ref=e239]: .FrameLocator("#my-frame")
+                - generic [ref=e240]: ".GetByRole(AriaRole.Button, new() { Name = \"Sign in\" });"
+                - generic [ref=e241]: await locator.ClickAsync();
+              - heading "Locate by roleDirect link to Locate by role" [level=3] [ref=e242]:
+                - text: Locate by role
+                - link "Direct link to Locate by role" [ref=e243] [cursor=pointer]:
+                  - /url: "#locate-by-role"
+                  - text: "#"
+              - paragraph [ref=e244]:
+                - text: The
+                - link "Page.GetByRole()" [ref=e245] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-role
+                - text: locator reflects how users and assistive technology perceive the page, for example whether some element is a button or a checkbox. When locating by role, you should usually pass the accessible name as well, so that the locator pinpoints the exact element.
+              - paragraph [ref=e246]: For example, consider the following DOM structure.
+              - generic [ref=e247]:
+                - generic [ref=e253]: http://localhost:3000
+                - generic [ref=e259]:
+                  - generic [ref=e261]:
+                    - heading "Sign up" [level=3] [ref=e262]
+                    - paragraph [ref=e264]:
+                      - checkbox "Subscribe Submit" [ref=e265]
+                      - text: Subscribe
+                      - button "Submit" [ref=e266] [cursor=pointer]
+                  - code [ref=e271]:
+                    - generic [ref=e272]: <h3>Sign up</h3>
+                    - generic [ref=e273]: <label>
+                    - generic [ref=e274]: <input type="checkbox" /> Subscribe
+                    - generic [ref=e275]: </label>
+                    - generic [ref=e276]: <br/>
+                    - generic [ref=e277]: <button>Submit</button>
+              - paragraph [ref=e278]: "You can locate each element by its implicit role:"
+              - code [ref=e282]:
+                - generic [ref=e283]: await Expect(Page
+                - generic [ref=e284]: ".GetByRole(AriaRole.Heading, new() { Name = \"Sign up\" }))"
+                - generic [ref=e285]: .ToBeVisibleAsync();
+                - generic [ref=e286]: await Page
+                - generic [ref=e287]: ".GetByRole(AriaRole.Checkbox, new() { Name = \"Subscribe\" })"
+                - generic [ref=e288]: .CheckAsync();
+                - generic [ref=e289]: await Page
+                - generic [ref=e290]: ".GetByRole(AriaRole.Button, new() {"
+                - generic [ref=e291]: NameRegex = new Regex("submit", RegexOptions.IgnoreCase)
+                - generic [ref=e292]: "})"
+                - generic [ref=e293]: .ClickAsync();
+              - paragraph [ref=e294]:
+                - text: Role locators include
+                - link "buttons, checkboxes, headings, links, lists, tables, and many more" [ref=e295] [cursor=pointer]:
+                  - /url: https://www.w3.org/TR/html-aria/#docconformance
+                - text: and follow W3C specifications for
+                - link "ARIA role" [ref=e296] [cursor=pointer]:
+                  - /url: https://www.w3.org/TR/wai-aria-1.2/#roles
+                - text: ","
+                - link "ARIA attributes" [ref=e297] [cursor=pointer]:
+                  - /url: https://www.w3.org/TR/wai-aria-1.2/#aria-attributes
+                - text: and
+                - link "accessible name" [ref=e298] [cursor=pointer]:
+                  - /url: https://w3c.github.io/accname/#dfn-accessible-name
+                - text: . Note that many html elements like
+                - code [ref=e299]: <button>
+                - text: have an
+                - link "implicitly defined role" [ref=e300] [cursor=pointer]:
+                  - /url: https://w3c.github.io/html-aam/#html-element-role-mappings
+                - text: that is recognized by the role locator.
+              - paragraph [ref=e301]:
+                - text: Note that role locators
+                - strong [ref=e302]: do not replace
+                - text: accessibility audits and conformance tests, but rather give early feedback about the ARIA guidelines.
+              - generic [ref=e303]:
+                - generic [ref=e304]:
+                  - img [ref=e306]
+                  - text: When to use role locators
+                - paragraph [ref=e309]: We recommend prioritizing role locators to locate elements, as it is the closest way to how users and assistive technology perceive the page.
+              - heading "Locate by labelDirect link to Locate by label" [level=3] [ref=e310]:
+                - text: Locate by label
+                - link "Direct link to Locate by label" [ref=e311] [cursor=pointer]:
+                  - /url: "#locate-by-label"
+                  - text: "#"
+              - paragraph [ref=e312]:
+                - text: Most form controls usually have dedicated labels that could be conveniently used to interact with the form. In this case, you can locate the control by its associated label using
+                - link "Page.GetByLabel()" [ref=e313] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-label
+                - text: .
+              - paragraph [ref=e314]: For example, consider the following DOM structure.
+              - generic [ref=e315]:
+                - generic [ref=e321]: http://localhost:3000
+                - generic [ref=e327]:
+                  - generic [ref=e330]:
+                    - text: Password
+                    - textbox "Password" [ref=e331]
+                  - code [ref=e336]:
+                    - generic [ref=e337]: <label>Password <input type="password" /></label>
+              - paragraph [ref=e338]: "You can fill the input after locating it by the label text:"
+              - code [ref=e342]:
+                - generic [ref=e343]: await Page.GetByLabel("Password").FillAsync("secret");
+              - generic [ref=e344]:
+                - generic [ref=e345]:
+                  - img [ref=e347]
+                  - text: When to use label locators
+                - paragraph [ref=e350]: Use this locator when locating form fields.
+              - heading "Locate by placeholderDirect link to Locate by placeholder" [level=3] [ref=e351]:
+                - text: Locate by placeholder
+                - link "Direct link to Locate by placeholder" [ref=e352] [cursor=pointer]:
+                  - /url: "#locate-by-placeholder"
+                  - text: "#"
+              - paragraph [ref=e353]:
+                - text: Inputs may have a placeholder attribute to hint to the user what value should be entered. You can locate such an input using
+                - link "Page.GetByPlaceholder()" [ref=e354] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-placeholder
+                - text: .
+              - paragraph [ref=e355]: For example, consider the following DOM structure.
+              - generic [ref=e356]:
+                - generic [ref=e362]: http://localhost:3000
+                - generic [ref=e368]:
+                  - textbox "name@example.com" [ref=e371]
+                  - code [ref=e376]:
+                    - generic [ref=e377]: <input type="email" placeholder="name@example.com" />
+              - paragraph [ref=e378]: "You can fill the input after locating it by the placeholder text:"
+              - code [ref=e382]:
+                - generic [ref=e383]: await Page
+                - generic [ref=e384]: .GetByPlaceholder("name@example.com")
+                - generic [ref=e385]: .FillAsync("playwright@microsoft.com");
+              - generic [ref=e386]:
+                - generic [ref=e387]:
+                  - img [ref=e389]
+                  - text: When to use placeholder locators
+                - paragraph [ref=e392]: Use this locator when locating form elements that do not have labels but do have placeholder texts.
+              - heading "Locate by textDirect link to Locate by text" [level=3] [ref=e393]:
+                - text: Locate by text
+                - link "Direct link to Locate by text" [ref=e394] [cursor=pointer]:
+                  - /url: "#locate-by-text"
+                  - text: "#"
+              - paragraph [ref=e395]:
+                - text: Find an element by the text it contains. You can match by a substring, exact string, or a regular expression when using
+                - link "Page.GetByText()" [ref=e396] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-text
+                - text: .
+              - paragraph [ref=e397]: For example, consider the following DOM structure.
+              - generic [ref=e398]:
+                - generic [ref=e404]: http://localhost:3000
+                - generic [ref=e410]:
+                  - generic [ref=e412]: Welcome, John
+                  - code [ref=e417]:
+                    - generic [ref=e418]: <span>Welcome, John</span>
+              - paragraph [ref=e419]: "You can locate the element by the text it contains:"
+              - code [ref=e423]:
+                - generic [ref=e424]: await Expect(Page.GetByText("Welcome, John")).ToBeVisibleAsync();
+              - paragraph [ref=e425]: "Set an exact match:"
+              - code [ref=e429]:
+                - generic [ref=e430]: await Expect(Page
+                - generic [ref=e431]: ".GetByText(\"Welcome, John\", new() { Exact = true }))"
+                - generic [ref=e432]: .ToBeVisibleAsync();
+              - paragraph [ref=e433]: "Match with a regular expression:"
+              - code [ref=e437]:
+                - generic [ref=e438]: await Expect(Page
+                - generic [ref=e439]: .GetByText(new Regex("welcome, john", RegexOptions.IgnoreCase)))
+                - generic [ref=e440]: .ToBeVisibleAsync();
+              - generic [ref=e441]:
+                - generic [ref=e442]:
+                  - img [ref=e444]
+                  - text: note
+                - paragraph [ref=e447]: Matching by text always normalizes whitespace, even with exact match. For example, it turns multiple spaces into one, turns line breaks into spaces and ignores leading and trailing whitespace.
+              - generic [ref=e448]:
+                - generic [ref=e449]:
+                  - img [ref=e451]
+                  - text: When to use text locators
+                - paragraph [ref=e454]:
+                  - text: We recommend using text locators to find non interactive elements like
+                  - code [ref=e455]: div
+                  - text: ","
+                  - code [ref=e456]: span
+                  - text: ","
+                  - code [ref=e457]: p
+                  - text: ", etc. For interactive elements like"
+                  - code [ref=e458]: button
+                  - text: ","
+                  - code [ref=e459]: a
+                  - text: ","
+                  - code [ref=e460]: input
+                  - text: ", etc. use"
+                  - link "role locators" [ref=e461] [cursor=pointer]:
+                    - /url: "#locate-by-role"
+                  - text: .
+              - paragraph [ref=e462]:
+                - text: You can also
+                - link "filter by text" [ref=e463] [cursor=pointer]:
+                  - /url: "#filter-by-text"
+                - text: which can be useful when trying to find a particular item in a list.
+              - heading "Locate by alt textDirect link to Locate by alt text" [level=3] [ref=e464]:
+                - text: Locate by alt text
+                - link "Direct link to Locate by alt text" [ref=e465] [cursor=pointer]:
+                  - /url: "#locate-by-alt-text"
+                  - text: "#"
+              - paragraph [ref=e466]:
+                - text: All images should have an
+                - code [ref=e467]: alt
+                - text: attribute that describes the image. You can locate an image based on the text alternative using
+                - link "Page.GetByAltText()" [ref=e468] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-alt-text
+                - text: .
+              - paragraph [ref=e469]: For example, consider the following DOM structure.
+              - generic [ref=e470]:
+                - generic [ref=e476]: http://localhost:3000
+                - generic [ref=e482]:
+                  - img "playwright logo" [ref=e485]
+                  - code [ref=e490]:
+                    - generic [ref=e491]: <img alt="playwright logo" src="/img/playwright-logo.svg" width="100" />
+              - paragraph [ref=e492]: "You can click on the image after locating it by the text alternative:"
+              - code [ref=e496]:
+                - generic [ref=e497]: await Page.GetByAltText("playwright logo").ClickAsync();
+              - generic [ref=e498]:
+                - generic [ref=e499]:
+                  - img [ref=e501]
+                  - text: When to use alt locators
+                - paragraph [ref=e504]:
+                  - text: Use this locator when your element supports alt text such as
+                  - code [ref=e505]: img
+                  - text: and
+                  - code [ref=e506]: area
+                  - text: elements.
+              - heading "Locate by titleDirect link to Locate by title" [level=3] [ref=e507]:
+                - text: Locate by title
+                - link "Direct link to Locate by title" [ref=e508] [cursor=pointer]:
+                  - /url: "#locate-by-title"
+                  - text: "#"
+              - paragraph [ref=e509]:
+                - text: Locate an element with a matching title attribute using
+                - link "Page.GetByTitle()" [ref=e510] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-title
+                - text: .
+              - paragraph [ref=e511]: For example, consider the following DOM structure.
+              - generic [ref=e512]:
+                - generic [ref=e518]: http://localhost:3000
+                - generic [ref=e524]:
+                  - generic [ref=e526]: 25 issues
+                  - code [ref=e531]:
+                    - generic [ref=e532]: <span title='Issues count'>25 issues</span>
+              - paragraph [ref=e533]: "You can check the issues count after locating it by the title text:"
+              - code [ref=e537]:
+                - generic [ref=e538]: await Expect(Page.GetByTitle("Issues count")).toHaveText("25 issues");
+              - generic [ref=e539]:
+                - generic [ref=e540]:
+                  - img [ref=e542]
+                  - text: When to use title locators
+                - paragraph [ref=e545]:
+                  - text: Use this locator when your element has the
+                  - code [ref=e546]: title
+                  - text: attribute.
+              - heading "Locate by test idDirect link to Locate by test id" [level=3] [ref=e547]:
+                - text: Locate by test id
+                - link "Direct link to Locate by test id" [ref=e548] [cursor=pointer]:
+                  - /url: "#locate-by-test-id"
+                  - text: "#"
+              - paragraph [ref=e549]:
+                - text: Testing by test ids is the most resilient way of testing as even if your text or role of the attribute changes, the test will still pass. QA's and developers should define explicit test ids and query them with
+                - link "Page.GetByTestId()" [ref=e550] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-test-id
+                - text: . However testing by test ids is not user facing. If the role or text value is important to you then consider using user facing locators such as
+                - link "role" [ref=e551] [cursor=pointer]:
+                  - /url: "#locate-by-role"
+                - text: and
+                - link "text locators" [ref=e552] [cursor=pointer]:
+                  - /url: "#locate-by-text"
+                - text: .
+              - paragraph [ref=e553]: For example, consider the following DOM structure.
+              - generic [ref=e554]:
+                - generic [ref=e560]: http://localhost:3000
+                - generic [ref=e566]:
+                  - button "Itinéraire" [ref=e569] [cursor=pointer]
+                  - code [ref=e574]:
+                    - generic [ref=e575]: <button data-testid="directions">Itinéraire</button>
+              - paragraph [ref=e576]: "You can locate the element by its test id:"
+              - code [ref=e580]:
+                - generic [ref=e581]: await Page.GetByTestId("directions").ClickAsync();
+              - generic [ref=e582]:
+                - generic [ref=e583]:
+                  - img [ref=e585]
+                  - text: When to use testid locators
+                - paragraph [ref=e588]:
+                  - text: You can also use test ids when you choose to use the test id methodology or when you can't locate by
+                  - link "role" [ref=e589] [cursor=pointer]:
+                    - /url: "#locate-by-role"
+                  - text: or
+                  - link "text" [ref=e590] [cursor=pointer]:
+                    - /url: "#locate-by-text"
+                  - text: .
+              - heading "Set a custom test id attributeDirect link to Set a custom test id attribute" [level=4] [ref=e591]:
+                - text: Set a custom test id attribute
+                - link "Direct link to Set a custom test id attribute" [ref=e592] [cursor=pointer]:
+                  - /url: "#set-a-custom-test-id-attribute"
+                  - text: "#"
+              - paragraph [ref=e593]:
+                - text: By default,
+                - link "Page.GetByTestId()" [ref=e594] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-test-id
+                - text: will locate elements based on the
+                - code [ref=e595]: data-testid
+                - text: attribute, but you can configure it in your test config or by calling
+                - link "Selectors.SetTestIdAttribute()" [ref=e596] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-selectors#selectors-set-test-id-attribute
+                - text: .
+              - paragraph [ref=e597]: Set the test id to use a custom data attribute for your tests.
+              - code [ref=e601]:
+                - generic [ref=e602]: playwright.Selectors.SetTestIdAttribute("data-pw");
+              - paragraph [ref=e603]:
+                - text: In your html you can now use
+                - code [ref=e604]: data-pw
+                - text: as your test id instead of the default
+                - code [ref=e605]: data-testid
+                - text: .
+              - generic [ref=e606]:
+                - generic [ref=e612]: http://localhost:3000
+                - generic [ref=e618]:
+                  - button "Itinéraire" [ref=e621] [cursor=pointer]
+                  - code [ref=e626]:
+                    - generic [ref=e627]: <button data-pw="directions">Itinéraire</button>
+              - paragraph [ref=e628]: "And then locate the element as you would normally do:"
+              - code [ref=e632]:
+                - generic [ref=e633]: await Page.GetByTestId("directions").ClickAsync();
+              - heading "Locate by CSS or XPathDirect link to Locate by CSS or XPath" [level=3] [ref=e634]:
+                - text: Locate by CSS or XPath
+                - link "Direct link to Locate by CSS or XPath" [ref=e635] [cursor=pointer]:
+                  - /url: "#locate-by-css-or-xpath"
+                  - text: "#"
+              - paragraph [ref=e636]:
+                - text: If you absolutely must use CSS or XPath locators, you can use
+                - link "Page.Locator()" [ref=e637] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-locator
+                - text: to create a locator that takes a selector describing how to find an element in the page. Playwright supports CSS and XPath selectors, and auto-detects them if you omit
+                - code [ref=e638]: css=
+                - text: or
+                - code [ref=e639]: xpath=
+                - text: prefix.
+              - code [ref=e643]:
+                - generic [ref=e644]: await Page.Locator("css=button").ClickAsync();
+                - generic [ref=e645]: await Page.Locator("xpath=//button").ClickAsync();
+                - generic [ref=e646]: await Page.Locator("button").ClickAsync();
+                - generic [ref=e647]: await Page.Locator("//button").ClickAsync();
+              - paragraph [ref=e648]:
+                - text: XPath and CSS selectors can be tied to the DOM structure or implementation. These selectors can break when the DOM structure changes. Long CSS or XPath chains below are an example of a
+                - strong [ref=e649]: bad practice
+                - text: "that leads to unstable tests:"
+              - code [ref=e653]:
+                - generic [ref=e654]: await Page.Locator("#tsf > div:nth-child(2) > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input").ClickAsync();
+                - generic [ref=e655]: await Page.Locator("//*[@id='tsf']/div[2]/div[1]/div[1]/div/div[2]/input").ClickAsync();
+              - generic [ref=e656]:
+                - generic [ref=e657]:
+                  - img [ref=e659]
+                  - text: When to use this
+                - paragraph [ref=e662]:
+                  - text: CSS and XPath are not recommended as the DOM can often change leading to non resilient tests. Instead, try to come up with a locator that is close to how the user perceives the page such as
+                  - link "role locators" [ref=e663] [cursor=pointer]:
+                    - /url: "#locate-by-role"
+                  - text: or
+                  - link "define an explicit testing contract" [ref=e664] [cursor=pointer]:
+                    - /url: "#locate-by-test-id"
+                  - text: using test ids.
+              - heading "Locate in Shadow DOMDirect link to Locate in Shadow DOM" [level=2] [ref=e665]:
+                - text: Locate in Shadow DOM
+                - link "Direct link to Locate in Shadow DOM" [ref=e666] [cursor=pointer]:
+                  - /url: "#locate-in-shadow-dom"
+                  - text: "#"
+              - paragraph [ref=e667]:
+                - text: All locators in Playwright
+                - strong [ref=e668]: by default
+                - text: "work with elements in Shadow DOM. The exceptions are:"
+              - list [ref=e669]:
+                - listitem [ref=e670]: Locating by XPath does not pierce shadow roots.
+                - listitem [ref=e671]:
+                  - link "Closed-mode shadow roots" [ref=e672] [cursor=pointer]:
+                    - /url: https://developer.mozilla.org/en-US/docs/Web/API/Element/attachShadow#parameters
+                  - text: are not supported.
+              - paragraph [ref=e673]: "Consider the following example with a custom web component:"
+              - code [ref=e677]:
+                - generic [ref=e678]: <x-details role=button aria-expanded=true aria-controls=inner-details>
+                - generic [ref=e679]: <div>Title</div>
+                - generic [ref=e680]: "#shadow-root"
+                - generic [ref=e681]: <div id=inner-details>Details</div>
+                - generic [ref=e682]: </x-details>
+              - paragraph [ref=e683]: You can locate in the same way as if the shadow root was not present at all.
+              - paragraph [ref=e684]:
+                - text: To click
+                - code [ref=e685]: <div>Details</div>
+                - text: ":"
+              - code [ref=e689]:
+                - generic [ref=e690]: await page.GetByText("Details").ClickAsync();
+              - code [ref=e694]:
+                - generic [ref=e695]: <x-details role=button aria-expanded=true aria-controls=inner-details>
+                - generic [ref=e696]: <div>Title</div>
+                - generic [ref=e697]: "#shadow-root"
+                - generic [ref=e698]: <div id=inner-details>Details</div>
+                - generic [ref=e699]: </x-details>
+              - paragraph [ref=e700]:
+                - text: To click
+                - code [ref=e701]: <x-details>
+                - text: ":"
+              - code [ref=e705]:
+                - generic [ref=e706]: await page
+                - generic [ref=e707]: ".Locator(\"x-details\", new() { HasText = \"Details\" })"
+                - generic [ref=e708]: .ClickAsync();
+              - code [ref=e712]:
+                - generic [ref=e713]: <x-details role=button aria-expanded=true aria-controls=inner-details>
+                - generic [ref=e714]: <div>Title</div>
+                - generic [ref=e715]: "#shadow-root"
+                - generic [ref=e716]: <div id=inner-details>Details</div>
+                - generic [ref=e717]: </x-details>
+              - paragraph [ref=e718]:
+                - text: To ensure that
+                - code [ref=e719]: <x-details>
+                - text: "contains the text \"Details\":"
+              - code [ref=e723]:
+                - generic [ref=e724]: await Expect(Page.Locator("x-details")).ToContainTextAsync("Details");
+              - heading "Filtering LocatorsDirect link to Filtering Locators" [level=2] [ref=e725]:
+                - text: Filtering Locators
+                - link "Direct link to Filtering Locators" [ref=e726] [cursor=pointer]:
+                  - /url: "#filtering-locators"
+                  - text: "#"
+              - paragraph [ref=e727]: Consider the following DOM structure where we want to click on the buy button of the second product card. We have a few options in order to filter the locators to get the right one.
+              - generic [ref=e728]:
+                - generic [ref=e734]: http://localhost:3000
+                - generic [ref=e740]:
+                  - list [ref=e743]:
+                    - listitem [ref=e744]:
+                      - heading "Product 1" [level=3] [ref=e745]
+                      - button "Add to cart" [ref=e746] [cursor=pointer]
+                    - listitem [ref=e747]:
+                      - heading "Product 2" [level=3] [ref=e748]
+                      - button "Add to cart" [ref=e749] [cursor=pointer]
+                  - code [ref=e754]:
+                    - generic [ref=e755]: <ul>
+                    - generic [ref=e756]: <li>
+                    - generic [ref=e757]: <h3>Product 1</h3>
+                    - generic [ref=e758]: <button>Add to cart</button>
+                    - generic [ref=e759]: </li>
+                    - generic [ref=e760]: <li>
+                    - generic [ref=e761]: <h3>Product 2</h3>
+                    - generic [ref=e762]: <button>Add to cart</button>
+                    - generic [ref=e763]: </li>
+                    - generic [ref=e764]: </ul>
+              - heading "Filter by textDirect link to Filter by text" [level=3] [ref=e765]:
+                - text: Filter by text
+                - link "Direct link to Filter by text" [ref=e766] [cursor=pointer]:
+                  - /url: "#filter-by-text"
+                  - text: "#"
+              - paragraph [ref=e767]:
+                - text: Locators can be filtered by text with the
+                - link "Locator.Filter()" [ref=e768] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-filter
+                - text: method. It will search for a particular string somewhere inside the element, possibly in a descendant element, case-insensitively. You can also pass a regular expression.
+              - code [ref=e772]:
+                - generic [ref=e773]: await page
+                - generic [ref=e774]: .GetByRole(AriaRole.Listitem)
+                - generic [ref=e775]: ".Filter(new() { HasText = \"Product 2\" })"
+                - generic [ref=e776]: ".GetByRole(AriaRole.Button, new() { Name = \"Add to cart\" })"
+                - generic [ref=e777]: .ClickAsync();
+              - paragraph [ref=e778]: "Use a regular expression:"
+              - code [ref=e782]:
+                - generic [ref=e783]: await page
+                - generic [ref=e784]: .GetByRole(AriaRole.Listitem)
+                - generic [ref=e785]: ".Filter(new() { HasTextRegex = new Regex(\"Product 2\") })"
+                - generic [ref=e786]: ".GetByRole(AriaRole.Button, new() { Name = \"Add to cart\" })"
+                - generic [ref=e787]: .ClickAsync();
+              - heading "Filter by not having textDirect link to Filter by not having text" [level=3] [ref=e788]:
+                - text: Filter by not having text
+                - link "Direct link to Filter by not having text" [ref=e789] [cursor=pointer]:
+                  - /url: "#filter-by-not-having-text"
+                  - text: "#"
+              - paragraph [ref=e790]:
+                - text: Alternatively, filter by
+                - strong [ref=e791]: not having
+                - text: "text:"
+              - code [ref=e795]:
+                - generic [ref=e796]: // 5 in-stock items
+                - generic [ref=e797]: "await Expect(Page.GetByRole(AriaRole.Listitem).Filter(new() { HasNotText = \"Out of stock\" }))"
+                - generic [ref=e798]: .ToHaveCountAsync(5);
+              - heading "Filter by child/descendantDirect link to Filter by child/descendant" [level=3] [ref=e799]:
+                - text: Filter by child/descendant
+                - link "Direct link to Filter by child/descendant" [ref=e800] [cursor=pointer]:
+                  - /url: "#filter-by-childdescendant"
+                  - text: "#"
+              - paragraph [ref=e801]:
+                - text: Locators support an option to only select elements that have or have not a descendant matching another locator. You can therefore filter by any other locator such as a
+                - link "Locator.GetByRole()" [ref=e802] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-get-by-role
+                - text: ","
+                - link "Locator.GetByTestId()" [ref=e803] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-get-by-test-id
+                - text: ","
+                - link "Locator.GetByText()" [ref=e804] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-get-by-text
+                - text: etc.
+              - generic [ref=e805]:
+                - generic [ref=e811]: http://localhost:3000
+                - generic [ref=e817]:
+                  - list [ref=e820]:
+                    - listitem [ref=e821]:
+                      - heading "Product 1" [level=3] [ref=e822]
+                      - button "Add to cart" [ref=e823] [cursor=pointer]
+                    - listitem [ref=e824]:
+                      - heading "Product 2" [level=3] [ref=e825]
+                      - button "Add to cart" [ref=e826] [cursor=pointer]
+                  - code [ref=e831]:
+                    - generic [ref=e832]: <ul>
+                    - generic [ref=e833]: <li>
+                    - generic [ref=e834]: <h3>Product 1</h3>
+                    - generic [ref=e835]: <button>Add to cart</button>
+                    - generic [ref=e836]: </li>
+                    - generic [ref=e837]: <li>
+                    - generic [ref=e838]: <h3>Product 2</h3>
+                    - generic [ref=e839]: <button>Add to cart</button>
+                    - generic [ref=e840]: </li>
+                    - generic [ref=e841]: </ul>
+              - code [ref=e845]:
+                - generic [ref=e846]: await page
+                - generic [ref=e847]: .GetByRole(AriaRole.Listitem)
+                - generic [ref=e848]: ".Filter(new() {"
+                - generic [ref=e849]: "Has = page.GetByRole(AriaRole.Heading, new() {"
+                - generic [ref=e850]: Name = "Product 2"
+                - generic [ref=e851]: "})"
+                - generic [ref=e852]: "})"
+                - generic [ref=e853]: ".GetByRole(AriaRole.Button, new() { Name = \"Add to cart\" })"
+                - generic [ref=e854]: .ClickAsync();
+              - paragraph [ref=e855]: "We can also assert the product card to make sure there is only one:"
+              - code [ref=e859]:
+                - generic [ref=e860]: await Expect(Page
+                - generic [ref=e861]: .GetByRole(AriaRole.Listitem)
+                - generic [ref=e862]: ".Filter(new() {"
+                - generic [ref=e863]: "Has = page.GetByRole(AriaRole.Heading, new() { Name = \"Product 2\" })"
+                - generic [ref=e864]: "}))"
+                - generic [ref=e865]: .ToHaveCountAsync(1);
+              - paragraph [ref=e866]:
+                - text: The filtering locator
+                - strong [ref=e867]: must be relative
+                - text: to the original locator and is queried starting with the original locator match, not the document root. Therefore, the following will not work, because the filtering locator starts matching from the
+                - code [ref=e868]: <ul>
+                - text: list element that is outside of the
+                - code [ref=e869]: <li>
+                - text: "list item matched by the original locator:"
+              - code [ref=e873]:
+                - generic [ref=e874]: // ✖ WRONG
+                - generic [ref=e875]: await Expect(Page
+                - generic [ref=e876]: .GetByRole(AriaRole.Listitem)
+                - generic [ref=e877]: ".Filter(new() {"
+                - generic [ref=e878]: "Has = page.GetByRole(AriaRole.List).GetByRole(AriaRole.Heading, new() { Name = \"Product 2\" })"
+                - generic [ref=e879]: "}))"
+                - generic [ref=e880]: .ToHaveCountAsync(1);
+              - heading "Filter by not having child/descendantDirect link to Filter by not having child/descendant" [level=3] [ref=e881]:
+                - text: Filter by not having child/descendant
+                - link "Direct link to Filter by not having child/descendant" [ref=e882] [cursor=pointer]:
+                  - /url: "#filter-by-not-having-childdescendant"
+                  - text: "#"
+              - paragraph [ref=e883]:
+                - text: We can also filter by
+                - strong [ref=e884]: not having
+                - text: a matching element inside.
+              - code [ref=e888]:
+                - generic [ref=e889]: await Expect(Page
+                - generic [ref=e890]: .GetByRole(AriaRole.Listitem)
+                - generic [ref=e891]: ".Filter(new() {"
+                - generic [ref=e892]: "HasNot = page.GetByRole(AriaRole.Heading, new() { Name = \"Product 2\" })"
+                - generic [ref=e893]: "}))"
+                - generic [ref=e894]: .ToHaveCountAsync(1);
+              - paragraph [ref=e895]: Note that the inner locator is matched starting from the outer one, not from the document root.
+              - heading "Locator operatorsDirect link to Locator operators" [level=2] [ref=e896]:
+                - text: Locator operators
+                - link "Direct link to Locator operators" [ref=e897] [cursor=pointer]:
+                  - /url: "#locator-operators"
+                  - text: "#"
+              - heading "Matching inside a locatorDirect link to Matching inside a locator" [level=3] [ref=e898]:
+                - text: Matching inside a locator
+                - link "Direct link to Matching inside a locator" [ref=e899] [cursor=pointer]:
+                  - /url: "#matching-inside-a-locator"
+                  - text: "#"
+              - paragraph [ref=e900]:
+                - text: You can chain methods that create a locator, like
+                - link "Page.GetByText()" [ref=e901] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-text
+                - text: or
+                - link "Locator.GetByRole()" [ref=e902] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-get-by-role
+                - text: ", to narrow down the search to a particular part of the page."
+              - paragraph [ref=e903]:
+                - text: In this example we first create a locator called product by locating its role of
+                - code [ref=e904]: listitem
+                - text: . We then filter by text. We can use the product locator again to get by role of button and click it and then use an assertion to make sure there is only one product with the text "Product 2".
+              - code [ref=e908]:
+                - generic [ref=e909]: var product = page
+                - generic [ref=e910]: .GetByRole(AriaRole.Listitem)
+                - generic [ref=e911]: ".Filter(new() { HasText = \"Product 2\" });"
+                - generic [ref=e912]: await product
+                - generic [ref=e913]: ".GetByRole(AriaRole.Button, new() { Name = \"Add to cart\" })"
+                - generic [ref=e914]: .ClickAsync();
+              - paragraph [ref=e915]: "You can also chain two locators together, for example to find a \"Save\" button inside a particular dialog:"
+              - code [ref=e919]:
+                - generic [ref=e920]: "var saveButton = page.GetByRole(AriaRole.Button, new() { Name = \"Save\" });"
+                - generic [ref=e921]: // ...
+                - generic [ref=e922]: var dialog = page.GetByTestId("settings-dialog");
+                - generic [ref=e923]: await dialog.Locator(saveButton).ClickAsync();
+              - heading "Matching two locators simultaneouslyDirect link to Matching two locators simultaneously" [level=3] [ref=e924]:
+                - text: Matching two locators simultaneously
+                - link "Direct link to Matching two locators simultaneously" [ref=e925] [cursor=pointer]:
+                  - /url: "#matching-two-locators-simultaneously"
+                  - text: "#"
+              - paragraph [ref=e926]:
+                - text: Method
+                - link "Locator.And()" [ref=e927] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-and
+                - text: narrows down an existing locator by matching an additional locator. For example, you can combine
+                - link "Page.GetByRole()" [ref=e928] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-role
+                - text: and
+                - link "Page.GetByTitle()" [ref=e929] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-title
+                - text: to match by both role and title.
+              - code [ref=e933]:
+                - generic [ref=e934]: var button = page.GetByRole(AriaRole.Button).And(page.GetByTitle("Subscribe"));
+              - heading "Matching one of the two alternative locatorsDirect link to Matching one of the two alternative locators" [level=3] [ref=e935]:
+                - text: Matching one of the two alternative locators
+                - link "Direct link to Matching one of the two alternative locators" [ref=e936] [cursor=pointer]:
+                  - /url: "#matching-one-of-the-two-alternative-locators"
+                  - text: "#"
+              - paragraph [ref=e937]:
+                - text: If you'd like to target one of the two or more elements, and you don't know which one it will be, use
+                - link "Locator.Or()" [ref=e938] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-or
+                - text: to create a locator that matches any one or both of the alternatives.
+              - paragraph [ref=e939]: For example, consider a scenario where you'd like to click on a "New email" button, but sometimes a security settings dialog shows up instead. In this case, you can wait for either a "New email" button, or a dialog and act accordingly.
+              - generic [ref=e940]:
+                - generic [ref=e941]:
+                  - img [ref=e943]
+                  - text: note
+                - paragraph [ref=e946]:
+                  - text: If both "New email" button and security dialog appear on screen, the "or" locator will match both of them, possibly throwing the
+                  - link "\"strict mode violation\" error" [ref=e947] [cursor=pointer]:
+                    - /url: "#strictness"
+                  - text: . In this case, you can use
+                  - link "Locator.First" [ref=e948] [cursor=pointer]:
+                    - /url: /dotnet/docs/api/class-locator#locator-first
+                  - text: to only match one of them.
+              - code [ref=e952]:
+                - generic [ref=e953]: "var newEmail = page.GetByRole(AriaRole.Button, new() { Name = \"New\" });"
+                - generic [ref=e954]: var dialog = page.GetByText("Confirm security settings");
+                - generic [ref=e955]: await Expect(newEmail.Or(dialog).First).ToBeVisibleAsync();
+                - generic [ref=e956]: if (await dialog.IsVisibleAsync())
+                - generic [ref=e957]: "await page.GetByRole(AriaRole.Button, new() { Name = \"Dismiss\" }).ClickAsync();"
+                - generic [ref=e958]: await newEmail.ClickAsync();
+              - heading "Matching only visible elementsDirect link to Matching only visible elements" [level=3] [ref=e959]:
+                - text: Matching only visible elements
+                - link "Direct link to Matching only visible elements" [ref=e960] [cursor=pointer]:
+                  - /url: "#matching-only-visible-elements"
+                  - text: "#"
+              - generic [ref=e961]:
+                - generic [ref=e962]:
+                  - img [ref=e964]
+                  - text: note
+                - paragraph [ref=e967]:
+                  - text: It's usually better to find a
+                  - link "more reliable way" [ref=e968] [cursor=pointer]:
+                    - /url: /dotnet/docs/locators#quick-guide
+                  - text: to uniquely identify the element instead of checking the visibility.
+              - paragraph [ref=e969]:
+                - text: Consider a page with two buttons, the first invisible and the second
+                - link "visible" [ref=e970] [cursor=pointer]:
+                  - /url: /dotnet/docs/actionability#visible
+                - text: .
+              - code [ref=e974]:
+                - generic [ref=e975]: "<button style='display: none'>Invisible</button>"
+                - generic [ref=e976]: <button>Visible</button>
+              - list [ref=e977]:
+                - listitem [ref=e978]:
+                  - paragraph [ref=e979]:
+                    - text: This will find both buttons and throw a
+                    - link "strictness" [ref=e980] [cursor=pointer]:
+                      - /url: /dotnet/docs/locators#strictness
+                    - text: "violation error:"
+                  - code [ref=e984]:
+                    - generic [ref=e985]: await page.Locator("button").ClickAsync();
+                - listitem [ref=e986]:
+                  - paragraph [ref=e987]: This will only find a second button, because it is visible, and then click it.
+                  - code [ref=e991]:
+                    - generic [ref=e992]: "await page.Locator(\"button\").Filter(new() { Visible = true }).ClickAsync();"
+              - heading "ListsDirect link to Lists" [level=2] [ref=e993]:
+                - text: Lists
+                - link "Direct link to Lists" [ref=e994] [cursor=pointer]:
+                  - /url: "#lists"
+                  - text: "#"
+              - heading "Count items in a listDirect link to Count items in a list" [level=3] [ref=e995]:
+                - text: Count items in a list
+                - link "Direct link to Count items in a list" [ref=e996] [cursor=pointer]:
+                  - /url: "#count-items-in-a-list"
+                  - text: "#"
+              - paragraph [ref=e997]: You can assert locators in order to count the items in a list.
+              - paragraph [ref=e998]: "For example, consider the following DOM structure:"
+              - generic [ref=e999]:
+                - generic [ref=e1005]: http://localhost:3000
+                - generic [ref=e1011]:
+                  - list [ref=e1014]:
+                    - listitem [ref=e1015]: apple
+                    - listitem [ref=e1016]: banana
+                    - listitem [ref=e1017]: orange
+                  - code [ref=e1022]:
+                    - generic [ref=e1023]: <ul>
+                    - generic [ref=e1024]: <li>apple</li>
+                    - generic [ref=e1025]: <li>banana</li>
+                    - generic [ref=e1026]: <li>orange</li>
+                    - generic [ref=e1027]: </ul>
+              - paragraph [ref=e1028]: Use the count assertion to ensure that the list has 3 items.
+              - code [ref=e1032]:
+                - generic [ref=e1033]: await Expect(Page.GetByRole(AriaRole.Listitem)).ToHaveCountAsync(3);
+              - heading "Assert all text in a listDirect link to Assert all text in a list" [level=3] [ref=e1034]:
+                - text: Assert all text in a list
+                - link "Direct link to Assert all text in a list" [ref=e1035] [cursor=pointer]:
+                  - /url: "#assert-all-text-in-a-list"
+                  - text: "#"
+              - paragraph [ref=e1036]: You can assert locators in order to find all the text in a list.
+              - paragraph [ref=e1037]: "For example, consider the following DOM structure:"
+              - generic [ref=e1038]:
+                - generic [ref=e1044]: http://localhost:3000
+                - generic [ref=e1050]:
+                  - list [ref=e1053]:
+                    - listitem [ref=e1054]: apple
+                    - listitem [ref=e1055]: banana
+                    - listitem [ref=e1056]: orange
+                  - code [ref=e1061]:
+                    - generic [ref=e1062]: <ul>
+                    - generic [ref=e1063]: <li>apple</li>
+                    - generic [ref=e1064]: <li>banana</li>
+                    - generic [ref=e1065]: <li>orange</li>
+                    - generic [ref=e1066]: </ul>
+              - paragraph [ref=e1067]:
+                - text: Use
+                - link "Expect(Locator).ToHaveTextAsync()" [ref=e1068] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locatorassertions#locator-assertions-to-have-text
+                - text: to ensure that the list has the text "apple", "banana" and "orange".
+              - code [ref=e1072]:
+                - generic [ref=e1073]: await Expect(Page
+                - generic [ref=e1074]: .GetByRole(AriaRole.Listitem))
+                - generic [ref=e1075]: ".ToHaveTextAsync(new string[] {\"apple\", \"banana\", \"orange\"});"
+              - heading "Get a specific itemDirect link to Get a specific item" [level=3] [ref=e1076]:
+                - text: Get a specific item
+                - link "Direct link to Get a specific item" [ref=e1077] [cursor=pointer]:
+                  - /url: "#get-a-specific-item"
+                  - text: "#"
+              - paragraph [ref=e1078]: There are many ways to get a specific item in a list.
+              - heading "Get by textDirect link to Get by text" [level=4] [ref=e1079]:
+                - text: Get by text
+                - link "Direct link to Get by text" [ref=e1080] [cursor=pointer]:
+                  - /url: "#get-by-text"
+                  - text: "#"
+              - paragraph [ref=e1081]:
+                - text: Use the
+                - link "Page.GetByText()" [ref=e1082] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-text
+                - text: method to locate an element in a list by its text content and then click on it.
+              - paragraph [ref=e1083]: "For example, consider the following DOM structure:"
+              - generic [ref=e1084]:
+                - generic [ref=e1090]: http://localhost:3000
+                - generic [ref=e1096]:
+                  - list [ref=e1099]:
+                    - listitem [ref=e1100]: apple
+                    - listitem [ref=e1101]: banana
+                    - listitem [ref=e1102]: orange
+                  - code [ref=e1107]:
+                    - generic [ref=e1108]: <ul>
+                    - generic [ref=e1109]: <li>apple</li>
+                    - generic [ref=e1110]: <li>banana</li>
+                    - generic [ref=e1111]: <li>orange</li>
+                    - generic [ref=e1112]: </ul>
+              - paragraph [ref=e1113]: Locate an item by its text content and click it.
+              - code [ref=e1117]:
+                - generic [ref=e1118]: await page.GetByText("orange").ClickAsync();
+              - heading "Filter by textDirect link to Filter by text" [level=4] [ref=e1119]:
+                - text: Filter by text
+                - link "Direct link to Filter by text" [ref=e1120] [cursor=pointer]:
+                  - /url: "#filter-by-text-1"
+                  - text: "#"
+              - paragraph [ref=e1121]:
+                - text: Use the
+                - link "Locator.Filter()" [ref=e1122] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-filter
+                - text: to locate a specific item in a list.
+              - paragraph [ref=e1123]: "For example, consider the following DOM structure:"
+              - generic [ref=e1124]:
+                - generic [ref=e1130]: http://localhost:3000
+                - generic [ref=e1136]:
+                  - list [ref=e1139]:
+                    - listitem [ref=e1140]: apple
+                    - listitem [ref=e1141]: banana
+                    - listitem [ref=e1142]: orange
+                  - code [ref=e1147]:
+                    - generic [ref=e1148]: <ul>
+                    - generic [ref=e1149]: <li>apple</li>
+                    - generic [ref=e1150]: <li>banana</li>
+                    - generic [ref=e1151]: <li>orange</li>
+                    - generic [ref=e1152]: </ul>
+              - paragraph [ref=e1153]: Locate an item by the role of "listitem" and then filter by the text of "orange" and then click it.
+              - code [ref=e1157]:
+                - generic [ref=e1158]: await page
+                - generic [ref=e1159]: .GetByRole(AriaRole.Listitem)
+                - generic [ref=e1160]: ".Filter(new() { HasText = \"orange\" })"
+                - generic [ref=e1161]: .ClickAsync();
+              - heading "Get by test idDirect link to Get by test id" [level=4] [ref=e1162]:
+                - text: Get by test id
+                - link "Direct link to Get by test id" [ref=e1163] [cursor=pointer]:
+                  - /url: "#get-by-test-id"
+                  - text: "#"
+              - paragraph [ref=e1164]:
+                - text: Use the
+                - link "Page.GetByTestId()" [ref=e1165] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-page#page-get-by-test-id
+                - text: method to locate an element in a list. You may need to modify the html and add a test id if you don't already have a test id.
+              - paragraph [ref=e1166]: "For example, consider the following DOM structure:"
+              - generic [ref=e1167]:
+                - generic [ref=e1173]: http://localhost:3000
+                - generic [ref=e1179]:
+                  - list [ref=e1182]:
+                    - listitem [ref=e1183]: apple
+                    - listitem [ref=e1184]: banana
+                    - listitem [ref=e1185]: orange
+                  - code [ref=e1190]:
+                    - generic [ref=e1191]: <ul>
+                    - generic [ref=e1192]: <li data-testid='apple'>apple</li>
+                    - generic [ref=e1193]: <li data-testid='banana'>banana</li>
+                    - generic [ref=e1194]: <li data-testid='orange'>orange</li>
+                    - generic [ref=e1195]: </ul>
+              - paragraph [ref=e1196]: Locate an item by its test id of "orange" and then click it.
+              - code [ref=e1200]:
+                - generic [ref=e1201]: await page.GetByTestId("orange").ClickAsync();
+              - heading "Get by nth itemDirect link to Get by nth item" [level=4] [ref=e1202]:
+                - text: Get by nth item
+                - link "Direct link to Get by nth item" [ref=e1203] [cursor=pointer]:
+                  - /url: "#get-by-nth-item"
+                  - text: "#"
+              - paragraph [ref=e1204]:
+                - text: If you have a list of identical elements, and the only way to distinguish between them is the order, you can choose a specific element from a list with
+                - link "Locator.First" [ref=e1205] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-first
+                - text: ","
+                - link "Locator.Last" [ref=e1206] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-last
+                - text: or
+                - link "Locator.Nth()" [ref=e1207] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-nth
+                - text: .
+              - code [ref=e1211]:
+                - generic [ref=e1212]: var banana = await page.GetByRole(AriaRole.Listitem).Nth(1);
+              - paragraph [ref=e1213]:
+                - text: However, use this method with caution. Often times, the page might change, and the locator will point to a completely different element from the one you expected. Instead, try to come up with a unique locator that will pass the
+                - link "strictness criteria" [ref=e1214] [cursor=pointer]:
+                  - /url: "#strictness"
+                - text: .
+              - heading "Chaining filtersDirect link to Chaining filters" [level=3] [ref=e1215]:
+                - text: Chaining filters
+                - link "Direct link to Chaining filters" [ref=e1216] [cursor=pointer]:
+                  - /url: "#chaining-filters"
+                  - text: "#"
+              - paragraph [ref=e1217]:
+                - text: When you have elements with various similarities, you can use the
+                - link "Locator.Filter()" [ref=e1218] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-filter
+                - text: method to select the right one. You can also chain multiple filters to narrow down the selection.
+              - paragraph [ref=e1219]: "For example, consider the following DOM structure:"
+              - generic [ref=e1220]:
+                - generic [ref=e1226]: http://localhost:3000
+                - generic [ref=e1232]:
+                  - list [ref=e1235]:
+                    - listitem [ref=e1236]:
+                      - generic [ref=e1237]: John
+                      - button "Say hello" [ref=e1239] [cursor=pointer]
+                    - listitem [ref=e1240]:
+                      - generic [ref=e1241]: Mary
+                      - button "Say hello" [ref=e1243] [cursor=pointer]
+                    - listitem [ref=e1244]:
+                      - generic [ref=e1245]: John
+                      - button "Say goodbye" [ref=e1247] [cursor=pointer]
+                    - listitem [ref=e1248]:
+                      - generic [ref=e1249]: Mary
+                      - button "Say goodbye" [ref=e1251] [cursor=pointer]
+                  - code [ref=e1256]:
+                    - generic [ref=e1257]: <ul>
+                    - generic [ref=e1258]: <li>
+                    - generic [ref=e1259]: <div>John</div>
+                    - generic [ref=e1260]: <div><button>Say hello</button></div>
+                    - generic [ref=e1261]: </li>
+                    - generic [ref=e1262]: <li>
+                    - generic [ref=e1263]: <div>Mary</div>
+                    - generic [ref=e1264]: <div><button>Say hello</button></div>
+                    - generic [ref=e1265]: </li>
+                    - generic [ref=e1266]: <li>
+                    - generic [ref=e1267]: <div>John</div>
+                    - generic [ref=e1268]: <div><button>Say goodbye</button></div>
+                    - generic [ref=e1269]: </li>
+                    - generic [ref=e1270]: <li>
+                    - generic [ref=e1271]: <div>Mary</div>
+                    - generic [ref=e1272]: <div><button>Say goodbye</button></div>
+                    - generic [ref=e1273]: </li>
+                    - generic [ref=e1274]: </ul>
+              - paragraph [ref=e1275]: "To take a screenshot of the row with \"Mary\" and \"Say goodbye\":"
+              - code [ref=e1279]:
+                - generic [ref=e1280]: var rowLocator = page.GetByRole(AriaRole.Listitem);
+                - generic [ref=e1281]: await rowLocator
+                - generic [ref=e1282]: ".Filter(new() { HasText = \"Mary\" })"
+                - generic [ref=e1283]: ".Filter(new() {"
+                - generic [ref=e1284]: "Has = page.GetByRole(AriaRole.Button, new() { Name = \"Say goodbye\" })"
+                - generic [ref=e1285]: "})"
+                - generic [ref=e1286]: ".ScreenshotAsync(new() { Path = \"screenshot.png\" });"
+              - paragraph [ref=e1287]: You should now have a "screenshot.png" file in your project's root directory.
+              - heading "Rare use casesDirect link to Rare use cases" [level=3] [ref=e1288]:
+                - text: Rare use cases
+                - link "Direct link to Rare use cases" [ref=e1289] [cursor=pointer]:
+                  - /url: "#rare-use-cases"
+                  - text: "#"
+              - heading "Do something with each element in the listDirect link to Do something with each element in the list" [level=4] [ref=e1290]:
+                - text: Do something with each element in the list
+                - link "Direct link to Do something with each element in the list" [ref=e1291] [cursor=pointer]:
+                  - /url: "#do-something-with-each-element-in-the-list"
+                  - text: "#"
+              - paragraph [ref=e1292]: "Iterate elements:"
+              - code [ref=e1296]:
+                - generic [ref=e1297]: foreach (var row in await page.GetByRole(AriaRole.Listitem).AllAsync())
+                - generic [ref=e1298]: Console.WriteLine(await row.TextContentAsync());
+              - paragraph [ref=e1299]: "Iterate using regular for loop:"
+              - code [ref=e1303]:
+                - generic [ref=e1304]: var rows = page.GetByRole(AriaRole.Listitem);
+                - generic [ref=e1305]: var count = await rows.CountAsync();
+                - generic [ref=e1306]: for (int i = 0; i < count; ++i)
+                - generic [ref=e1307]: Console.WriteLine(await rows.Nth(i).TextContentAsync());
+              - heading "Evaluate in the pageDirect link to Evaluate in the page" [level=4] [ref=e1308]:
+                - text: Evaluate in the page
+                - link "Direct link to Evaluate in the page" [ref=e1309] [cursor=pointer]:
+                  - /url: "#evaluate-in-the-page"
+                  - text: "#"
+              - paragraph [ref=e1310]:
+                - text: The code inside
+                - link "Locator.EvaluateAllAsync()" [ref=e1311] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-evaluate-all
+                - text: runs in the page, you can call any DOM apis there.
+              - code [ref=e1315]:
+                - generic [ref=e1316]: var rows = page.GetByRole(AriaRole.Listitem);
+                - generic [ref=e1317]: var texts = await rows.EvaluateAllAsync(
+                - generic [ref=e1318]: "\"list => list.map(element => element.textContent)\");"
+              - heading "StrictnessDirect link to Strictness" [level=2] [ref=e1319]:
+                - text: Strictness
+                - link "Direct link to Strictness" [ref=e1320] [cursor=pointer]:
+                  - /url: "#strictness"
+                  - text: "#"
+              - paragraph [ref=e1321]: "Locators are strict. This means that all operations on locators that imply some target DOM element will throw an exception if more than one element matches. For example, the following call throws if there are several buttons in the DOM:"
+              - heading "Throws an error if more than oneDirect link to Throws an error if more than one" [level=4] [ref=e1322]:
+                - text: Throws an error if more than one
+                - link "Direct link to Throws an error if more than one" [ref=e1323] [cursor=pointer]:
+                  - /url: "#throws-an-error-if-more-than-one"
+                  - text: "#"
+              - code [ref=e1327]:
+                - generic [ref=e1328]: await page.GetByRole(AriaRole.Button).ClickAsync();
+              - paragraph [ref=e1329]: On the other hand, Playwright understands when you perform a multiple-element operation, so the following call works perfectly fine when the locator resolves to multiple elements.
+              - heading "Works fine with multiple elementsDirect link to Works fine with multiple elements" [level=4] [ref=e1330]:
+                - text: Works fine with multiple elements
+                - link "Direct link to Works fine with multiple elements" [ref=e1331] [cursor=pointer]:
+                  - /url: "#works-fine-with-multiple-elements"
+                  - text: "#"
+              - code [ref=e1335]:
+                - generic [ref=e1336]: await page.GetByRole(AriaRole.Button).CountAsync();
+              - paragraph [ref=e1337]:
+                - text: You can explicitly opt-out from strictness check by telling Playwright which element to use when multiple elements match, through
+                - link "Locator.First" [ref=e1338] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-first
+                - text: ","
+                - link "Locator.Last" [ref=e1339] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-last
+                - text: ", and"
+                - link "Locator.Nth()" [ref=e1340] [cursor=pointer]:
+                  - /url: /dotnet/docs/api/class-locator#locator-nth
+                - text: . These methods are
+                - strong [ref=e1341]: not recommended
+                - text: because when your page changes, Playwright may click on an element you did not intend. Instead, follow best practices above to create a locator that uniquely identifies the target element.
+              - heading "More LocatorsDirect link to More Locators" [level=2] [ref=e1342]:
+                - text: More Locators
+                - link "Direct link to More Locators" [ref=e1343] [cursor=pointer]:
+                  - /url: "#more-locators"
+                  - text: "#"
+              - paragraph [ref=e1344]:
+                - text: For less commonly used locators, look at the
+                - link "other locators" [ref=e1345] [cursor=pointer]:
+                  - /url: /dotnet/docs/other-locators
+                - text: guide.
+          - navigation "Docs pages" [ref=e1346]:
+            - link "Previous « Isolation" [ref=e1347] [cursor=pointer]:
+              - /url: /dotnet/docs/browser-contexts
+              - generic [ref=e1348]: Previous
+              - generic [ref=e1349]: « Isolation
+            - link "Next Mock APIs »" [ref=e1350] [cursor=pointer]:
+              - /url: /dotnet/docs/mock
+              - generic [ref=e1351]: Next
+              - generic [ref=e1352]: Mock APIs »
+        - list [ref=e1355]:
+          - listitem [ref=e1356]:
+            - link "Introduction" [ref=e1357] [cursor=pointer]:
+              - /url: "#introduction"
+            - list [ref=e1358]:
+              - listitem [ref=e1359]:
+                - link "Quick Guide" [ref=e1360] [cursor=pointer]:
+                  - /url: "#quick-guide"
+          - listitem [ref=e1361]:
+            - link "Locating elements" [ref=e1362] [cursor=pointer]:
+              - /url: "#locating-elements"
+            - list [ref=e1363]:
+              - listitem [ref=e1364]:
+                - link "Locate by role" [ref=e1365] [cursor=pointer]:
+                  - /url: "#locate-by-role"
+              - listitem [ref=e1366]:
+                - link "Locate by label" [ref=e1367] [cursor=pointer]:
+                  - /url: "#locate-by-label"
+              - listitem [ref=e1368]:
+                - link "Locate by placeholder" [ref=e1369] [cursor=pointer]:
+                  - /url: "#locate-by-placeholder"
+              - listitem [ref=e1370]:
+                - link "Locate by text" [ref=e1371] [cursor=pointer]:
+                  - /url: "#locate-by-text"
+              - listitem [ref=e1372]:
+                - link "Locate by alt text" [ref=e1373] [cursor=pointer]:
+                  - /url: "#locate-by-alt-text"
+              - listitem [ref=e1374]:
+                - link "Locate by title" [ref=e1375] [cursor=pointer]:
+                  - /url: "#locate-by-title"
+              - listitem [ref=e1376]:
+                - link "Locate by test id" [ref=e1377] [cursor=pointer]:
+                  - /url: "#locate-by-test-id"
+              - listitem [ref=e1378]:
+                - link "Locate by CSS or XPath" [ref=e1379] [cursor=pointer]:
+                  - /url: "#locate-by-css-or-xpath"
+          - listitem [ref=e1380]:
+            - link "Locate in Shadow DOM" [ref=e1381] [cursor=pointer]:
+              - /url: "#locate-in-shadow-dom"
+          - listitem [ref=e1382]:
+            - link "Filtering Locators" [ref=e1383] [cursor=pointer]:
+              - /url: "#filtering-locators"
+            - list [ref=e1384]:
+              - listitem [ref=e1385]:
+                - link "Filter by text" [ref=e1386] [cursor=pointer]:
+                  - /url: "#filter-by-text"
+              - listitem [ref=e1387]:
+                - link "Filter by not having text" [ref=e1388] [cursor=pointer]:
+                  - /url: "#filter-by-not-having-text"
+              - listitem [ref=e1389]:
+                - link "Filter by child/descendant" [ref=e1390] [cursor=pointer]:
+                  - /url: "#filter-by-childdescendant"
+              - listitem [ref=e1391]:
+                - link "Filter by not having child/descendant" [ref=e1392] [cursor=pointer]:
+                  - /url: "#filter-by-not-having-childdescendant"
+          - listitem [ref=e1393]:
+            - link "Locator operators" [ref=e1394] [cursor=pointer]:
+              - /url: "#locator-operators"
+            - list [ref=e1395]:
+              - listitem [ref=e1396]:
+                - link "Matching inside a locator" [ref=e1397] [cursor=pointer]:
+                  - /url: "#matching-inside-a-locator"
+              - listitem [ref=e1398]:
+                - link "Matching two locators simultaneously" [ref=e1399] [cursor=pointer]:
+                  - /url: "#matching-two-locators-simultaneously"
+              - listitem [ref=e1400]:
+                - link "Matching one of the two alternative locators" [ref=e1401] [cursor=pointer]:
+                  - /url: "#matching-one-of-the-two-alternative-locators"
+              - listitem [ref=e1402]:
+                - link "Matching only visible elements" [ref=e1403] [cursor=pointer]:
+                  - /url: "#matching-only-visible-elements"
+          - listitem [ref=e1404]:
+            - link "Lists" [ref=e1405] [cursor=pointer]:
+              - /url: "#lists"
+            - list [ref=e1406]:
+              - listitem [ref=e1407]:
+                - link "Count items in a list" [ref=e1408] [cursor=pointer]:
+                  - /url: "#count-items-in-a-list"
+              - listitem [ref=e1409]:
+                - link "Assert all text in a list" [ref=e1410] [cursor=pointer]:
+                  - /url: "#assert-all-text-in-a-list"
+              - listitem [ref=e1411]:
+                - link "Get a specific item" [ref=e1412] [cursor=pointer]:
+                  - /url: "#get-a-specific-item"
+              - listitem [ref=e1413]:
+                - link "Chaining filters" [ref=e1414] [cursor=pointer]:
+                  - /url: "#chaining-filters"
+              - listitem [ref=e1415]:
+                - link "Rare use cases" [ref=e1416] [cursor=pointer]:
+                  - /url: "#rare-use-cases"
+          - listitem [ref=e1417]:
+            - link "Strictness" [ref=e1418] [cursor=pointer]:
+              - /url: "#strictness"
+          - listitem [ref=e1419]:
+            - link "More Locators" [ref=e1420] [cursor=pointer]:
+              - /url: "#more-locators"
+  - contentinfo [ref=e1421]:
+    - generic [ref=e1422]:
+      - generic [ref=e1423]:
+        - generic [ref=e1424]:
+          - generic [ref=e1425]: Learn
+          - list [ref=e1426]:
+            - listitem [ref=e1427]:
+              - link "Getting started" [ref=e1428] [cursor=pointer]:
+                - /url: /dotnet/docs/intro
+            - listitem [ref=e1429]:
+              - link "Playwright Training" [ref=e1430] [cursor=pointer]:
+                - /url: https://learn.microsoft.com/en-us/training/modules/build-with-playwright/
+                - text: Playwright Training
+                - img [ref=e1431]
+            - listitem [ref=e1433]:
+              - link "Learn Videos" [ref=e1434] [cursor=pointer]:
+                - /url: /dotnet/community/learn-videos
+            - listitem [ref=e1435]:
+              - link "Feature Videos" [ref=e1436] [cursor=pointer]:
+                - /url: /dotnet/community/feature-videos
+        - generic [ref=e1437]:
+          - generic [ref=e1438]: Community
+          - list [ref=e1439]:
+            - listitem [ref=e1440]:
+              - link "Stack Overflow" [ref=e1441] [cursor=pointer]:
+                - /url: https://stackoverflow.com/questions/tagged/playwright
+                - text: Stack Overflow
+                - img [ref=e1442]
+            - listitem [ref=e1444]:
+              - link "Discord" [ref=e1445] [cursor=pointer]:
+                - /url: https://aka.ms/playwright/discord
+                - text: Discord
+                - img [ref=e1446]
+            - listitem [ref=e1448]:
+              - link "Twitter" [ref=e1449] [cursor=pointer]:
+                - /url: https://twitter.com/playwrightweb
+                - text: Twitter
+                - img [ref=e1450]
+            - listitem [ref=e1452]:
+              - link "LinkedIn" [ref=e1453] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/playwrightweb
+                - text: LinkedIn
+                - img [ref=e1454]
+        - generic [ref=e1456]:
+          - generic [ref=e1457]: More
+          - list [ref=e1458]:
+            - listitem [ref=e1459]:
+              - link "GitHub" [ref=e1460] [cursor=pointer]:
+                - /url: https://github.com/microsoft/playwright-dotnet
+                - text: GitHub
+                - img [ref=e1461]
+            - listitem [ref=e1463]:
+              - link "YouTube" [ref=e1464] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg
+                - text: YouTube
+                - img [ref=e1465]
+            - listitem [ref=e1467]:
+              - link "Blog" [ref=e1468] [cursor=pointer]:
+                - /url: https://dev.to/playwright
+                - text: Blog
+                - img [ref=e1469]
+            - listitem [ref=e1471]:
+              - link "Ambassadors" [ref=e1472] [cursor=pointer]:
+                - /url: /dotnet/community/ambassadors
+      - generic [ref=e1474]: Copyright © 2026 Microsoft

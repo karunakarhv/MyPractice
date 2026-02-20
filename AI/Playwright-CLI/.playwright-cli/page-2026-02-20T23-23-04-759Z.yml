@@ -1,0 +1,1443 @@
+- generic [ref=e2]:
+  - region "Skip to main content":
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#__docusaurus_skipToContent_fallback"
+  - navigation "Main" [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "Playwright logo Playwright for Java" [ref=e7] [cursor=pointer]:
+          - /url: /java/
+          - img "Playwright logo" [ref=e9]
+          - generic [ref=e10]: Playwright for Java
+        - link "Docs" [ref=e11] [cursor=pointer]:
+          - /url: /java/docs/intro
+        - link "API" [ref=e12] [cursor=pointer]:
+          - /url: /java/docs/api/class-playwright
+        - button "Java" [ref=e14] [cursor=pointer]
+        - link "Community" [ref=e15] [cursor=pointer]:
+          - /url: /java/community/welcome
+      - generic [ref=e16]:
+        - link "GitHub repository" [ref=e17] [cursor=pointer]:
+          - /url: https://github.com/microsoft/playwright-java
+        - link "Discord server" [ref=e18] [cursor=pointer]:
+          - /url: https://aka.ms/playwright/discord
+        - button "Switch between dark and light mode (currently system mode)" [disabled] [ref=e20]:
+          - img [ref=e21]
+        - button "Search (Command+K)" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]:
+            - img [ref=e26]
+            - generic [ref=e28]: Search
+  - generic [ref=e31]:
+    - complementary [ref=e32]:
+      - navigation "Docs sidebar" [ref=e35]:
+        - list [ref=e36]:
+          - listitem [ref=e37]:
+            - button "Getting Started" [expanded] [ref=e39] [cursor=pointer]
+            - list [ref=e40]:
+              - listitem [ref=e41]:
+                - link "Installation" [ref=e42] [cursor=pointer]:
+                  - /url: /java/docs/intro
+              - listitem [ref=e43]:
+                - link "Writing tests" [ref=e44] [cursor=pointer]:
+                  - /url: /java/docs/writing-tests
+              - listitem [ref=e45]:
+                - link "Generating tests" [ref=e46] [cursor=pointer]:
+                  - /url: /java/docs/codegen-intro
+              - listitem [ref=e47]:
+                - link "Running and debugging tests" [ref=e48] [cursor=pointer]:
+                  - /url: /java/docs/running-tests
+              - listitem [ref=e49]:
+                - link "Trace viewer" [ref=e50] [cursor=pointer]:
+                  - /url: /java/docs/trace-viewer-intro
+              - listitem [ref=e51]:
+                - link "Setting up CI" [ref=e52] [cursor=pointer]:
+                  - /url: /java/docs/ci-intro
+              - listitem [ref=e53]:
+                - link "Test Runners" [ref=e54] [cursor=pointer]:
+                  - /url: /java/docs/test-runners
+              - listitem [ref=e55]:
+                - link "JUnit (experimental)" [ref=e56] [cursor=pointer]:
+                  - /url: /java/docs/junit
+          - listitem [ref=e57]:
+            - link "Release notes" [ref=e58] [cursor=pointer]:
+              - /url: /java/docs/release-notes
+          - listitem [ref=e59]:
+            - button "Guides" [expanded] [ref=e61] [cursor=pointer]
+            - list [ref=e62]:
+              - listitem [ref=e63]:
+                - link "Accessibility testing" [ref=e64] [cursor=pointer]:
+                  - /url: /java/docs/accessibility-testing
+              - listitem [ref=e65]:
+                - link "Actions" [ref=e66] [cursor=pointer]:
+                  - /url: /java/docs/input
+              - listitem [ref=e67]:
+                - link "Auto-waiting" [ref=e68] [cursor=pointer]:
+                  - /url: /java/docs/actionability
+              - listitem [ref=e69]:
+                - link "API testing" [ref=e70] [cursor=pointer]:
+                  - /url: /java/docs/api-testing
+              - listitem [ref=e71]:
+                - link "Assertions" [ref=e72] [cursor=pointer]:
+                  - /url: /java/docs/test-assertions
+              - listitem [ref=e73]:
+                - link "Authentication" [ref=e74] [cursor=pointer]:
+                  - /url: /java/docs/auth
+              - listitem [ref=e75]:
+                - link "Browsers" [ref=e76] [cursor=pointer]:
+                  - /url: /java/docs/browsers
+              - listitem [ref=e77]:
+                - link "Clock" [ref=e78] [cursor=pointer]:
+                  - /url: /java/docs/clock
+              - listitem [ref=e79]:
+                - link "Dialogs" [ref=e80] [cursor=pointer]:
+                  - /url: /java/docs/dialogs
+              - listitem [ref=e81]:
+                - link "Debugging Tests" [ref=e82] [cursor=pointer]:
+                  - /url: /java/docs/debug
+              - listitem [ref=e83]:
+                - link "Downloads" [ref=e84] [cursor=pointer]:
+                  - /url: /java/docs/downloads
+              - listitem [ref=e85]:
+                - link "Emulation" [ref=e86] [cursor=pointer]:
+                  - /url: /java/docs/emulation
+              - listitem [ref=e87]:
+                - link "Evaluating JavaScript" [ref=e88] [cursor=pointer]:
+                  - /url: /java/docs/evaluating
+              - listitem [ref=e89]:
+                - link "Events" [ref=e90] [cursor=pointer]:
+                  - /url: /java/docs/events
+              - listitem [ref=e91]:
+                - link "Extensibility" [ref=e92] [cursor=pointer]:
+                  - /url: /java/docs/extensibility
+              - listitem [ref=e93]:
+                - link "Frames" [ref=e94] [cursor=pointer]:
+                  - /url: /java/docs/frames
+              - listitem [ref=e95]:
+                - link "Handles" [ref=e96] [cursor=pointer]:
+                  - /url: /java/docs/handles
+              - listitem [ref=e97]:
+                - link "Isolation" [ref=e98] [cursor=pointer]:
+                  - /url: /java/docs/browser-contexts
+              - listitem [ref=e99]:
+                - link "Locators" [ref=e100] [cursor=pointer]:
+                  - /url: /java/docs/locators
+              - listitem [ref=e101]:
+                - link "Mock APIs" [ref=e102] [cursor=pointer]:
+                  - /url: /java/docs/mock
+              - listitem [ref=e103]:
+                - link "Multithreading" [ref=e104] [cursor=pointer]:
+                  - /url: /java/docs/multithreading
+              - listitem [ref=e105]:
+                - link "Navigations" [ref=e106] [cursor=pointer]:
+                  - /url: /java/docs/navigations
+              - listitem [ref=e107]:
+                - link "Network" [ref=e108] [cursor=pointer]:
+                  - /url: /java/docs/network
+              - listitem [ref=e109]:
+                - link "Other locators" [ref=e110] [cursor=pointer]:
+                  - /url: /java/docs/other-locators
+              - listitem [ref=e111]:
+                - link "Pages" [ref=e112] [cursor=pointer]:
+                  - /url: /java/docs/pages
+              - listitem [ref=e113]:
+                - link "Page object models" [ref=e114] [cursor=pointer]:
+                  - /url: /java/docs/pom
+              - listitem [ref=e115]:
+                - link "Screenshots" [ref=e116] [cursor=pointer]:
+                  - /url: /java/docs/screenshots
+              - listitem [ref=e117]:
+                - link "Snapshot testing" [ref=e118] [cursor=pointer]:
+                  - /url: /java/docs/aria-snapshots
+              - listitem [ref=e119]:
+                - link "Test generator" [ref=e120] [cursor=pointer]:
+                  - /url: /java/docs/codegen
+              - listitem [ref=e121]:
+                - link "Touch events (legacy)" [ref=e122] [cursor=pointer]:
+                  - /url: /java/docs/touch-events
+              - listitem [ref=e123]:
+                - link "Trace viewer" [ref=e124] [cursor=pointer]:
+                  - /url: /java/docs/trace-viewer
+              - listitem [ref=e125]:
+                - link "Videos" [ref=e126] [cursor=pointer]:
+                  - /url: /java/docs/videos
+              - listitem [ref=e127]:
+                - link "WebView2" [ref=e128] [cursor=pointer]:
+                  - /url: /java/docs/webview2
+          - listitem [ref=e129]:
+            - button "Integrations" [ref=e131] [cursor=pointer]
+          - listitem [ref=e132]:
+            - link "Supported languages" [ref=e133] [cursor=pointer]:
+              - /url: /java/docs/languages
+    - main [ref=e134]:
+      - generic [ref=e136]:
+        - generic [ref=e138]:
+          - article [ref=e139]:
+            - navigation "Breadcrumbs" [ref=e140]:
+              - list [ref=e141]:
+                - listitem [ref=e142]:
+                  - link "Home page" [ref=e143] [cursor=pointer]:
+                    - /url: /java/
+                    - img [ref=e144]
+                - listitem [ref=e146]:
+                  - generic [ref=e147]: Guides
+                - listitem [ref=e148]:
+                  - generic [ref=e149]: Locators
+            - generic [ref=e150]:
+              - heading "Locators" [level=1] [ref=e152]
+              - heading "IntroductionDirect link to Introduction" [level=2] [ref=e153]:
+                - text: Introduction
+                - link "Direct link to Introduction" [ref=e154] [cursor=pointer]:
+                  - /url: "#introduction"
+                  - text: "#"
+              - paragraph [ref=e155]:
+                - link "Locator" [ref=e156] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator
+                - text: s are the central piece of Playwright's auto-waiting and retry-ability. In a nutshell, locators represent a way to find element(s) on the page at any moment.
+              - heading "Quick GuideDirect link to Quick Guide" [level=3] [ref=e157]:
+                - text: Quick Guide
+                - link "Direct link to Quick Guide" [ref=e158] [cursor=pointer]:
+                  - /url: "#quick-guide"
+                  - text: "#"
+              - paragraph [ref=e159]: These are the recommended built-in locators.
+              - list [ref=e160]:
+                - listitem [ref=e161]:
+                  - link "Page.getByRole()" [ref=e162] [cursor=pointer]:
+                    - /url: "#locate-by-role"
+                  - text: to locate by explicit and implicit accessibility attributes.
+                - listitem [ref=e163]:
+                  - link "Page.getByText()" [ref=e164] [cursor=pointer]:
+                    - /url: "#locate-by-text"
+                  - text: to locate by text content.
+                - listitem [ref=e165]:
+                  - link "Page.getByLabel()" [ref=e166] [cursor=pointer]:
+                    - /url: "#locate-by-label"
+                  - text: to locate a form control by associated label's text.
+                - listitem [ref=e167]:
+                  - link "Page.getByPlaceholder()" [ref=e168] [cursor=pointer]:
+                    - /url: "#locate-by-placeholder"
+                  - text: to locate an input by placeholder.
+                - listitem [ref=e169]:
+                  - link "Page.getByAltText()" [ref=e170] [cursor=pointer]:
+                    - /url: "#locate-by-alt-text"
+                  - text: to locate an element, usually image, by its text alternative.
+                - listitem [ref=e171]:
+                  - link "Page.getByTitle()" [ref=e172] [cursor=pointer]:
+                    - /url: "#locate-by-title"
+                  - text: to locate an element by its title attribute.
+                - listitem [ref=e173]:
+                  - link "Page.getByTestId()" [ref=e174] [cursor=pointer]:
+                    - /url: "#locate-by-test-id"
+                  - text: to locate an element based on its
+                  - code [ref=e175]: data-testid
+                  - text: attribute (other attributes can be configured).
+              - code [ref=e179]:
+                - generic [ref=e180]: page.getByLabel("User Name").fill("John");
+                - generic [ref=e181]: page.getByLabel("Password").fill("secret-password");
+                - generic [ref=e182]: page.getByRole(AriaRole.BUTTON, new Page.GetByRoleOptions().setName("Sign in"))
+                - generic [ref=e183]: .click();
+                - generic [ref=e184]: assertThat(page.getByText("Welcome, John!")).isVisible();
+              - heading "Locating elementsDirect link to Locating elements" [level=2] [ref=e185]:
+                - text: Locating elements
+                - link "Direct link to Locating elements" [ref=e186] [cursor=pointer]:
+                  - /url: "#locating-elements"
+                  - text: "#"
+              - paragraph [ref=e187]:
+                - text: Playwright comes with multiple built-in locators. To make tests resilient, we recommend prioritizing user-facing attributes and explicit contracts such as
+                - link "Page.getByRole()" [ref=e188] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-role
+                - text: .
+              - paragraph [ref=e189]: For example, consider the following DOM structure.
+              - generic [ref=e190]:
+                - generic [ref=e196]: http://localhost:3000
+                - generic [ref=e202]:
+                  - button "Sign in" [ref=e205] [cursor=pointer]
+                  - code [ref=e210]:
+                    - generic [ref=e211]: <button>Sign in</button>
+              - paragraph [ref=e212]:
+                - text: Locate the element by its role of
+                - code [ref=e213]: button
+                - text: with name "Sign in".
+              - code [ref=e217]:
+                - generic [ref=e218]: page.getByRole(AriaRole.BUTTON, new Page.GetByRoleOptions().setName("Sign in"))
+                - generic [ref=e219]: .click();
+              - generic [ref=e220]:
+                - generic [ref=e221]:
+                  - img [ref=e223]
+                  - text: note
+                - paragraph [ref=e226]:
+                  - text: Use the
+                  - link "code generator" [ref=e227] [cursor=pointer]:
+                    - /url: /java/docs/codegen
+                  - text: to generate a locator, and then edit it as you'd like.
+              - paragraph [ref=e228]: Every time a locator is used for an action, an up-to-date DOM element is located in the page. In the snippet below, the underlying DOM element will be located twice, once prior to every action. This means that if the DOM changes in between the calls due to re-render, the new element corresponding to the locator will be used.
+              - code [ref=e232]:
+                - generic [ref=e233]: Locator locator = page.getByRole(AriaRole.BUTTON,
+                - generic [ref=e234]: new Page.GetByRoleOptions().setName("Sign in"));
+                - generic [ref=e235]: locator.hover();
+                - generic [ref=e236]: locator.click();
+              - paragraph [ref=e237]:
+                - text: Note that all methods that create a locator, such as
+                - link "Page.getByLabel()" [ref=e238] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-label
+                - text: ", are also available on the"
+                - link "Locator" [ref=e239] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator
+                - text: and
+                - link "FrameLocator" [ref=e240] [cursor=pointer]:
+                  - /url: /java/docs/api/class-framelocator
+                - text: classes, so you can chain them and iteratively narrow down your locator.
+              - code [ref=e244]:
+                - generic [ref=e245]: Locator locator = page
+                - generic [ref=e246]: .frameLocator("#my-frame")
+                - generic [ref=e247]: .getByRole(AriaRole.BUTTON, new Page.GetByRoleOptions().setName("Sign in"));
+                - generic [ref=e248]: locator.click();
+              - heading "Locate by roleDirect link to Locate by role" [level=3] [ref=e249]:
+                - text: Locate by role
+                - link "Direct link to Locate by role" [ref=e250] [cursor=pointer]:
+                  - /url: "#locate-by-role"
+                  - text: "#"
+              - paragraph [ref=e251]:
+                - text: The
+                - link "Page.getByRole()" [ref=e252] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-role
+                - text: locator reflects how users and assistive technology perceive the page, for example whether some element is a button or a checkbox. When locating by role, you should usually pass the accessible name as well, so that the locator pinpoints the exact element.
+              - paragraph [ref=e253]: For example, consider the following DOM structure.
+              - generic [ref=e254]:
+                - generic [ref=e260]: http://localhost:3000
+                - generic [ref=e266]:
+                  - generic [ref=e268]:
+                    - heading "Sign up" [level=3] [ref=e269]
+                    - paragraph [ref=e271]:
+                      - checkbox "Subscribe Submit" [ref=e272]
+                      - text: Subscribe
+                      - button "Submit" [ref=e273] [cursor=pointer]
+                  - code [ref=e278]:
+                    - generic [ref=e279]: <h3>Sign up</h3>
+                    - generic [ref=e280]: <label>
+                    - generic [ref=e281]: <input type="checkbox" /> Subscribe
+                    - generic [ref=e282]: </label>
+                    - generic [ref=e283]: <br/>
+                    - generic [ref=e284]: <button>Submit</button>
+              - paragraph [ref=e285]: "You can locate each element by its implicit role:"
+              - code [ref=e289]:
+                - generic [ref=e290]: assertThat(page
+                - generic [ref=e291]: .getByRole(AriaRole.HEADING,
+                - generic [ref=e292]: new Page.GetByRoleOptions().setName("Sign up")))
+                - generic [ref=e293]: .isVisible();
+                - generic [ref=e294]: page.getByRole(AriaRole.CHECKBOX,
+                - generic [ref=e295]: new Page.GetByRoleOptions().setName("Subscribe"))
+                - generic [ref=e296]: .check();
+                - generic [ref=e297]: page.getByRole(AriaRole.BUTTON,
+                - generic [ref=e298]: new Page.GetByRoleOptions().setName(
+                - generic [ref=e299]: Pattern.compile("submit", Pattern.CASE_INSENSITIVE)))
+                - generic [ref=e300]: .click();
+              - paragraph [ref=e301]:
+                - text: Role locators include
+                - link "buttons, checkboxes, headings, links, lists, tables, and many more" [ref=e302] [cursor=pointer]:
+                  - /url: https://www.w3.org/TR/html-aria/#docconformance
+                - text: and follow W3C specifications for
+                - link "ARIA role" [ref=e303] [cursor=pointer]:
+                  - /url: https://www.w3.org/TR/wai-aria-1.2/#roles
+                - text: ","
+                - link "ARIA attributes" [ref=e304] [cursor=pointer]:
+                  - /url: https://www.w3.org/TR/wai-aria-1.2/#aria-attributes
+                - text: and
+                - link "accessible name" [ref=e305] [cursor=pointer]:
+                  - /url: https://w3c.github.io/accname/#dfn-accessible-name
+                - text: . Note that many html elements like
+                - code [ref=e306]: <button>
+                - text: have an
+                - link "implicitly defined role" [ref=e307] [cursor=pointer]:
+                  - /url: https://w3c.github.io/html-aam/#html-element-role-mappings
+                - text: that is recognized by the role locator.
+              - paragraph [ref=e308]:
+                - text: Note that role locators
+                - strong [ref=e309]: do not replace
+                - text: accessibility audits and conformance tests, but rather give early feedback about the ARIA guidelines.
+              - generic [ref=e310]:
+                - generic [ref=e311]:
+                  - img [ref=e313]
+                  - text: When to use role locators
+                - paragraph [ref=e316]: We recommend prioritizing role locators to locate elements, as it is the closest way to how users and assistive technology perceive the page.
+              - heading "Locate by labelDirect link to Locate by label" [level=3] [ref=e317]:
+                - text: Locate by label
+                - link "Direct link to Locate by label" [ref=e318] [cursor=pointer]:
+                  - /url: "#locate-by-label"
+                  - text: "#"
+              - paragraph [ref=e319]:
+                - text: Most form controls usually have dedicated labels that could be conveniently used to interact with the form. In this case, you can locate the control by its associated label using
+                - link "Page.getByLabel()" [ref=e320] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-label
+                - text: .
+              - paragraph [ref=e321]: For example, consider the following DOM structure.
+              - generic [ref=e322]:
+                - generic [ref=e328]: http://localhost:3000
+                - generic [ref=e334]:
+                  - generic [ref=e337]:
+                    - text: Password
+                    - textbox "Password" [ref=e338]
+                  - code [ref=e343]:
+                    - generic [ref=e344]: <label>Password <input type="password" /></label>
+              - paragraph [ref=e345]: "You can fill the input after locating it by the label text:"
+              - code [ref=e349]:
+                - generic [ref=e350]: page.getByLabel("Password").fill("secret");
+              - generic [ref=e351]:
+                - generic [ref=e352]:
+                  - img [ref=e354]
+                  - text: When to use label locators
+                - paragraph [ref=e357]: Use this locator when locating form fields.
+              - heading "Locate by placeholderDirect link to Locate by placeholder" [level=3] [ref=e358]:
+                - text: Locate by placeholder
+                - link "Direct link to Locate by placeholder" [ref=e359] [cursor=pointer]:
+                  - /url: "#locate-by-placeholder"
+                  - text: "#"
+              - paragraph [ref=e360]:
+                - text: Inputs may have a placeholder attribute to hint to the user what value should be entered. You can locate such an input using
+                - link "Page.getByPlaceholder()" [ref=e361] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-placeholder
+                - text: .
+              - paragraph [ref=e362]: For example, consider the following DOM structure.
+              - generic [ref=e363]:
+                - generic [ref=e369]: http://localhost:3000
+                - generic [ref=e375]:
+                  - textbox "name@example.com" [ref=e378]
+                  - code [ref=e383]:
+                    - generic [ref=e384]: <input type="email" placeholder="name@example.com" />
+              - paragraph [ref=e385]: "You can fill the input after locating it by the placeholder text:"
+              - code [ref=e389]:
+                - generic [ref=e390]: page.getByPlaceholder("name@example.com").fill("playwright@microsoft.com");
+              - generic [ref=e391]:
+                - generic [ref=e392]:
+                  - img [ref=e394]
+                  - text: When to use placeholder locators
+                - paragraph [ref=e397]: Use this locator when locating form elements that do not have labels but do have placeholder texts.
+              - heading "Locate by textDirect link to Locate by text" [level=3] [ref=e398]:
+                - text: Locate by text
+                - link "Direct link to Locate by text" [ref=e399] [cursor=pointer]:
+                  - /url: "#locate-by-text"
+                  - text: "#"
+              - paragraph [ref=e400]:
+                - text: Find an element by the text it contains. You can match by a substring, exact string, or a regular expression when using
+                - link "Page.getByText()" [ref=e401] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-text
+                - text: .
+              - paragraph [ref=e402]: For example, consider the following DOM structure.
+              - generic [ref=e403]:
+                - generic [ref=e409]: http://localhost:3000
+                - generic [ref=e415]:
+                  - generic [ref=e417]: Welcome, John
+                  - code [ref=e422]:
+                    - generic [ref=e423]: <span>Welcome, John</span>
+              - paragraph [ref=e424]: "You can locate the element by the text it contains:"
+              - code [ref=e428]:
+                - generic [ref=e429]: assertThat(page.getByText("Welcome, John")).isVisible();
+              - paragraph [ref=e430]: "Set an exact match:"
+              - code [ref=e434]:
+                - generic [ref=e435]: assertThat(page
+                - generic [ref=e436]: .getByText("Welcome, John", new Page.GetByTextOptions().setExact(true)))
+                - generic [ref=e437]: .isVisible();
+              - paragraph [ref=e438]: "Match with a regular expression:"
+              - code [ref=e442]:
+                - generic [ref=e443]: assertThat(page
+                - generic [ref=e444]: .getByText(Pattern.compile("welcome, john$", Pattern.CASE_INSENSITIVE)))
+                - generic [ref=e445]: .isVisible();
+              - generic [ref=e446]:
+                - generic [ref=e447]:
+                  - img [ref=e449]
+                  - text: note
+                - paragraph [ref=e452]: Matching by text always normalizes whitespace, even with exact match. For example, it turns multiple spaces into one, turns line breaks into spaces and ignores leading and trailing whitespace.
+              - generic [ref=e453]:
+                - generic [ref=e454]:
+                  - img [ref=e456]
+                  - text: When to use text locators
+                - paragraph [ref=e459]:
+                  - text: We recommend using text locators to find non interactive elements like
+                  - code [ref=e460]: div
+                  - text: ","
+                  - code [ref=e461]: span
+                  - text: ","
+                  - code [ref=e462]: p
+                  - text: ", etc. For interactive elements like"
+                  - code [ref=e463]: button
+                  - text: ","
+                  - code [ref=e464]: a
+                  - text: ","
+                  - code [ref=e465]: input
+                  - text: ", etc. use"
+                  - link "role locators" [ref=e466] [cursor=pointer]:
+                    - /url: "#locate-by-role"
+                  - text: .
+              - paragraph [ref=e467]:
+                - text: You can also
+                - link "filter by text" [ref=e468] [cursor=pointer]:
+                  - /url: "#filter-by-text"
+                - text: which can be useful when trying to find a particular item in a list.
+              - heading "Locate by alt textDirect link to Locate by alt text" [level=3] [ref=e469]:
+                - text: Locate by alt text
+                - link "Direct link to Locate by alt text" [ref=e470] [cursor=pointer]:
+                  - /url: "#locate-by-alt-text"
+                  - text: "#"
+              - paragraph [ref=e471]:
+                - text: All images should have an
+                - code [ref=e472]: alt
+                - text: attribute that describes the image. You can locate an image based on the text alternative using
+                - link "Page.getByAltText()" [ref=e473] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-alt-text
+                - text: .
+              - paragraph [ref=e474]: For example, consider the following DOM structure.
+              - generic [ref=e475]:
+                - generic [ref=e481]: http://localhost:3000
+                - generic [ref=e487]:
+                  - img "playwright logo" [ref=e490]
+                  - code [ref=e495]:
+                    - generic [ref=e496]: <img alt="playwright logo" src="/img/playwright-logo.svg" width="100" />
+              - paragraph [ref=e497]: "You can click on the image after locating it by the text alternative:"
+              - code [ref=e501]:
+                - generic [ref=e502]: page.getByAltText("playwright logo").click();
+              - generic [ref=e503]:
+                - generic [ref=e504]:
+                  - img [ref=e506]
+                  - text: When to use alt locators
+                - paragraph [ref=e509]:
+                  - text: Use this locator when your element supports alt text such as
+                  - code [ref=e510]: img
+                  - text: and
+                  - code [ref=e511]: area
+                  - text: elements.
+              - heading "Locate by titleDirect link to Locate by title" [level=3] [ref=e512]:
+                - text: Locate by title
+                - link "Direct link to Locate by title" [ref=e513] [cursor=pointer]:
+                  - /url: "#locate-by-title"
+                  - text: "#"
+              - paragraph [ref=e514]:
+                - text: Locate an element with a matching title attribute using
+                - link "Page.getByTitle()" [ref=e515] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-title
+                - text: .
+              - paragraph [ref=e516]: For example, consider the following DOM structure.
+              - generic [ref=e517]:
+                - generic [ref=e523]: http://localhost:3000
+                - generic [ref=e529]:
+                  - generic [ref=e531]: 25 issues
+                  - code [ref=e536]:
+                    - generic [ref=e537]: <span title='Issues count'>25 issues</span>
+              - paragraph [ref=e538]: "You can check the issues count after locating it by the title text:"
+              - code [ref=e542]:
+                - generic [ref=e543]: assertThat(page.getByTitle("Issues count")).hasText("25 issues");
+              - generic [ref=e544]:
+                - generic [ref=e545]:
+                  - img [ref=e547]
+                  - text: When to use title locators
+                - paragraph [ref=e550]:
+                  - text: Use this locator when your element has the
+                  - code [ref=e551]: title
+                  - text: attribute.
+              - heading "Locate by test idDirect link to Locate by test id" [level=3] [ref=e552]:
+                - text: Locate by test id
+                - link "Direct link to Locate by test id" [ref=e553] [cursor=pointer]:
+                  - /url: "#locate-by-test-id"
+                  - text: "#"
+              - paragraph [ref=e554]:
+                - text: Testing by test ids is the most resilient way of testing as even if your text or role of the attribute changes, the test will still pass. QA's and developers should define explicit test ids and query them with
+                - link "Page.getByTestId()" [ref=e555] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-test-id
+                - text: . However testing by test ids is not user facing. If the role or text value is important to you then consider using user facing locators such as
+                - link "role" [ref=e556] [cursor=pointer]:
+                  - /url: "#locate-by-role"
+                - text: and
+                - link "text locators" [ref=e557] [cursor=pointer]:
+                  - /url: "#locate-by-text"
+                - text: .
+              - paragraph [ref=e558]: For example, consider the following DOM structure.
+              - generic [ref=e559]:
+                - generic [ref=e565]: http://localhost:3000
+                - generic [ref=e571]:
+                  - button "Itinéraire" [ref=e574] [cursor=pointer]
+                  - code [ref=e579]:
+                    - generic [ref=e580]: <button data-testid="directions">Itinéraire</button>
+              - paragraph [ref=e581]: "You can locate the element by its test id:"
+              - code [ref=e585]:
+                - generic [ref=e586]: page.getByTestId("directions").click();
+              - generic [ref=e587]:
+                - generic [ref=e588]:
+                  - img [ref=e590]
+                  - text: When to use testid locators
+                - paragraph [ref=e593]:
+                  - text: You can also use test ids when you choose to use the test id methodology or when you can't locate by
+                  - link "role" [ref=e594] [cursor=pointer]:
+                    - /url: "#locate-by-role"
+                  - text: or
+                  - link "text" [ref=e595] [cursor=pointer]:
+                    - /url: "#locate-by-text"
+                  - text: .
+              - heading "Set a custom test id attributeDirect link to Set a custom test id attribute" [level=4] [ref=e596]:
+                - text: Set a custom test id attribute
+                - link "Direct link to Set a custom test id attribute" [ref=e597] [cursor=pointer]:
+                  - /url: "#set-a-custom-test-id-attribute"
+                  - text: "#"
+              - paragraph [ref=e598]:
+                - text: By default,
+                - link "Page.getByTestId()" [ref=e599] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-test-id
+                - text: will locate elements based on the
+                - code [ref=e600]: data-testid
+                - text: attribute, but you can configure it in your test config or by calling
+                - link "Selectors.setTestIdAttribute()" [ref=e601] [cursor=pointer]:
+                  - /url: /java/docs/api/class-selectors#selectors-set-test-id-attribute
+                - text: .
+              - paragraph [ref=e602]: Set the test id to use a custom data attribute for your tests.
+              - code [ref=e606]:
+                - generic [ref=e607]: playwright.selectors().setTestIdAttribute("data-pw");
+              - paragraph [ref=e608]:
+                - text: In your html you can now use
+                - code [ref=e609]: data-pw
+                - text: as your test id instead of the default
+                - code [ref=e610]: data-testid
+                - text: .
+              - generic [ref=e611]:
+                - generic [ref=e617]: http://localhost:3000
+                - generic [ref=e623]:
+                  - button "Itinéraire" [ref=e626] [cursor=pointer]
+                  - code [ref=e631]:
+                    - generic [ref=e632]: <button data-pw="directions">Itinéraire</button>
+              - paragraph [ref=e633]: "And then locate the element as you would normally do:"
+              - code [ref=e637]:
+                - generic [ref=e638]: page.getByTestId("directions").click();
+              - heading "Locate by CSS or XPathDirect link to Locate by CSS or XPath" [level=3] [ref=e639]:
+                - text: Locate by CSS or XPath
+                - link "Direct link to Locate by CSS or XPath" [ref=e640] [cursor=pointer]:
+                  - /url: "#locate-by-css-or-xpath"
+                  - text: "#"
+              - paragraph [ref=e641]:
+                - text: If you absolutely must use CSS or XPath locators, you can use
+                - link "Page.locator()" [ref=e642] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-locator
+                - text: to create a locator that takes a selector describing how to find an element in the page. Playwright supports CSS and XPath selectors, and auto-detects them if you omit
+                - code [ref=e643]: css=
+                - text: or
+                - code [ref=e644]: xpath=
+                - text: prefix.
+              - code [ref=e648]:
+                - generic [ref=e649]: page.locator("css=button").click();
+                - generic [ref=e650]: page.locator("xpath=//button").click();
+                - generic [ref=e651]: page.locator("button").click();
+                - generic [ref=e652]: page.locator("//button").click();
+              - paragraph [ref=e653]:
+                - text: XPath and CSS selectors can be tied to the DOM structure or implementation. These selectors can break when the DOM structure changes. Long CSS or XPath chains below are an example of a
+                - strong [ref=e654]: bad practice
+                - text: "that leads to unstable tests:"
+              - code [ref=e658]:
+                - generic [ref=e659]: page.locator(
+                - generic [ref=e660]: "\"#tsf > div:nth-child(2) > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input\""
+                - generic [ref=e661]: ).click();
+                - generic [ref=e662]: page.locator("//*[@id='tsf']/div[2]/div[1]/div[1]/div/div[2]/input").click();
+              - generic [ref=e663]:
+                - generic [ref=e664]:
+                  - img [ref=e666]
+                  - text: When to use this
+                - paragraph [ref=e669]:
+                  - text: CSS and XPath are not recommended as the DOM can often change leading to non resilient tests. Instead, try to come up with a locator that is close to how the user perceives the page such as
+                  - link "role locators" [ref=e670] [cursor=pointer]:
+                    - /url: "#locate-by-role"
+                  - text: or
+                  - link "define an explicit testing contract" [ref=e671] [cursor=pointer]:
+                    - /url: "#locate-by-test-id"
+                  - text: using test ids.
+              - heading "Locate in Shadow DOMDirect link to Locate in Shadow DOM" [level=2] [ref=e672]:
+                - text: Locate in Shadow DOM
+                - link "Direct link to Locate in Shadow DOM" [ref=e673] [cursor=pointer]:
+                  - /url: "#locate-in-shadow-dom"
+                  - text: "#"
+              - paragraph [ref=e674]:
+                - text: All locators in Playwright
+                - strong [ref=e675]: by default
+                - text: "work with elements in Shadow DOM. The exceptions are:"
+              - list [ref=e676]:
+                - listitem [ref=e677]: Locating by XPath does not pierce shadow roots.
+                - listitem [ref=e678]:
+                  - link "Closed-mode shadow roots" [ref=e679] [cursor=pointer]:
+                    - /url: https://developer.mozilla.org/en-US/docs/Web/API/Element/attachShadow#parameters
+                  - text: are not supported.
+              - paragraph [ref=e680]: "Consider the following example with a custom web component:"
+              - code [ref=e684]:
+                - generic [ref=e685]: <x-details role=button aria-expanded=true aria-controls=inner-details>
+                - generic [ref=e686]: <div>Title</div>
+                - generic [ref=e687]: "#shadow-root"
+                - generic [ref=e688]: <div id=inner-details>Details</div>
+                - generic [ref=e689]: </x-details>
+              - paragraph [ref=e690]: You can locate in the same way as if the shadow root was not present at all.
+              - paragraph [ref=e691]:
+                - text: To click
+                - code [ref=e692]: <div>Details</div>
+                - text: ":"
+              - code [ref=e696]:
+                - generic [ref=e697]: page.getByText("Details").click();
+              - code [ref=e701]:
+                - generic [ref=e702]: <x-details role=button aria-expanded=true aria-controls=inner-details>
+                - generic [ref=e703]: <div>Title</div>
+                - generic [ref=e704]: "#shadow-root"
+                - generic [ref=e705]: <div id=inner-details>Details</div>
+                - generic [ref=e706]: </x-details>
+              - paragraph [ref=e707]:
+                - text: To click
+                - code [ref=e708]: <x-details>
+                - text: ":"
+              - code [ref=e712]:
+                - generic [ref=e713]: page.locator("x-details", new Page.LocatorOptions().setHasText("Details"))
+                - generic [ref=e714]: .click();
+              - code [ref=e718]:
+                - generic [ref=e719]: <x-details role=button aria-expanded=true aria-controls=inner-details>
+                - generic [ref=e720]: <div>Title</div>
+                - generic [ref=e721]: "#shadow-root"
+                - generic [ref=e722]: <div id=inner-details>Details</div>
+                - generic [ref=e723]: </x-details>
+              - paragraph [ref=e724]:
+                - text: To ensure that
+                - code [ref=e725]: <x-details>
+                - text: "contains the text \"Details\":"
+              - code [ref=e729]:
+                - generic [ref=e730]: assertThat(page.locator("x-details")).containsText("Details");
+              - heading "Filtering LocatorsDirect link to Filtering Locators" [level=2] [ref=e731]:
+                - text: Filtering Locators
+                - link "Direct link to Filtering Locators" [ref=e732] [cursor=pointer]:
+                  - /url: "#filtering-locators"
+                  - text: "#"
+              - paragraph [ref=e733]: Consider the following DOM structure where we want to click on the buy button of the second product card. We have a few options in order to filter the locators to get the right one.
+              - generic [ref=e734]:
+                - generic [ref=e740]: http://localhost:3000
+                - generic [ref=e746]:
+                  - list [ref=e749]:
+                    - listitem [ref=e750]:
+                      - heading "Product 1" [level=3] [ref=e751]
+                      - button "Add to cart" [ref=e752] [cursor=pointer]
+                    - listitem [ref=e753]:
+                      - heading "Product 2" [level=3] [ref=e754]
+                      - button "Add to cart" [ref=e755] [cursor=pointer]
+                  - code [ref=e760]:
+                    - generic [ref=e761]: <ul>
+                    - generic [ref=e762]: <li>
+                    - generic [ref=e763]: <h3>Product 1</h3>
+                    - generic [ref=e764]: <button>Add to cart</button>
+                    - generic [ref=e765]: </li>
+                    - generic [ref=e766]: <li>
+                    - generic [ref=e767]: <h3>Product 2</h3>
+                    - generic [ref=e768]: <button>Add to cart</button>
+                    - generic [ref=e769]: </li>
+                    - generic [ref=e770]: </ul>
+              - heading "Filter by textDirect link to Filter by text" [level=3] [ref=e771]:
+                - text: Filter by text
+                - link "Direct link to Filter by text" [ref=e772] [cursor=pointer]:
+                  - /url: "#filter-by-text"
+                  - text: "#"
+              - paragraph [ref=e773]:
+                - text: Locators can be filtered by text with the
+                - link "Locator.filter()" [ref=e774] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-filter
+                - text: method. It will search for a particular string somewhere inside the element, possibly in a descendant element, case-insensitively. You can also pass a regular expression.
+              - code [ref=e778]:
+                - generic [ref=e779]: page.getByRole(AriaRole.LISTITEM)
+                - generic [ref=e780]: .filter(new Locator.FilterOptions().setHasText("Product 2"))
+                - generic [ref=e781]: .getByRole(AriaRole.BUTTON,
+                - generic [ref=e782]: new Locator.GetByRoleOptions().setName("Add to cart"))
+                - generic [ref=e783]: .click();
+              - paragraph [ref=e784]: "Use a regular expression:"
+              - code [ref=e788]:
+                - generic [ref=e789]: page.getByRole(AriaRole.LISTITEM)
+                - generic [ref=e790]: .filter(new Locator.FilterOptions()
+                - generic [ref=e791]: .setHasText(Pattern.compile("Product 2")))
+                - generic [ref=e792]: .getByRole(AriaRole.BUTTON,
+                - generic [ref=e793]: new Locator.GetByRoleOptions().setName("Add to cart"))
+                - generic [ref=e794]: .click();
+              - heading "Filter by not having textDirect link to Filter by not having text" [level=3] [ref=e795]:
+                - text: Filter by not having text
+                - link "Direct link to Filter by not having text" [ref=e796] [cursor=pointer]:
+                  - /url: "#filter-by-not-having-text"
+                  - text: "#"
+              - paragraph [ref=e797]:
+                - text: Alternatively, filter by
+                - strong [ref=e798]: not having
+                - text: "text:"
+              - code [ref=e802]:
+                - generic [ref=e803]: // 5 in-stock items
+                - generic [ref=e804]: assertThat(page.getByRole(AriaRole.LISTITEM)
+                - generic [ref=e805]: .filter(new Locator.FilterOptions().setHasNotText("Out of stock")))
+                - generic [ref=e806]: .hasCount(5);
+              - heading "Filter by child/descendantDirect link to Filter by child/descendant" [level=3] [ref=e807]:
+                - text: Filter by child/descendant
+                - link "Direct link to Filter by child/descendant" [ref=e808] [cursor=pointer]:
+                  - /url: "#filter-by-childdescendant"
+                  - text: "#"
+              - paragraph [ref=e809]:
+                - text: Locators support an option to only select elements that have or have not a descendant matching another locator. You can therefore filter by any other locator such as a
+                - link "Locator.getByRole()" [ref=e810] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-get-by-role
+                - text: ","
+                - link "Locator.getByTestId()" [ref=e811] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-get-by-test-id
+                - text: ","
+                - link "Locator.getByText()" [ref=e812] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-get-by-text
+                - text: etc.
+              - generic [ref=e813]:
+                - generic [ref=e819]: http://localhost:3000
+                - generic [ref=e825]:
+                  - list [ref=e828]:
+                    - listitem [ref=e829]:
+                      - heading "Product 1" [level=3] [ref=e830]
+                      - button "Add to cart" [ref=e831] [cursor=pointer]
+                    - listitem [ref=e832]:
+                      - heading "Product 2" [level=3] [ref=e833]
+                      - button "Add to cart" [ref=e834] [cursor=pointer]
+                  - code [ref=e839]:
+                    - generic [ref=e840]: <ul>
+                    - generic [ref=e841]: <li>
+                    - generic [ref=e842]: <h3>Product 1</h3>
+                    - generic [ref=e843]: <button>Add to cart</button>
+                    - generic [ref=e844]: </li>
+                    - generic [ref=e845]: <li>
+                    - generic [ref=e846]: <h3>Product 2</h3>
+                    - generic [ref=e847]: <button>Add to cart</button>
+                    - generic [ref=e848]: </li>
+                    - generic [ref=e849]: </ul>
+              - code [ref=e853]:
+                - generic [ref=e854]: page.getByRole(AriaRole.LISTITEM)
+                - generic [ref=e855]: .filter(new Locator.FilterOptions()
+                - generic [ref=e856]: .setHas(page.getByRole(AriaRole.HEADING, new Page.GetByRoleOptions()
+                - generic [ref=e857]: .setName("Product 2"))))
+                - generic [ref=e858]: .getByRole(AriaRole.BUTTON,
+                - generic [ref=e859]: new Locator.GetByRoleOptions().setName("Add to cart"))
+                - generic [ref=e860]: .click();
+              - paragraph [ref=e861]: "We can also assert the product card to make sure there is only one:"
+              - code [ref=e865]:
+                - generic [ref=e866]: assertThat(page
+                - generic [ref=e867]: .getByRole(AriaRole.LISTITEM)
+                - generic [ref=e868]: .filter(new Locator.FilterOptions()
+                - generic [ref=e869]: .setHas(page.getByRole(AriaRole.HEADING,
+                - generic [ref=e870]: new Page.GetByRoleOptions().setName("Product 2")))))
+                - generic [ref=e871]: .hasCount(1);
+              - paragraph [ref=e872]:
+                - text: The filtering locator
+                - strong [ref=e873]: must be relative
+                - text: to the original locator and is queried starting with the original locator match, not the document root. Therefore, the following will not work, because the filtering locator starts matching from the
+                - code [ref=e874]: <ul>
+                - text: list element that is outside of the
+                - code [ref=e875]: <li>
+                - text: "list item matched by the original locator:"
+              - code [ref=e879]:
+                - generic [ref=e880]: // ✖ WRONG
+                - generic [ref=e881]: assertThat(page
+                - generic [ref=e882]: .getByRole(AriaRole.LISTITEM)
+                - generic [ref=e883]: .filter(new Locator.FilterOptions()
+                - generic [ref=e884]: .setHas(page.getByRole(AriaRole.LIST)
+                - generic [ref=e885]: .getByRole(AriaRole.HEADING,
+                - generic [ref=e886]: new Locator.GetByRoleOptions().setName("Product 2")))))
+                - generic [ref=e887]: .hasCount(1);
+              - heading "Filter by not having child/descendantDirect link to Filter by not having child/descendant" [level=3] [ref=e888]:
+                - text: Filter by not having child/descendant
+                - link "Direct link to Filter by not having child/descendant" [ref=e889] [cursor=pointer]:
+                  - /url: "#filter-by-not-having-childdescendant"
+                  - text: "#"
+              - paragraph [ref=e890]:
+                - text: We can also filter by
+                - strong [ref=e891]: not having
+                - text: a matching element inside.
+              - code [ref=e895]:
+                - generic [ref=e896]: assertThat(page
+                - generic [ref=e897]: .getByRole(AriaRole.LISTITEM)
+                - generic [ref=e898]: .filter(new Locator.FilterOptions().setHasNot(page.getByText("Product 2"))))
+                - generic [ref=e899]: .hasCount(1);
+              - paragraph [ref=e900]: Note that the inner locator is matched starting from the outer one, not from the document root.
+              - heading "Locator operatorsDirect link to Locator operators" [level=2] [ref=e901]:
+                - text: Locator operators
+                - link "Direct link to Locator operators" [ref=e902] [cursor=pointer]:
+                  - /url: "#locator-operators"
+                  - text: "#"
+              - heading "Matching inside a locatorDirect link to Matching inside a locator" [level=3] [ref=e903]:
+                - text: Matching inside a locator
+                - link "Direct link to Matching inside a locator" [ref=e904] [cursor=pointer]:
+                  - /url: "#matching-inside-a-locator"
+                  - text: "#"
+              - paragraph [ref=e905]:
+                - text: You can chain methods that create a locator, like
+                - link "Page.getByText()" [ref=e906] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-text
+                - text: or
+                - link "Locator.getByRole()" [ref=e907] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-get-by-role
+                - text: ", to narrow down the search to a particular part of the page."
+              - paragraph [ref=e908]:
+                - text: In this example we first create a locator called product by locating its role of
+                - code [ref=e909]: listitem
+                - text: . We then filter by text. We can use the product locator again to get by role of button and click it and then use an assertion to make sure there is only one product with the text "Product 2".
+              - code [ref=e913]:
+                - generic [ref=e914]: Locator product = page
+                - generic [ref=e915]: .getByRole(AriaRole.LISTITEM)
+                - generic [ref=e916]: .filter(new Locator.FilterOptions().setHasText("Product 2"));
+                - generic [ref=e917]: product
+                - generic [ref=e918]: .getByRole(AriaRole.BUTTON,
+                - generic [ref=e919]: new Locator.GetByRoleOptions().setName("Add to cart"))
+                - generic [ref=e920]: .click();
+              - paragraph [ref=e921]: "You can also chain two locators together, for example to find a \"Save\" button inside a particular dialog:"
+              - code [ref=e925]:
+                - generic [ref=e926]: Locator saveButton = page.getByRole(AriaRole.BUTTON,
+                - generic [ref=e927]: new Page.GetByRoleOptions().setName("Save"));
+                - generic [ref=e928]: // ...
+                - generic [ref=e929]: Locator dialog = page.getByTestId("settings-dialog");
+                - generic [ref=e930]: dialog.locator(saveButton).click();
+              - heading "Matching two locators simultaneouslyDirect link to Matching two locators simultaneously" [level=3] [ref=e931]:
+                - text: Matching two locators simultaneously
+                - link "Direct link to Matching two locators simultaneously" [ref=e932] [cursor=pointer]:
+                  - /url: "#matching-two-locators-simultaneously"
+                  - text: "#"
+              - paragraph [ref=e933]:
+                - text: Method
+                - link "Locator.and()" [ref=e934] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-and
+                - text: narrows down an existing locator by matching an additional locator. For example, you can combine
+                - link "Page.getByRole()" [ref=e935] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-role
+                - text: and
+                - link "Page.getByTitle()" [ref=e936] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-title
+                - text: to match by both role and title.
+              - code [ref=e940]:
+                - generic [ref=e941]: Locator button = page.getByRole(AriaRole.BUTTON).and(page.getByTitle("Subscribe"));
+              - heading "Matching one of the two alternative locatorsDirect link to Matching one of the two alternative locators" [level=3] [ref=e942]:
+                - text: Matching one of the two alternative locators
+                - link "Direct link to Matching one of the two alternative locators" [ref=e943] [cursor=pointer]:
+                  - /url: "#matching-one-of-the-two-alternative-locators"
+                  - text: "#"
+              - paragraph [ref=e944]:
+                - text: If you'd like to target one of the two or more elements, and you don't know which one it will be, use
+                - link "Locator.or()" [ref=e945] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-or
+                - text: to create a locator that matches any one or both of the alternatives.
+              - paragraph [ref=e946]: For example, consider a scenario where you'd like to click on a "New email" button, but sometimes a security settings dialog shows up instead. In this case, you can wait for either a "New email" button, or a dialog and act accordingly.
+              - generic [ref=e947]:
+                - generic [ref=e948]:
+                  - img [ref=e950]
+                  - text: note
+                - paragraph [ref=e953]:
+                  - text: If both "New email" button and security dialog appear on screen, the "or" locator will match both of them, possibly throwing the
+                  - link "\"strict mode violation\" error" [ref=e954] [cursor=pointer]:
+                    - /url: "#strictness"
+                  - text: . In this case, you can use
+                  - link "Locator.first()" [ref=e955] [cursor=pointer]:
+                    - /url: /java/docs/api/class-locator#locator-first
+                  - text: to only match one of them.
+              - code [ref=e959]:
+                - generic [ref=e960]: Locator newEmail = page.getByRole(AriaRole.BUTTON, new Page.GetByRoleOptions().setName("New"));
+                - generic [ref=e961]: Locator dialog = page.getByText("Confirm security settings");
+                - generic [ref=e962]: assertThat(newEmail.or(dialog).first()).isVisible();
+                - generic [ref=e963]: if (dialog.isVisible())
+                - generic [ref=e964]: page.getByRole(AriaRole.BUTTON, new Page.GetByRoleOptions().setName("Dismiss")).click();
+                - generic [ref=e965]: newEmail.click();
+              - heading "Matching only visible elementsDirect link to Matching only visible elements" [level=3] [ref=e966]:
+                - text: Matching only visible elements
+                - link "Direct link to Matching only visible elements" [ref=e967] [cursor=pointer]:
+                  - /url: "#matching-only-visible-elements"
+                  - text: "#"
+              - generic [ref=e968]:
+                - generic [ref=e969]:
+                  - img [ref=e971]
+                  - text: note
+                - paragraph [ref=e974]:
+                  - text: It's usually better to find a
+                  - link "more reliable way" [ref=e975] [cursor=pointer]:
+                    - /url: /java/docs/locators#quick-guide
+                  - text: to uniquely identify the element instead of checking the visibility.
+              - paragraph [ref=e976]:
+                - text: Consider a page with two buttons, the first invisible and the second
+                - link "visible" [ref=e977] [cursor=pointer]:
+                  - /url: /java/docs/actionability#visible
+                - text: .
+              - code [ref=e981]:
+                - generic [ref=e982]: "<button style='display: none'>Invisible</button>"
+                - generic [ref=e983]: <button>Visible</button>
+              - list [ref=e984]:
+                - listitem [ref=e985]:
+                  - paragraph [ref=e986]:
+                    - text: This will find both buttons and throw a
+                    - link "strictness" [ref=e987] [cursor=pointer]:
+                      - /url: /java/docs/locators#strictness
+                    - text: "violation error:"
+                  - code [ref=e991]:
+                    - generic [ref=e992]: page.locator("button").click();
+                - listitem [ref=e993]:
+                  - paragraph [ref=e994]: This will only find a second button, because it is visible, and then click it.
+                  - code [ref=e998]:
+                    - generic [ref=e999]: page.locator("button").filter(new Locator.FilterOptions().setVisible(true)).click();
+              - heading "ListsDirect link to Lists" [level=2] [ref=e1000]:
+                - text: Lists
+                - link "Direct link to Lists" [ref=e1001] [cursor=pointer]:
+                  - /url: "#lists"
+                  - text: "#"
+              - heading "Count items in a listDirect link to Count items in a list" [level=3] [ref=e1002]:
+                - text: Count items in a list
+                - link "Direct link to Count items in a list" [ref=e1003] [cursor=pointer]:
+                  - /url: "#count-items-in-a-list"
+                  - text: "#"
+              - paragraph [ref=e1004]: You can assert locators in order to count the items in a list.
+              - paragraph [ref=e1005]: "For example, consider the following DOM structure:"
+              - generic [ref=e1006]:
+                - generic [ref=e1012]: http://localhost:3000
+                - generic [ref=e1018]:
+                  - list [ref=e1021]:
+                    - listitem [ref=e1022]: apple
+                    - listitem [ref=e1023]: banana
+                    - listitem [ref=e1024]: orange
+                  - code [ref=e1029]:
+                    - generic [ref=e1030]: <ul>
+                    - generic [ref=e1031]: <li>apple</li>
+                    - generic [ref=e1032]: <li>banana</li>
+                    - generic [ref=e1033]: <li>orange</li>
+                    - generic [ref=e1034]: </ul>
+              - paragraph [ref=e1035]: Use the count assertion to ensure that the list has 3 items.
+              - code [ref=e1039]:
+                - generic [ref=e1040]: assertThat(page.getByRole(AriaRole.LISTITEM)).hasCount(3);
+              - heading "Assert all text in a listDirect link to Assert all text in a list" [level=3] [ref=e1041]:
+                - text: Assert all text in a list
+                - link "Direct link to Assert all text in a list" [ref=e1042] [cursor=pointer]:
+                  - /url: "#assert-all-text-in-a-list"
+                  - text: "#"
+              - paragraph [ref=e1043]: You can assert locators in order to find all the text in a list.
+              - paragraph [ref=e1044]: "For example, consider the following DOM structure:"
+              - generic [ref=e1045]:
+                - generic [ref=e1051]: http://localhost:3000
+                - generic [ref=e1057]:
+                  - list [ref=e1060]:
+                    - listitem [ref=e1061]: apple
+                    - listitem [ref=e1062]: banana
+                    - listitem [ref=e1063]: orange
+                  - code [ref=e1068]:
+                    - generic [ref=e1069]: <ul>
+                    - generic [ref=e1070]: <li>apple</li>
+                    - generic [ref=e1071]: <li>banana</li>
+                    - generic [ref=e1072]: <li>orange</li>
+                    - generic [ref=e1073]: </ul>
+              - paragraph [ref=e1074]:
+                - text: Use
+                - link "assertThat(locator).hasText()" [ref=e1075] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locatorassertions#locator-assertions-to-have-text
+                - text: to ensure that the list has the text "apple", "banana" and "orange".
+              - code [ref=e1079]:
+                - generic [ref=e1080]: assertThat(page
+                - generic [ref=e1081]: .getByRole(AriaRole.LISTITEM))
+                - generic [ref=e1082]: ".hasText(new String[] { \"apple\", \"banana\", \"orange\" });"
+              - heading "Get a specific itemDirect link to Get a specific item" [level=3] [ref=e1083]:
+                - text: Get a specific item
+                - link "Direct link to Get a specific item" [ref=e1084] [cursor=pointer]:
+                  - /url: "#get-a-specific-item"
+                  - text: "#"
+              - paragraph [ref=e1085]: There are many ways to get a specific item in a list.
+              - heading "Get by textDirect link to Get by text" [level=4] [ref=e1086]:
+                - text: Get by text
+                - link "Direct link to Get by text" [ref=e1087] [cursor=pointer]:
+                  - /url: "#get-by-text"
+                  - text: "#"
+              - paragraph [ref=e1088]:
+                - text: Use the
+                - link "Page.getByText()" [ref=e1089] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-text
+                - text: method to locate an element in a list by its text content and then click on it.
+              - paragraph [ref=e1090]: "For example, consider the following DOM structure:"
+              - generic [ref=e1091]:
+                - generic [ref=e1097]: http://localhost:3000
+                - generic [ref=e1103]:
+                  - list [ref=e1106]:
+                    - listitem [ref=e1107]: apple
+                    - listitem [ref=e1108]: banana
+                    - listitem [ref=e1109]: orange
+                  - code [ref=e1114]:
+                    - generic [ref=e1115]: <ul>
+                    - generic [ref=e1116]: <li>apple</li>
+                    - generic [ref=e1117]: <li>banana</li>
+                    - generic [ref=e1118]: <li>orange</li>
+                    - generic [ref=e1119]: </ul>
+              - paragraph [ref=e1120]: Locate an item by its text content and click it.
+              - code [ref=e1124]:
+                - generic [ref=e1125]: page.getByText("orange").click();
+              - heading "Filter by textDirect link to Filter by text" [level=4] [ref=e1126]:
+                - text: Filter by text
+                - link "Direct link to Filter by text" [ref=e1127] [cursor=pointer]:
+                  - /url: "#filter-by-text-1"
+                  - text: "#"
+              - paragraph [ref=e1128]:
+                - text: Use the
+                - link "Locator.filter()" [ref=e1129] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-filter
+                - text: to locate a specific item in a list.
+              - paragraph [ref=e1130]: "For example, consider the following DOM structure:"
+              - generic [ref=e1131]:
+                - generic [ref=e1137]: http://localhost:3000
+                - generic [ref=e1143]:
+                  - list [ref=e1146]:
+                    - listitem [ref=e1147]: apple
+                    - listitem [ref=e1148]: banana
+                    - listitem [ref=e1149]: orange
+                  - code [ref=e1154]:
+                    - generic [ref=e1155]: <ul>
+                    - generic [ref=e1156]: <li>apple</li>
+                    - generic [ref=e1157]: <li>banana</li>
+                    - generic [ref=e1158]: <li>orange</li>
+                    - generic [ref=e1159]: </ul>
+              - paragraph [ref=e1160]: Locate an item by the role of "listitem" and then filter by the text of "orange" and then click it.
+              - code [ref=e1164]:
+                - generic [ref=e1165]: page.getByRole(AriaRole.LISTITEM)
+                - generic [ref=e1166]: .filter(new Locator.FilterOptions().setHasText("orange"))
+                - generic [ref=e1167]: .click();
+              - heading "Get by test idDirect link to Get by test id" [level=4] [ref=e1168]:
+                - text: Get by test id
+                - link "Direct link to Get by test id" [ref=e1169] [cursor=pointer]:
+                  - /url: "#get-by-test-id"
+                  - text: "#"
+              - paragraph [ref=e1170]:
+                - text: Use the
+                - link "Page.getByTestId()" [ref=e1171] [cursor=pointer]:
+                  - /url: /java/docs/api/class-page#page-get-by-test-id
+                - text: method to locate an element in a list. You may need to modify the html and add a test id if you don't already have a test id.
+              - paragraph [ref=e1172]: "For example, consider the following DOM structure:"
+              - generic [ref=e1173]:
+                - generic [ref=e1179]: http://localhost:3000
+                - generic [ref=e1185]:
+                  - list [ref=e1188]:
+                    - listitem [ref=e1189]: apple
+                    - listitem [ref=e1190]: banana
+                    - listitem [ref=e1191]: orange
+                  - code [ref=e1196]:
+                    - generic [ref=e1197]: <ul>
+                    - generic [ref=e1198]: <li data-testid='apple'>apple</li>
+                    - generic [ref=e1199]: <li data-testid='banana'>banana</li>
+                    - generic [ref=e1200]: <li data-testid='orange'>orange</li>
+                    - generic [ref=e1201]: </ul>
+              - paragraph [ref=e1202]: Locate an item by its test id of "orange" and then click it.
+              - code [ref=e1206]:
+                - generic [ref=e1207]: page.getByTestId("orange").click();
+              - heading "Get by nth itemDirect link to Get by nth item" [level=4] [ref=e1208]:
+                - text: Get by nth item
+                - link "Direct link to Get by nth item" [ref=e1209] [cursor=pointer]:
+                  - /url: "#get-by-nth-item"
+                  - text: "#"
+              - paragraph [ref=e1210]:
+                - text: If you have a list of identical elements, and the only way to distinguish between them is the order, you can choose a specific element from a list with
+                - link "Locator.first()" [ref=e1211] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-first
+                - text: ","
+                - link "Locator.last()" [ref=e1212] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-last
+                - text: or
+                - link "Locator.nth()" [ref=e1213] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-nth
+                - text: .
+              - code [ref=e1217]:
+                - generic [ref=e1218]: Locator banana = page.getByRole(AriaRole.LISTITEM).nth(1);
+              - paragraph [ref=e1219]:
+                - text: However, use this method with caution. Often times, the page might change, and the locator will point to a completely different element from the one you expected. Instead, try to come up with a unique locator that will pass the
+                - link "strictness criteria" [ref=e1220] [cursor=pointer]:
+                  - /url: "#strictness"
+                - text: .
+              - heading "Chaining filtersDirect link to Chaining filters" [level=3] [ref=e1221]:
+                - text: Chaining filters
+                - link "Direct link to Chaining filters" [ref=e1222] [cursor=pointer]:
+                  - /url: "#chaining-filters"
+                  - text: "#"
+              - paragraph [ref=e1223]:
+                - text: When you have elements with various similarities, you can use the
+                - link "Locator.filter()" [ref=e1224] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-filter
+                - text: method to select the right one. You can also chain multiple filters to narrow down the selection.
+              - paragraph [ref=e1225]: "For example, consider the following DOM structure:"
+              - generic [ref=e1226]:
+                - generic [ref=e1232]: http://localhost:3000
+                - generic [ref=e1238]:
+                  - list [ref=e1241]:
+                    - listitem [ref=e1242]:
+                      - generic [ref=e1243]: John
+                      - button "Say hello" [ref=e1245] [cursor=pointer]
+                    - listitem [ref=e1246]:
+                      - generic [ref=e1247]: Mary
+                      - button "Say hello" [ref=e1249] [cursor=pointer]
+                    - listitem [ref=e1250]:
+                      - generic [ref=e1251]: John
+                      - button "Say goodbye" [ref=e1253] [cursor=pointer]
+                    - listitem [ref=e1254]:
+                      - generic [ref=e1255]: Mary
+                      - button "Say goodbye" [ref=e1257] [cursor=pointer]
+                  - code [ref=e1262]:
+                    - generic [ref=e1263]: <ul>
+                    - generic [ref=e1264]: <li>
+                    - generic [ref=e1265]: <div>John</div>
+                    - generic [ref=e1266]: <div><button>Say hello</button></div>
+                    - generic [ref=e1267]: </li>
+                    - generic [ref=e1268]: <li>
+                    - generic [ref=e1269]: <div>Mary</div>
+                    - generic [ref=e1270]: <div><button>Say hello</button></div>
+                    - generic [ref=e1271]: </li>
+                    - generic [ref=e1272]: <li>
+                    - generic [ref=e1273]: <div>John</div>
+                    - generic [ref=e1274]: <div><button>Say goodbye</button></div>
+                    - generic [ref=e1275]: </li>
+                    - generic [ref=e1276]: <li>
+                    - generic [ref=e1277]: <div>Mary</div>
+                    - generic [ref=e1278]: <div><button>Say goodbye</button></div>
+                    - generic [ref=e1279]: </li>
+                    - generic [ref=e1280]: </ul>
+              - paragraph [ref=e1281]: "To take a screenshot of the row with \"Mary\" and \"Say goodbye\":"
+              - code [ref=e1285]:
+                - generic [ref=e1286]: Locator rowLocator = page.getByRole(AriaRole.LISTITEM);
+                - generic [ref=e1287]: rowLocator
+                - generic [ref=e1288]: .filter(new Locator.FilterOptions().setHasText("Mary"))
+                - generic [ref=e1289]: .filter(new Locator.FilterOptions()
+                - generic [ref=e1290]: .setHas(page.getByRole(
+                - generic [ref=e1291]: AriaRole.BUTTON,
+                - generic [ref=e1292]: new Page.GetByRoleOptions().setName("Say goodbye"))))
+                - generic [ref=e1293]: .screenshot(new Locator.ScreenshotOptions().setPath(Paths.get("screenshot.png")));
+              - paragraph [ref=e1294]: You should now have a "screenshot.png" file in your project's root directory.
+              - heading "Rare use casesDirect link to Rare use cases" [level=3] [ref=e1295]:
+                - text: Rare use cases
+                - link "Direct link to Rare use cases" [ref=e1296] [cursor=pointer]:
+                  - /url: "#rare-use-cases"
+                  - text: "#"
+              - heading "Do something with each element in the listDirect link to Do something with each element in the list" [level=4] [ref=e1297]:
+                - text: Do something with each element in the list
+                - link "Direct link to Do something with each element in the list" [ref=e1298] [cursor=pointer]:
+                  - /url: "#do-something-with-each-element-in-the-list"
+                  - text: "#"
+              - paragraph [ref=e1299]: "Iterate elements:"
+              - code [ref=e1303]:
+                - generic [ref=e1304]: "for (Locator row : page.getByRole(AriaRole.LISTITEM).all())"
+                - generic [ref=e1305]: System.out.println(row.textContent());
+              - paragraph [ref=e1306]: "Iterate using regular for loop:"
+              - code [ref=e1310]:
+                - generic [ref=e1311]: Locator rows = page.getByRole(AriaRole.LISTITEM);
+                - generic [ref=e1312]: int count = rows.count();
+                - generic [ref=e1313]: for (int i = 0; i < count; ++i)
+                - generic [ref=e1314]: System.out.println(rows.nth(i).textContent());
+              - heading "Evaluate in the pageDirect link to Evaluate in the page" [level=4] [ref=e1315]:
+                - text: Evaluate in the page
+                - link "Direct link to Evaluate in the page" [ref=e1316] [cursor=pointer]:
+                  - /url: "#evaluate-in-the-page"
+                  - text: "#"
+              - paragraph [ref=e1317]:
+                - text: The code inside
+                - link "Locator.evaluateAll()" [ref=e1318] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-evaluate-all
+                - text: runs in the page, you can call any DOM apis there.
+              - code [ref=e1322]:
+                - generic [ref=e1323]: Locator rows = page.getByRole(AriaRole.LISTITEM);
+                - generic [ref=e1324]: Object texts = rows.evaluateAll(
+                - generic [ref=e1325]: "\"list => list.map(element => element.textContent)\");"
+              - heading "StrictnessDirect link to Strictness" [level=2] [ref=e1326]:
+                - text: Strictness
+                - link "Direct link to Strictness" [ref=e1327] [cursor=pointer]:
+                  - /url: "#strictness"
+                  - text: "#"
+              - paragraph [ref=e1328]: "Locators are strict. This means that all operations on locators that imply some target DOM element will throw an exception if more than one element matches. For example, the following call throws if there are several buttons in the DOM:"
+              - heading "Throws an error if more than oneDirect link to Throws an error if more than one" [level=4] [ref=e1329]:
+                - text: Throws an error if more than one
+                - link "Direct link to Throws an error if more than one" [ref=e1330] [cursor=pointer]:
+                  - /url: "#throws-an-error-if-more-than-one"
+                  - text: "#"
+              - code [ref=e1334]:
+                - generic [ref=e1335]: page.getByRole(AriaRole.BUTTON).click();
+              - paragraph [ref=e1336]: On the other hand, Playwright understands when you perform a multiple-element operation, so the following call works perfectly fine when the locator resolves to multiple elements.
+              - heading "Works fine with multiple elementsDirect link to Works fine with multiple elements" [level=4] [ref=e1337]:
+                - text: Works fine with multiple elements
+                - link "Direct link to Works fine with multiple elements" [ref=e1338] [cursor=pointer]:
+                  - /url: "#works-fine-with-multiple-elements"
+                  - text: "#"
+              - code [ref=e1342]:
+                - generic [ref=e1343]: page.getByRole(AriaRole.BUTTON).count();
+              - paragraph [ref=e1344]:
+                - text: You can explicitly opt-out from strictness check by telling Playwright which element to use when multiple elements match, through
+                - link "Locator.first()" [ref=e1345] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-first
+                - text: ","
+                - link "Locator.last()" [ref=e1346] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-last
+                - text: ", and"
+                - link "Locator.nth()" [ref=e1347] [cursor=pointer]:
+                  - /url: /java/docs/api/class-locator#locator-nth
+                - text: . These methods are
+                - strong [ref=e1348]: not recommended
+                - text: because when your page changes, Playwright may click on an element you did not intend. Instead, follow best practices above to create a locator that uniquely identifies the target element.
+              - heading "More LocatorsDirect link to More Locators" [level=2] [ref=e1349]:
+                - text: More Locators
+                - link "Direct link to More Locators" [ref=e1350] [cursor=pointer]:
+                  - /url: "#more-locators"
+                  - text: "#"
+              - paragraph [ref=e1351]:
+                - text: For less commonly used locators, look at the
+                - link "other locators" [ref=e1352] [cursor=pointer]:
+                  - /url: /java/docs/other-locators
+                - text: guide.
+          - navigation "Docs pages" [ref=e1353]:
+            - link "Previous « Isolation" [ref=e1354] [cursor=pointer]:
+              - /url: /java/docs/browser-contexts
+              - generic [ref=e1355]: Previous
+              - generic [ref=e1356]: « Isolation
+            - link "Next Mock APIs »" [ref=e1357] [cursor=pointer]:
+              - /url: /java/docs/mock
+              - generic [ref=e1358]: Next
+              - generic [ref=e1359]: Mock APIs »
+        - list [ref=e1362]:
+          - listitem [ref=e1363]:
+            - link "Introduction" [ref=e1364] [cursor=pointer]:
+              - /url: "#introduction"
+            - list [ref=e1365]:
+              - listitem [ref=e1366]:
+                - link "Quick Guide" [ref=e1367] [cursor=pointer]:
+                  - /url: "#quick-guide"
+          - listitem [ref=e1368]:
+            - link "Locating elements" [ref=e1369] [cursor=pointer]:
+              - /url: "#locating-elements"
+            - list [ref=e1370]:
+              - listitem [ref=e1371]:
+                - link "Locate by role" [ref=e1372] [cursor=pointer]:
+                  - /url: "#locate-by-role"
+              - listitem [ref=e1373]:
+                - link "Locate by label" [ref=e1374] [cursor=pointer]:
+                  - /url: "#locate-by-label"
+              - listitem [ref=e1375]:
+                - link "Locate by placeholder" [ref=e1376] [cursor=pointer]:
+                  - /url: "#locate-by-placeholder"
+              - listitem [ref=e1377]:
+                - link "Locate by text" [ref=e1378] [cursor=pointer]:
+                  - /url: "#locate-by-text"
+              - listitem [ref=e1379]:
+                - link "Locate by alt text" [ref=e1380] [cursor=pointer]:
+                  - /url: "#locate-by-alt-text"
+              - listitem [ref=e1381]:
+                - link "Locate by title" [ref=e1382] [cursor=pointer]:
+                  - /url: "#locate-by-title"
+              - listitem [ref=e1383]:
+                - link "Locate by test id" [ref=e1384] [cursor=pointer]:
+                  - /url: "#locate-by-test-id"
+              - listitem [ref=e1385]:
+                - link "Locate by CSS or XPath" [ref=e1386] [cursor=pointer]:
+                  - /url: "#locate-by-css-or-xpath"
+          - listitem [ref=e1387]:
+            - link "Locate in Shadow DOM" [ref=e1388] [cursor=pointer]:
+              - /url: "#locate-in-shadow-dom"
+          - listitem [ref=e1389]:
+            - link "Filtering Locators" [ref=e1390] [cursor=pointer]:
+              - /url: "#filtering-locators"
+            - list [ref=e1391]:
+              - listitem [ref=e1392]:
+                - link "Filter by text" [ref=e1393] [cursor=pointer]:
+                  - /url: "#filter-by-text"
+              - listitem [ref=e1394]:
+                - link "Filter by not having text" [ref=e1395] [cursor=pointer]:
+                  - /url: "#filter-by-not-having-text"
+              - listitem [ref=e1396]:
+                - link "Filter by child/descendant" [ref=e1397] [cursor=pointer]:
+                  - /url: "#filter-by-childdescendant"
+              - listitem [ref=e1398]:
+                - link "Filter by not having child/descendant" [ref=e1399] [cursor=pointer]:
+                  - /url: "#filter-by-not-having-childdescendant"
+          - listitem [ref=e1400]:
+            - link "Locator operators" [ref=e1401] [cursor=pointer]:
+              - /url: "#locator-operators"
+            - list [ref=e1402]:
+              - listitem [ref=e1403]:
+                - link "Matching inside a locator" [ref=e1404] [cursor=pointer]:
+                  - /url: "#matching-inside-a-locator"
+              - listitem [ref=e1405]:
+                - link "Matching two locators simultaneously" [ref=e1406] [cursor=pointer]:
+                  - /url: "#matching-two-locators-simultaneously"
+              - listitem [ref=e1407]:
+                - link "Matching one of the two alternative locators" [ref=e1408] [cursor=pointer]:
+                  - /url: "#matching-one-of-the-two-alternative-locators"
+              - listitem [ref=e1409]:
+                - link "Matching only visible elements" [ref=e1410] [cursor=pointer]:
+                  - /url: "#matching-only-visible-elements"
+          - listitem [ref=e1411]:
+            - link "Lists" [ref=e1412] [cursor=pointer]:
+              - /url: "#lists"
+            - list [ref=e1413]:
+              - listitem [ref=e1414]:
+                - link "Count items in a list" [ref=e1415] [cursor=pointer]:
+                  - /url: "#count-items-in-a-list"
+              - listitem [ref=e1416]:
+                - link "Assert all text in a list" [ref=e1417] [cursor=pointer]:
+                  - /url: "#assert-all-text-in-a-list"
+              - listitem [ref=e1418]:
+                - link "Get a specific item" [ref=e1419] [cursor=pointer]:
+                  - /url: "#get-a-specific-item"
+              - listitem [ref=e1420]:
+                - link "Chaining filters" [ref=e1421] [cursor=pointer]:
+                  - /url: "#chaining-filters"
+              - listitem [ref=e1422]:
+                - link "Rare use cases" [ref=e1423] [cursor=pointer]:
+                  - /url: "#rare-use-cases"
+          - listitem [ref=e1424]:
+            - link "Strictness" [ref=e1425] [cursor=pointer]:
+              - /url: "#strictness"
+          - listitem [ref=e1426]:
+            - link "More Locators" [ref=e1427] [cursor=pointer]:
+              - /url: "#more-locators"
+  - contentinfo [ref=e1428]:
+    - generic [ref=e1429]:
+      - generic [ref=e1430]:
+        - generic [ref=e1431]:
+          - generic [ref=e1432]: Learn
+          - list [ref=e1433]:
+            - listitem [ref=e1434]:
+              - link "Getting started" [ref=e1435] [cursor=pointer]:
+                - /url: /java/docs/intro
+            - listitem [ref=e1436]:
+              - link "Playwright Training" [ref=e1437] [cursor=pointer]:
+                - /url: https://learn.microsoft.com/en-us/training/modules/build-with-playwright/
+                - text: Playwright Training
+                - img [ref=e1438]
+            - listitem [ref=e1440]:
+              - link "Learn Videos" [ref=e1441] [cursor=pointer]:
+                - /url: /java/community/learn-videos
+            - listitem [ref=e1442]:
+              - link "Feature Videos" [ref=e1443] [cursor=pointer]:
+                - /url: /java/community/feature-videos
+        - generic [ref=e1444]:
+          - generic [ref=e1445]: Community
+          - list [ref=e1446]:
+            - listitem [ref=e1447]:
+              - link "Stack Overflow" [ref=e1448] [cursor=pointer]:
+                - /url: https://stackoverflow.com/questions/tagged/playwright
+                - text: Stack Overflow
+                - img [ref=e1449]
+            - listitem [ref=e1451]:
+              - link "Discord" [ref=e1452] [cursor=pointer]:
+                - /url: https://aka.ms/playwright/discord
+                - text: Discord
+                - img [ref=e1453]
+            - listitem [ref=e1455]:
+              - link "Twitter" [ref=e1456] [cursor=pointer]:
+                - /url: https://twitter.com/playwrightweb
+                - text: Twitter
+                - img [ref=e1457]
+            - listitem [ref=e1459]:
+              - link "LinkedIn" [ref=e1460] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/playwrightweb
+                - text: LinkedIn
+                - img [ref=e1461]
+        - generic [ref=e1463]:
+          - generic [ref=e1464]: More
+          - list [ref=e1465]:
+            - listitem [ref=e1466]:
+              - link "GitHub" [ref=e1467] [cursor=pointer]:
+                - /url: https://github.com/microsoft/playwright-java
+                - text: GitHub
+                - img [ref=e1468]
+            - listitem [ref=e1470]:
+              - link "YouTube" [ref=e1471] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg
+                - text: YouTube
+                - img [ref=e1472]
+            - listitem [ref=e1474]:
+              - link "Blog" [ref=e1475] [cursor=pointer]:
+                - /url: https://dev.to/playwright
+                - text: Blog
+                - img [ref=e1476]
+            - listitem [ref=e1478]:
+              - link "Ambassadors" [ref=e1479] [cursor=pointer]:
+                - /url: /java/community/ambassadors
+      - generic [ref=e1481]: Copyright © 2026 Microsoft

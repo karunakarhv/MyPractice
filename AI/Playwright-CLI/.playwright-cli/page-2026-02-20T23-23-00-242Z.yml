@@ -1,0 +1,1619 @@
+- generic [ref=e2]:
+  - region "Skip to main content":
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#__docusaurus_skipToContent_fallback"
+  - navigation "Main" [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "Playwright logo Playwright for Python" [ref=e7] [cursor=pointer]:
+          - /url: /python/
+          - img "Playwright logo" [ref=e9]
+          - generic [ref=e10]: Playwright for Python
+        - link "Docs" [ref=e11] [cursor=pointer]:
+          - /url: /python/docs/intro
+        - link "API" [ref=e12] [cursor=pointer]:
+          - /url: /python/docs/api/class-playwright
+        - button "Python" [ref=e14] [cursor=pointer]
+        - link "Community" [ref=e15] [cursor=pointer]:
+          - /url: /python/community/welcome
+      - generic [ref=e16]:
+        - link "GitHub repository" [ref=e17] [cursor=pointer]:
+          - /url: https://github.com/microsoft/playwright-python
+        - link "Discord server" [ref=e18] [cursor=pointer]:
+          - /url: https://aka.ms/playwright/discord
+        - button "Switch between dark and light mode (currently system mode)" [disabled] [ref=e20]:
+          - img [ref=e21]
+        - button "Search (Command+K)" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]:
+            - img [ref=e26]
+            - generic [ref=e28]: Search
+  - generic [ref=e31]:
+    - complementary [ref=e32]:
+      - navigation "Docs sidebar" [ref=e35]:
+        - list [ref=e36]:
+          - listitem [ref=e37]:
+            - button "Getting Started" [expanded] [ref=e39] [cursor=pointer]
+            - list [ref=e40]:
+              - listitem [ref=e41]:
+                - link "Installation" [ref=e42] [cursor=pointer]:
+                  - /url: /python/docs/intro
+              - listitem [ref=e43]:
+                - link "Writing tests" [ref=e44] [cursor=pointer]:
+                  - /url: /python/docs/writing-tests
+              - listitem [ref=e45]:
+                - link "Generating tests" [ref=e46] [cursor=pointer]:
+                  - /url: /python/docs/codegen-intro
+              - listitem [ref=e47]:
+                - link "Running and debugging tests" [ref=e48] [cursor=pointer]:
+                  - /url: /python/docs/running-tests
+              - listitem [ref=e49]:
+                - link "Trace viewer" [ref=e50] [cursor=pointer]:
+                  - /url: /python/docs/trace-viewer-intro
+              - listitem [ref=e51]:
+                - link "Setting up CI" [ref=e52] [cursor=pointer]:
+                  - /url: /python/docs/ci-intro
+              - listitem [ref=e53]:
+                - link "Pytest Plugin Reference" [ref=e54] [cursor=pointer]:
+                  - /url: /python/docs/test-runners
+          - listitem [ref=e55]:
+            - link "Getting started - Library" [ref=e56] [cursor=pointer]:
+              - /url: /python/docs/library
+          - listitem [ref=e57]:
+            - link "Release notes" [ref=e58] [cursor=pointer]:
+              - /url: /python/docs/release-notes
+          - listitem [ref=e59]:
+            - button "Guides" [expanded] [ref=e61] [cursor=pointer]
+            - list [ref=e62]:
+              - listitem [ref=e63]:
+                - link "Actions" [ref=e64] [cursor=pointer]:
+                  - /url: /python/docs/input
+              - listitem [ref=e65]:
+                - link "Auto-waiting" [ref=e66] [cursor=pointer]:
+                  - /url: /python/docs/actionability
+              - listitem [ref=e67]:
+                - link "API testing" [ref=e68] [cursor=pointer]:
+                  - /url: /python/docs/api-testing
+              - listitem [ref=e69]:
+                - link "Assertions" [ref=e70] [cursor=pointer]:
+                  - /url: /python/docs/test-assertions
+              - listitem [ref=e71]:
+                - link "Authentication" [ref=e72] [cursor=pointer]:
+                  - /url: /python/docs/auth
+              - listitem [ref=e73]:
+                - link "Browsers" [ref=e74] [cursor=pointer]:
+                  - /url: /python/docs/browsers
+              - listitem [ref=e75]:
+                - link "Chrome extensions" [ref=e76] [cursor=pointer]:
+                  - /url: /python/docs/chrome-extensions
+              - listitem [ref=e77]:
+                - link "Clock" [ref=e78] [cursor=pointer]:
+                  - /url: /python/docs/clock
+              - listitem [ref=e79]:
+                - link "Debugging Tests" [ref=e80] [cursor=pointer]:
+                  - /url: /python/docs/debug
+              - listitem [ref=e81]:
+                - link "Dialogs" [ref=e82] [cursor=pointer]:
+                  - /url: /python/docs/dialogs
+              - listitem [ref=e83]:
+                - link "Downloads" [ref=e84] [cursor=pointer]:
+                  - /url: /python/docs/downloads
+              - listitem [ref=e85]:
+                - link "Emulation" [ref=e86] [cursor=pointer]:
+                  - /url: /python/docs/emulation
+              - listitem [ref=e87]:
+                - link "Evaluating JavaScript" [ref=e88] [cursor=pointer]:
+                  - /url: /python/docs/evaluating
+              - listitem [ref=e89]:
+                - link "Events" [ref=e90] [cursor=pointer]:
+                  - /url: /python/docs/events
+              - listitem [ref=e91]:
+                - link "Extensibility" [ref=e92] [cursor=pointer]:
+                  - /url: /python/docs/extensibility
+              - listitem [ref=e93]:
+                - link "Frames" [ref=e94] [cursor=pointer]:
+                  - /url: /python/docs/frames
+              - listitem [ref=e95]:
+                - link "Handles" [ref=e96] [cursor=pointer]:
+                  - /url: /python/docs/handles
+              - listitem [ref=e97]:
+                - link "Isolation" [ref=e98] [cursor=pointer]:
+                  - /url: /python/docs/browser-contexts
+              - listitem [ref=e99]:
+                - link "Locators" [ref=e100] [cursor=pointer]:
+                  - /url: /python/docs/locators
+              - listitem [ref=e101]:
+                - link "Mock APIs" [ref=e102] [cursor=pointer]:
+                  - /url: /python/docs/mock
+              - listitem [ref=e103]:
+                - link "Navigations" [ref=e104] [cursor=pointer]:
+                  - /url: /python/docs/navigations
+              - listitem [ref=e105]:
+                - link "Network" [ref=e106] [cursor=pointer]:
+                  - /url: /python/docs/network
+              - listitem [ref=e107]:
+                - link "Other locators" [ref=e108] [cursor=pointer]:
+                  - /url: /python/docs/other-locators
+              - listitem [ref=e109]:
+                - link "Pages" [ref=e110] [cursor=pointer]:
+                  - /url: /python/docs/pages
+              - listitem [ref=e111]:
+                - link "Page object models" [ref=e112] [cursor=pointer]:
+                  - /url: /python/docs/pom
+              - listitem [ref=e113]:
+                - link "Screenshots" [ref=e114] [cursor=pointer]:
+                  - /url: /python/docs/screenshots
+              - listitem [ref=e115]:
+                - link "Snapshot testing" [ref=e116] [cursor=pointer]:
+                  - /url: /python/docs/aria-snapshots
+              - listitem [ref=e117]:
+                - link "Test generator" [ref=e118] [cursor=pointer]:
+                  - /url: /python/docs/codegen
+              - listitem [ref=e119]:
+                - link "Touch events (legacy)" [ref=e120] [cursor=pointer]:
+                  - /url: /python/docs/touch-events
+              - listitem [ref=e121]:
+                - link "Trace viewer" [ref=e122] [cursor=pointer]:
+                  - /url: /python/docs/trace-viewer
+              - listitem [ref=e123]:
+                - link "Videos" [ref=e124] [cursor=pointer]:
+                  - /url: /python/docs/videos
+              - listitem [ref=e125]:
+                - link "WebView2" [ref=e126] [cursor=pointer]:
+                  - /url: /python/docs/webview2
+          - listitem [ref=e127]:
+            - button "Integrations" [ref=e129] [cursor=pointer]
+          - listitem [ref=e130]:
+            - link "Supported languages" [ref=e131] [cursor=pointer]:
+              - /url: /python/docs/languages
+    - main [ref=e132]:
+      - generic [ref=e134]:
+        - generic [ref=e136]:
+          - article [ref=e137]:
+            - navigation "Breadcrumbs" [ref=e138]:
+              - list [ref=e139]:
+                - listitem [ref=e140]:
+                  - link "Home page" [ref=e141] [cursor=pointer]:
+                    - /url: /python/
+                    - img [ref=e142]
+                - listitem [ref=e144]:
+                  - generic [ref=e145]: Guides
+                - listitem [ref=e146]:
+                  - generic [ref=e147]: Locators
+            - generic [ref=e148]:
+              - heading "Locators" [level=1] [ref=e150]
+              - heading "IntroductionDirect link to Introduction" [level=2] [ref=e151]:
+                - text: Introduction
+                - link "Direct link to Introduction" [ref=e152] [cursor=pointer]:
+                  - /url: "#introduction"
+                  - text: "#"
+              - paragraph [ref=e153]:
+                - link "Locator" [ref=e154] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator
+                - text: s are the central piece of Playwright's auto-waiting and retry-ability. In a nutshell, locators represent a way to find element(s) on the page at any moment.
+              - heading "Quick GuideDirect link to Quick Guide" [level=3] [ref=e155]:
+                - text: Quick Guide
+                - link "Direct link to Quick Guide" [ref=e156] [cursor=pointer]:
+                  - /url: "#quick-guide"
+                  - text: "#"
+              - paragraph [ref=e157]: These are the recommended built-in locators.
+              - list [ref=e158]:
+                - listitem [ref=e159]:
+                  - link "page.get_by_role()" [ref=e160] [cursor=pointer]:
+                    - /url: "#locate-by-role"
+                  - text: to locate by explicit and implicit accessibility attributes.
+                - listitem [ref=e161]:
+                  - link "page.get_by_text()" [ref=e162] [cursor=pointer]:
+                    - /url: "#locate-by-text"
+                  - text: to locate by text content.
+                - listitem [ref=e163]:
+                  - link "page.get_by_label()" [ref=e164] [cursor=pointer]:
+                    - /url: "#locate-by-label"
+                  - text: to locate a form control by associated label's text.
+                - listitem [ref=e165]:
+                  - link "page.get_by_placeholder()" [ref=e166] [cursor=pointer]:
+                    - /url: "#locate-by-placeholder"
+                  - text: to locate an input by placeholder.
+                - listitem [ref=e167]:
+                  - link "page.get_by_alt_text()" [ref=e168] [cursor=pointer]:
+                    - /url: "#locate-by-alt-text"
+                  - text: to locate an element, usually image, by its text alternative.
+                - listitem [ref=e169]:
+                  - link "page.get_by_title()" [ref=e170] [cursor=pointer]:
+                    - /url: "#locate-by-title"
+                  - text: to locate an element by its title attribute.
+                - listitem [ref=e171]:
+                  - link "page.get_by_test_id()" [ref=e172] [cursor=pointer]:
+                    - /url: "#locate-by-test-id"
+                  - text: to locate an element based on its
+                  - code [ref=e173]: data-testid
+                  - text: attribute (other attributes can be configured).
+              - generic [ref=e174]:
+                - tablist [ref=e175]:
+                  - tab "Sync" [selected] [ref=e176] [cursor=pointer]
+                  - tab "Async" [ref=e177] [cursor=pointer]
+                - tabpanel [ref=e179]:
+                  - code [ref=e183]:
+                    - generic [ref=e184]: page.get_by_label("User Name").fill("John")
+                    - generic [ref=e185]: page.get_by_label("Password").fill("secret-password")
+                    - generic [ref=e186]: page.get_by_role("button", name="Sign in").click()
+                    - generic [ref=e187]: expect(page.get_by_text("Welcome, John!")).to_be_visible()
+              - heading "Locating elementsDirect link to Locating elements" [level=2] [ref=e188]:
+                - text: Locating elements
+                - link "Direct link to Locating elements" [ref=e189] [cursor=pointer]:
+                  - /url: "#locating-elements"
+                  - text: "#"
+              - paragraph [ref=e190]:
+                - text: Playwright comes with multiple built-in locators. To make tests resilient, we recommend prioritizing user-facing attributes and explicit contracts such as
+                - link "page.get_by_role()" [ref=e191] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-role
+                - text: .
+              - paragraph [ref=e192]: For example, consider the following DOM structure.
+              - generic [ref=e193]:
+                - generic [ref=e199]: http://localhost:3000
+                - generic [ref=e205]:
+                  - button "Sign in" [ref=e208] [cursor=pointer]
+                  - code [ref=e213]:
+                    - generic [ref=e214]: <button>Sign in</button>
+              - paragraph [ref=e215]:
+                - text: Locate the element by its role of
+                - code [ref=e216]: button
+                - text: with name "Sign in".
+              - generic [ref=e217]:
+                - tablist [ref=e218]:
+                  - tab "Sync" [selected] [ref=e219] [cursor=pointer]
+                  - tab "Async" [ref=e220] [cursor=pointer]
+                - tabpanel [ref=e222]:
+                  - code [ref=e226]:
+                    - generic [ref=e227]: page.get_by_role("button", name="Sign in").click()
+              - generic [ref=e228]:
+                - generic [ref=e229]:
+                  - img [ref=e231]
+                  - text: note
+                - paragraph [ref=e234]:
+                  - text: Use the
+                  - link "code generator" [ref=e235] [cursor=pointer]:
+                    - /url: /python/docs/codegen
+                  - text: to generate a locator, and then edit it as you'd like.
+              - paragraph [ref=e236]: Every time a locator is used for an action, an up-to-date DOM element is located in the page. In the snippet below, the underlying DOM element will be located twice, once prior to every action. This means that if the DOM changes in between the calls due to re-render, the new element corresponding to the locator will be used.
+              - generic [ref=e237]:
+                - tablist [ref=e238]:
+                  - tab "Sync" [selected] [ref=e239] [cursor=pointer]
+                  - tab "Async" [ref=e240] [cursor=pointer]
+                - tabpanel [ref=e242]:
+                  - code [ref=e246]:
+                    - generic [ref=e247]: locator = page.get_by_role("button", name="Sign in")
+                    - generic [ref=e248]: locator.hover()
+                    - generic [ref=e249]: locator.click()
+              - paragraph [ref=e250]:
+                - text: Note that all methods that create a locator, such as
+                - link "page.get_by_label()" [ref=e251] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-label
+                - text: ", are also available on the"
+                - link "Locator" [ref=e252] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator
+                - text: and
+                - link "FrameLocator" [ref=e253] [cursor=pointer]:
+                  - /url: /python/docs/api/class-framelocator
+                - text: classes, so you can chain them and iteratively narrow down your locator.
+              - generic [ref=e254]:
+                - tablist [ref=e255]:
+                  - tab "Sync" [selected] [ref=e256] [cursor=pointer]
+                  - tab "Async" [ref=e257] [cursor=pointer]
+                - tabpanel [ref=e259]:
+                  - code [ref=e263]:
+                    - generic [ref=e264]: locator = page.frame_locator("my-frame").get_by_role("button", name="Sign in")
+                    - generic [ref=e265]: locator.click()
+              - heading "Locate by roleDirect link to Locate by role" [level=3] [ref=e266]:
+                - text: Locate by role
+                - link "Direct link to Locate by role" [ref=e267] [cursor=pointer]:
+                  - /url: "#locate-by-role"
+                  - text: "#"
+              - paragraph [ref=e268]:
+                - text: The
+                - link "page.get_by_role()" [ref=e269] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-role
+                - text: locator reflects how users and assistive technology perceive the page, for example whether some element is a button or a checkbox. When locating by role, you should usually pass the accessible name as well, so that the locator pinpoints the exact element.
+              - paragraph [ref=e270]: For example, consider the following DOM structure.
+              - generic [ref=e271]:
+                - generic [ref=e277]: http://localhost:3000
+                - generic [ref=e283]:
+                  - generic [ref=e285]:
+                    - heading "Sign up" [level=3] [ref=e286]
+                    - paragraph [ref=e288]:
+                      - checkbox "Subscribe Submit" [ref=e289]
+                      - text: Subscribe
+                      - button "Submit" [ref=e290] [cursor=pointer]
+                  - code [ref=e295]:
+                    - generic [ref=e296]: <h3>Sign up</h3>
+                    - generic [ref=e297]: <label>
+                    - generic [ref=e298]: <input type="checkbox" /> Subscribe
+                    - generic [ref=e299]: </label>
+                    - generic [ref=e300]: <br/>
+                    - generic [ref=e301]: <button>Submit</button>
+              - paragraph [ref=e302]: "You can locate each element by its implicit role:"
+              - generic [ref=e303]:
+                - tablist [ref=e304]:
+                  - tab "Sync" [selected] [ref=e305] [cursor=pointer]
+                  - tab "Async" [ref=e306] [cursor=pointer]
+                - tabpanel [ref=e308]:
+                  - code [ref=e312]:
+                    - generic [ref=e313]: expect(page.get_by_role("heading", name="Sign up")).to_be_visible()
+                    - generic [ref=e314]: page.get_by_role("checkbox", name="Subscribe").check()
+                    - generic [ref=e315]: page.get_by_role("button", name=re.compile("submit", re.IGNORECASE)).click()
+              - paragraph [ref=e316]:
+                - text: Role locators include
+                - link "buttons, checkboxes, headings, links, lists, tables, and many more" [ref=e317] [cursor=pointer]:
+                  - /url: https://www.w3.org/TR/html-aria/#docconformance
+                - text: and follow W3C specifications for
+                - link "ARIA role" [ref=e318] [cursor=pointer]:
+                  - /url: https://www.w3.org/TR/wai-aria-1.2/#roles
+                - text: ","
+                - link "ARIA attributes" [ref=e319] [cursor=pointer]:
+                  - /url: https://www.w3.org/TR/wai-aria-1.2/#aria-attributes
+                - text: and
+                - link "accessible name" [ref=e320] [cursor=pointer]:
+                  - /url: https://w3c.github.io/accname/#dfn-accessible-name
+                - text: . Note that many html elements like
+                - code [ref=e321]: <button>
+                - text: have an
+                - link "implicitly defined role" [ref=e322] [cursor=pointer]:
+                  - /url: https://w3c.github.io/html-aam/#html-element-role-mappings
+                - text: that is recognized by the role locator.
+              - paragraph [ref=e323]:
+                - text: Note that role locators
+                - strong [ref=e324]: do not replace
+                - text: accessibility audits and conformance tests, but rather give early feedback about the ARIA guidelines.
+              - generic [ref=e325]:
+                - generic [ref=e326]:
+                  - img [ref=e328]
+                  - text: When to use role locators
+                - paragraph [ref=e331]: We recommend prioritizing role locators to locate elements, as it is the closest way to how users and assistive technology perceive the page.
+              - heading "Locate by labelDirect link to Locate by label" [level=3] [ref=e332]:
+                - text: Locate by label
+                - link "Direct link to Locate by label" [ref=e333] [cursor=pointer]:
+                  - /url: "#locate-by-label"
+                  - text: "#"
+              - paragraph [ref=e334]:
+                - text: Most form controls usually have dedicated labels that could be conveniently used to interact with the form. In this case, you can locate the control by its associated label using
+                - link "page.get_by_label()" [ref=e335] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-label
+                - text: .
+              - paragraph [ref=e336]: For example, consider the following DOM structure.
+              - generic [ref=e337]:
+                - generic [ref=e343]: http://localhost:3000
+                - generic [ref=e349]:
+                  - generic [ref=e352]:
+                    - text: Password
+                    - textbox "Password" [ref=e353]
+                  - code [ref=e358]:
+                    - generic [ref=e359]: <label>Password <input type="password" /></label>
+              - paragraph [ref=e360]: "You can fill the input after locating it by the label text:"
+              - generic [ref=e361]:
+                - tablist [ref=e362]:
+                  - tab "Sync" [selected] [ref=e363] [cursor=pointer]
+                  - tab "Async" [ref=e364] [cursor=pointer]
+                - tabpanel [ref=e366]:
+                  - code [ref=e370]:
+                    - generic [ref=e371]: page.get_by_label("Password").fill("secret")
+              - generic [ref=e372]:
+                - generic [ref=e373]:
+                  - img [ref=e375]
+                  - text: When to use label locators
+                - paragraph [ref=e378]: Use this locator when locating form fields.
+              - heading "Locate by placeholderDirect link to Locate by placeholder" [level=3] [ref=e379]:
+                - text: Locate by placeholder
+                - link "Direct link to Locate by placeholder" [ref=e380] [cursor=pointer]:
+                  - /url: "#locate-by-placeholder"
+                  - text: "#"
+              - paragraph [ref=e381]:
+                - text: Inputs may have a placeholder attribute to hint to the user what value should be entered. You can locate such an input using
+                - link "page.get_by_placeholder()" [ref=e382] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-placeholder
+                - text: .
+              - paragraph [ref=e383]: For example, consider the following DOM structure.
+              - generic [ref=e384]:
+                - generic [ref=e390]: http://localhost:3000
+                - generic [ref=e396]:
+                  - textbox "name@example.com" [ref=e399]
+                  - code [ref=e404]:
+                    - generic [ref=e405]: <input type="email" placeholder="name@example.com" />
+              - paragraph [ref=e406]: "You can fill the input after locating it by the placeholder text:"
+              - generic [ref=e407]:
+                - tablist [ref=e408]:
+                  - tab "Sync" [selected] [ref=e409] [cursor=pointer]
+                  - tab "Async" [ref=e410] [cursor=pointer]
+                - tabpanel [ref=e412]:
+                  - code [ref=e416]:
+                    - generic [ref=e417]: page.get_by_placeholder("name@example.com").fill("playwright@microsoft.com")
+              - generic [ref=e418]:
+                - generic [ref=e419]:
+                  - img [ref=e421]
+                  - text: When to use placeholder locators
+                - paragraph [ref=e424]: Use this locator when locating form elements that do not have labels but do have placeholder texts.
+              - heading "Locate by textDirect link to Locate by text" [level=3] [ref=e425]:
+                - text: Locate by text
+                - link "Direct link to Locate by text" [ref=e426] [cursor=pointer]:
+                  - /url: "#locate-by-text"
+                  - text: "#"
+              - paragraph [ref=e427]:
+                - text: Find an element by the text it contains. You can match by a substring, exact string, or a regular expression when using
+                - link "page.get_by_text()" [ref=e428] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-text
+                - text: .
+              - paragraph [ref=e429]: For example, consider the following DOM structure.
+              - generic [ref=e430]:
+                - generic [ref=e436]: http://localhost:3000
+                - generic [ref=e442]:
+                  - generic [ref=e444]: Welcome, John
+                  - code [ref=e449]:
+                    - generic [ref=e450]: <span>Welcome, John</span>
+              - paragraph [ref=e451]: "You can locate the element by the text it contains:"
+              - generic [ref=e452]:
+                - tablist [ref=e453]:
+                  - tab "Sync" [selected] [ref=e454] [cursor=pointer]
+                  - tab "Async" [ref=e455] [cursor=pointer]
+                - tabpanel [ref=e457]:
+                  - code [ref=e461]:
+                    - generic [ref=e462]: expect(page.get_by_text("Welcome, John")).to_be_visible()
+              - paragraph [ref=e463]: "Set an exact match:"
+              - generic [ref=e464]:
+                - tablist [ref=e465]:
+                  - tab "Sync" [selected] [ref=e466] [cursor=pointer]
+                  - tab "Async" [ref=e467] [cursor=pointer]
+                - tabpanel [ref=e469]:
+                  - code [ref=e473]:
+                    - generic [ref=e474]: expect(page.get_by_text("Welcome, John", exact=True)).to_be_visible()
+              - paragraph [ref=e475]: "Match with a regular expression:"
+              - generic [ref=e476]:
+                - tablist [ref=e477]:
+                  - tab "Sync" [selected] [ref=e478] [cursor=pointer]
+                  - tab "Async" [ref=e479] [cursor=pointer]
+                - tabpanel [ref=e481]:
+                  - code [ref=e485]:
+                    - generic [ref=e486]: expect(page.get_by_text(re.compile("welcome, john", re.IGNORECASE))).to_be_visible()
+              - generic [ref=e487]:
+                - generic [ref=e488]:
+                  - img [ref=e490]
+                  - text: note
+                - paragraph [ref=e493]: Matching by text always normalizes whitespace, even with exact match. For example, it turns multiple spaces into one, turns line breaks into spaces and ignores leading and trailing whitespace.
+              - generic [ref=e494]:
+                - generic [ref=e495]:
+                  - img [ref=e497]
+                  - text: When to use text locators
+                - paragraph [ref=e500]:
+                  - text: We recommend using text locators to find non interactive elements like
+                  - code [ref=e501]: div
+                  - text: ","
+                  - code [ref=e502]: span
+                  - text: ","
+                  - code [ref=e503]: p
+                  - text: ", etc. For interactive elements like"
+                  - code [ref=e504]: button
+                  - text: ","
+                  - code [ref=e505]: a
+                  - text: ","
+                  - code [ref=e506]: input
+                  - text: ", etc. use"
+                  - link "role locators" [ref=e507] [cursor=pointer]:
+                    - /url: "#locate-by-role"
+                  - text: .
+              - paragraph [ref=e508]:
+                - text: You can also
+                - link "filter by text" [ref=e509] [cursor=pointer]:
+                  - /url: "#filter-by-text"
+                - text: which can be useful when trying to find a particular item in a list.
+              - heading "Locate by alt textDirect link to Locate by alt text" [level=3] [ref=e510]:
+                - text: Locate by alt text
+                - link "Direct link to Locate by alt text" [ref=e511] [cursor=pointer]:
+                  - /url: "#locate-by-alt-text"
+                  - text: "#"
+              - paragraph [ref=e512]:
+                - text: All images should have an
+                - code [ref=e513]: alt
+                - text: attribute that describes the image. You can locate an image based on the text alternative using
+                - link "page.get_by_alt_text()" [ref=e514] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-alt-text
+                - text: .
+              - paragraph [ref=e515]: For example, consider the following DOM structure.
+              - generic [ref=e516]:
+                - generic [ref=e522]: http://localhost:3000
+                - generic [ref=e528]:
+                  - img "playwright logo" [ref=e531]
+                  - code [ref=e536]:
+                    - generic [ref=e537]: <img alt="playwright logo" src="/img/playwright-logo.svg" width="100" />
+              - paragraph [ref=e538]: "You can click on the image after locating it by the text alternative:"
+              - generic [ref=e539]:
+                - tablist [ref=e540]:
+                  - tab "Sync" [selected] [ref=e541] [cursor=pointer]
+                  - tab "Async" [ref=e542] [cursor=pointer]
+                - tabpanel [ref=e544]:
+                  - code [ref=e548]:
+                    - generic [ref=e549]: page.get_by_alt_text("playwright logo").click()
+              - generic [ref=e550]:
+                - generic [ref=e551]:
+                  - img [ref=e553]
+                  - text: When to use alt locators
+                - paragraph [ref=e556]:
+                  - text: Use this locator when your element supports alt text such as
+                  - code [ref=e557]: img
+                  - text: and
+                  - code [ref=e558]: area
+                  - text: elements.
+              - heading "Locate by titleDirect link to Locate by title" [level=3] [ref=e559]:
+                - text: Locate by title
+                - link "Direct link to Locate by title" [ref=e560] [cursor=pointer]:
+                  - /url: "#locate-by-title"
+                  - text: "#"
+              - paragraph [ref=e561]:
+                - text: Locate an element with a matching title attribute using
+                - link "page.get_by_title()" [ref=e562] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-title
+                - text: .
+              - paragraph [ref=e563]: For example, consider the following DOM structure.
+              - generic [ref=e564]:
+                - generic [ref=e570]: http://localhost:3000
+                - generic [ref=e576]:
+                  - generic [ref=e578]: 25 issues
+                  - code [ref=e583]:
+                    - generic [ref=e584]: <span title='Issues count'>25 issues</span>
+              - paragraph [ref=e585]: "You can check the issues count after locating it by the title text:"
+              - generic [ref=e586]:
+                - tablist [ref=e587]:
+                  - tab "Sync" [selected] [ref=e588] [cursor=pointer]
+                  - tab "Async" [ref=e589] [cursor=pointer]
+                - tabpanel [ref=e591]:
+                  - code [ref=e595]:
+                    - generic [ref=e596]: expect(page.get_by_title("Issues count")).to_have_text("25 issues")
+              - generic [ref=e597]:
+                - generic [ref=e598]:
+                  - img [ref=e600]
+                  - text: When to use title locators
+                - paragraph [ref=e603]:
+                  - text: Use this locator when your element has the
+                  - code [ref=e604]: title
+                  - text: attribute.
+              - heading "Locate by test idDirect link to Locate by test id" [level=3] [ref=e605]:
+                - text: Locate by test id
+                - link "Direct link to Locate by test id" [ref=e606] [cursor=pointer]:
+                  - /url: "#locate-by-test-id"
+                  - text: "#"
+              - paragraph [ref=e607]:
+                - text: Testing by test ids is the most resilient way of testing as even if your text or role of the attribute changes, the test will still pass. QA's and developers should define explicit test ids and query them with
+                - link "page.get_by_test_id()" [ref=e608] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-test-id
+                - text: . However testing by test ids is not user facing. If the role or text value is important to you then consider using user facing locators such as
+                - link "role" [ref=e609] [cursor=pointer]:
+                  - /url: "#locate-by-role"
+                - text: and
+                - link "text locators" [ref=e610] [cursor=pointer]:
+                  - /url: "#locate-by-text"
+                - text: .
+              - paragraph [ref=e611]: For example, consider the following DOM structure.
+              - generic [ref=e612]:
+                - generic [ref=e618]: http://localhost:3000
+                - generic [ref=e624]:
+                  - button "Itinéraire" [ref=e627] [cursor=pointer]
+                  - code [ref=e632]:
+                    - generic [ref=e633]: <button data-testid="directions">Itinéraire</button>
+              - paragraph [ref=e634]: "You can locate the element by its test id:"
+              - generic [ref=e635]:
+                - tablist [ref=e636]:
+                  - tab "Sync" [selected] [ref=e637] [cursor=pointer]
+                  - tab "Async" [ref=e638] [cursor=pointer]
+                - tabpanel [ref=e640]:
+                  - code [ref=e644]:
+                    - generic [ref=e645]: page.get_by_test_id("directions").click()
+              - generic [ref=e646]:
+                - generic [ref=e647]:
+                  - img [ref=e649]
+                  - text: When to use testid locators
+                - paragraph [ref=e652]:
+                  - text: You can also use test ids when you choose to use the test id methodology or when you can't locate by
+                  - link "role" [ref=e653] [cursor=pointer]:
+                    - /url: "#locate-by-role"
+                  - text: or
+                  - link "text" [ref=e654] [cursor=pointer]:
+                    - /url: "#locate-by-text"
+                  - text: .
+              - heading "Set a custom test id attributeDirect link to Set a custom test id attribute" [level=4] [ref=e655]:
+                - text: Set a custom test id attribute
+                - link "Direct link to Set a custom test id attribute" [ref=e656] [cursor=pointer]:
+                  - /url: "#set-a-custom-test-id-attribute"
+                  - text: "#"
+              - paragraph [ref=e657]:
+                - text: By default,
+                - link "page.get_by_test_id()" [ref=e658] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-test-id
+                - text: will locate elements based on the
+                - code [ref=e659]: data-testid
+                - text: attribute, but you can configure it in your test config or by calling
+                - link "selectors.set_test_id_attribute()" [ref=e660] [cursor=pointer]:
+                  - /url: /python/docs/api/class-selectors#selectors-set-test-id-attribute
+                - text: .
+              - paragraph [ref=e661]: Set the test id to use a custom data attribute for your tests.
+              - generic [ref=e662]:
+                - tablist [ref=e663]:
+                  - tab "Sync" [selected] [ref=e664] [cursor=pointer]
+                  - tab "Async" [ref=e665] [cursor=pointer]
+                - tabpanel [ref=e667]:
+                  - code [ref=e671]:
+                    - generic [ref=e672]: playwright.selectors.set_test_id_attribute("data-pw")
+              - paragraph [ref=e673]:
+                - text: In your html you can now use
+                - code [ref=e674]: data-pw
+                - text: as your test id instead of the default
+                - code [ref=e675]: data-testid
+                - text: .
+              - generic [ref=e676]:
+                - generic [ref=e682]: http://localhost:3000
+                - generic [ref=e688]:
+                  - button "Itinéraire" [ref=e691] [cursor=pointer]
+                  - code [ref=e696]:
+                    - generic [ref=e697]: <button data-pw="directions">Itinéraire</button>
+              - paragraph [ref=e698]: "And then locate the element as you would normally do:"
+              - generic [ref=e699]:
+                - tablist [ref=e700]:
+                  - tab "Sync" [selected] [ref=e701] [cursor=pointer]
+                  - tab "Async" [ref=e702] [cursor=pointer]
+                - tabpanel [ref=e704]:
+                  - code [ref=e708]:
+                    - generic [ref=e709]: page.get_by_test_id("directions").click()
+              - heading "Locate by CSS or XPathDirect link to Locate by CSS or XPath" [level=3] [ref=e710]:
+                - text: Locate by CSS or XPath
+                - link "Direct link to Locate by CSS or XPath" [ref=e711] [cursor=pointer]:
+                  - /url: "#locate-by-css-or-xpath"
+                  - text: "#"
+              - paragraph [ref=e712]:
+                - text: If you absolutely must use CSS or XPath locators, you can use
+                - link "page.locator()" [ref=e713] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-locator
+                - text: to create a locator that takes a selector describing how to find an element in the page. Playwright supports CSS and XPath selectors, and auto-detects them if you omit
+                - code [ref=e714]: css=
+                - text: or
+                - code [ref=e715]: xpath=
+                - text: prefix.
+              - generic [ref=e716]:
+                - tablist [ref=e717]:
+                  - tab "Sync" [selected] [ref=e718] [cursor=pointer]
+                  - tab "Async" [ref=e719] [cursor=pointer]
+                - tabpanel [ref=e721]:
+                  - code [ref=e725]:
+                    - generic [ref=e726]: page.locator("css=button").click()
+                    - generic [ref=e727]: page.locator("xpath=//button").click()
+                    - generic [ref=e728]: page.locator("button").click()
+                    - generic [ref=e729]: page.locator("//button").click()
+              - paragraph [ref=e730]:
+                - text: XPath and CSS selectors can be tied to the DOM structure or implementation. These selectors can break when the DOM structure changes. Long CSS or XPath chains below are an example of a
+                - strong [ref=e731]: bad practice
+                - text: "that leads to unstable tests:"
+              - generic [ref=e732]:
+                - tablist [ref=e733]:
+                  - tab "Sync" [selected] [ref=e734] [cursor=pointer]
+                  - tab "Async" [ref=e735] [cursor=pointer]
+                - tabpanel [ref=e737]:
+                  - code [ref=e741]:
+                    - generic [ref=e742]: page.locator(
+                    - generic [ref=e743]: "\"#tsf > div:nth-child(2) > div.A8SBwf > div.RNNXgb > div > div.a4bIc > input\""
+                    - generic [ref=e744]: ).click()
+                    - generic [ref=e745]: page.locator('//*[@id="tsf"]/div[2]/div[1]/div[1]/div/div[2]/input').click()
+              - generic [ref=e746]:
+                - generic [ref=e747]:
+                  - img [ref=e749]
+                  - text: When to use this
+                - paragraph [ref=e752]:
+                  - text: CSS and XPath are not recommended as the DOM can often change leading to non resilient tests. Instead, try to come up with a locator that is close to how the user perceives the page such as
+                  - link "role locators" [ref=e753] [cursor=pointer]:
+                    - /url: "#locate-by-role"
+                  - text: or
+                  - link "define an explicit testing contract" [ref=e754] [cursor=pointer]:
+                    - /url: "#locate-by-test-id"
+                  - text: using test ids.
+              - heading "Locate in Shadow DOMDirect link to Locate in Shadow DOM" [level=2] [ref=e755]:
+                - text: Locate in Shadow DOM
+                - link "Direct link to Locate in Shadow DOM" [ref=e756] [cursor=pointer]:
+                  - /url: "#locate-in-shadow-dom"
+                  - text: "#"
+              - paragraph [ref=e757]:
+                - text: All locators in Playwright
+                - strong [ref=e758]: by default
+                - text: "work with elements in Shadow DOM. The exceptions are:"
+              - list [ref=e759]:
+                - listitem [ref=e760]: Locating by XPath does not pierce shadow roots.
+                - listitem [ref=e761]:
+                  - link "Closed-mode shadow roots" [ref=e762] [cursor=pointer]:
+                    - /url: https://developer.mozilla.org/en-US/docs/Web/API/Element/attachShadow#parameters
+                  - text: are not supported.
+              - paragraph [ref=e763]: "Consider the following example with a custom web component:"
+              - code [ref=e767]:
+                - generic [ref=e768]: <x-details role=button aria-expanded=true aria-controls=inner-details>
+                - generic [ref=e769]: <div>Title</div>
+                - generic [ref=e770]: "#shadow-root"
+                - generic [ref=e771]: <div id=inner-details>Details</div>
+                - generic [ref=e772]: </x-details>
+              - paragraph [ref=e773]: You can locate in the same way as if the shadow root was not present at all.
+              - paragraph [ref=e774]:
+                - text: To click
+                - code [ref=e775]: <div>Details</div>
+                - text: ":"
+              - generic [ref=e776]:
+                - tablist [ref=e777]:
+                  - tab "Sync" [selected] [ref=e778] [cursor=pointer]
+                  - tab "Async" [ref=e779] [cursor=pointer]
+                - tabpanel [ref=e781]:
+                  - code [ref=e785]:
+                    - generic [ref=e786]: page.get_by_text("Details").click()
+              - code [ref=e790]:
+                - generic [ref=e791]: <x-details role=button aria-expanded=true aria-controls=inner-details>
+                - generic [ref=e792]: <div>Title</div>
+                - generic [ref=e793]: "#shadow-root"
+                - generic [ref=e794]: <div id=inner-details>Details</div>
+                - generic [ref=e795]: </x-details>
+              - paragraph [ref=e796]:
+                - text: To click
+                - code [ref=e797]: <x-details>
+                - text: ":"
+              - generic [ref=e798]:
+                - tablist [ref=e799]:
+                  - tab "Sync" [selected] [ref=e800] [cursor=pointer]
+                  - tab "Async" [ref=e801] [cursor=pointer]
+                - tabpanel [ref=e803]:
+                  - code [ref=e807]:
+                    - generic [ref=e808]: page.locator("x-details", has_text="Details").click()
+              - code [ref=e812]:
+                - generic [ref=e813]: <x-details role=button aria-expanded=true aria-controls=inner-details>
+                - generic [ref=e814]: <div>Title</div>
+                - generic [ref=e815]: "#shadow-root"
+                - generic [ref=e816]: <div id=inner-details>Details</div>
+                - generic [ref=e817]: </x-details>
+              - paragraph [ref=e818]:
+                - text: To ensure that
+                - code [ref=e819]: <x-details>
+                - text: "contains the text \"Details\":"
+              - generic [ref=e820]:
+                - tablist [ref=e821]:
+                  - tab "Sync" [selected] [ref=e822] [cursor=pointer]
+                  - tab "Async" [ref=e823] [cursor=pointer]
+                - tabpanel [ref=e825]:
+                  - code [ref=e829]:
+                    - generic [ref=e830]: expect(page.locator("x-details")).to_contain_text("Details")
+              - heading "Filtering LocatorsDirect link to Filtering Locators" [level=2] [ref=e831]:
+                - text: Filtering Locators
+                - link "Direct link to Filtering Locators" [ref=e832] [cursor=pointer]:
+                  - /url: "#filtering-locators"
+                  - text: "#"
+              - paragraph [ref=e833]: Consider the following DOM structure where we want to click on the buy button of the second product card. We have a few options in order to filter the locators to get the right one.
+              - generic [ref=e834]:
+                - generic [ref=e840]: http://localhost:3000
+                - generic [ref=e846]:
+                  - list [ref=e849]:
+                    - listitem [ref=e850]:
+                      - heading "Product 1" [level=3] [ref=e851]
+                      - button "Add to cart" [ref=e852] [cursor=pointer]
+                    - listitem [ref=e853]:
+                      - heading "Product 2" [level=3] [ref=e854]
+                      - button "Add to cart" [ref=e855] [cursor=pointer]
+                  - code [ref=e860]:
+                    - generic [ref=e861]: <ul>
+                    - generic [ref=e862]: <li>
+                    - generic [ref=e863]: <h3>Product 1</h3>
+                    - generic [ref=e864]: <button>Add to cart</button>
+                    - generic [ref=e865]: </li>
+                    - generic [ref=e866]: <li>
+                    - generic [ref=e867]: <h3>Product 2</h3>
+                    - generic [ref=e868]: <button>Add to cart</button>
+                    - generic [ref=e869]: </li>
+                    - generic [ref=e870]: </ul>
+              - heading "Filter by textDirect link to Filter by text" [level=3] [ref=e871]:
+                - text: Filter by text
+                - link "Direct link to Filter by text" [ref=e872] [cursor=pointer]:
+                  - /url: "#filter-by-text"
+                  - text: "#"
+              - paragraph [ref=e873]:
+                - text: Locators can be filtered by text with the
+                - link "locator.filter()" [ref=e874] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-filter
+                - text: method. It will search for a particular string somewhere inside the element, possibly in a descendant element, case-insensitively. You can also pass a regular expression.
+              - generic [ref=e875]:
+                - tablist [ref=e876]:
+                  - tab "Sync" [selected] [ref=e877] [cursor=pointer]
+                  - tab "Async" [ref=e878] [cursor=pointer]
+                - tabpanel [ref=e880]:
+                  - code [ref=e884]:
+                    - generic [ref=e885]: page.get_by_role("listitem").filter(has_text="Product 2").get_by_role(
+                    - generic [ref=e886]: "\"button\", name=\"Add to cart\""
+                    - generic [ref=e887]: ).click()
+              - paragraph [ref=e888]: "Use a regular expression:"
+              - generic [ref=e889]:
+                - tablist [ref=e890]:
+                  - tab "Sync" [selected] [ref=e891] [cursor=pointer]
+                  - tab "Async" [ref=e892] [cursor=pointer]
+                - tabpanel [ref=e894]:
+                  - code [ref=e898]:
+                    - generic [ref=e899]: page.get_by_role("listitem").filter(has_text=re.compile("Product 2")).get_by_role(
+                    - generic [ref=e900]: "\"button\", name=\"Add to cart\""
+                    - generic [ref=e901]: ).click()
+              - heading "Filter by not having textDirect link to Filter by not having text" [level=3] [ref=e902]:
+                - text: Filter by not having text
+                - link "Direct link to Filter by not having text" [ref=e903] [cursor=pointer]:
+                  - /url: "#filter-by-not-having-text"
+                  - text: "#"
+              - paragraph [ref=e904]:
+                - text: Alternatively, filter by
+                - strong [ref=e905]: not having
+                - text: "text:"
+              - generic [ref=e906]:
+                - tablist [ref=e907]:
+                  - tab "Sync" [selected] [ref=e908] [cursor=pointer]
+                  - tab "Async" [ref=e909] [cursor=pointer]
+                - tabpanel [ref=e911]:
+                  - code [ref=e915]:
+                    - generic [ref=e916]: "# 5 in-stock items"
+                    - generic [ref=e917]: expect(page.get_by_role("listitem").filter(has_not_text="Out of stock")).to_have_count(5)
+              - heading "Filter by child/descendantDirect link to Filter by child/descendant" [level=3] [ref=e918]:
+                - text: Filter by child/descendant
+                - link "Direct link to Filter by child/descendant" [ref=e919] [cursor=pointer]:
+                  - /url: "#filter-by-childdescendant"
+                  - text: "#"
+              - paragraph [ref=e920]:
+                - text: Locators support an option to only select elements that have or have not a descendant matching another locator. You can therefore filter by any other locator such as a
+                - link "locator.get_by_role()" [ref=e921] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-get-by-role
+                - text: ","
+                - link "locator.get_by_test_id()" [ref=e922] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-get-by-test-id
+                - text: ","
+                - link "locator.get_by_text()" [ref=e923] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-get-by-text
+                - text: etc.
+              - generic [ref=e924]:
+                - generic [ref=e930]: http://localhost:3000
+                - generic [ref=e936]:
+                  - list [ref=e939]:
+                    - listitem [ref=e940]:
+                      - heading "Product 1" [level=3] [ref=e941]
+                      - button "Add to cart" [ref=e942] [cursor=pointer]
+                    - listitem [ref=e943]:
+                      - heading "Product 2" [level=3] [ref=e944]
+                      - button "Add to cart" [ref=e945] [cursor=pointer]
+                  - code [ref=e950]:
+                    - generic [ref=e951]: <ul>
+                    - generic [ref=e952]: <li>
+                    - generic [ref=e953]: <h3>Product 1</h3>
+                    - generic [ref=e954]: <button>Add to cart</button>
+                    - generic [ref=e955]: </li>
+                    - generic [ref=e956]: <li>
+                    - generic [ref=e957]: <h3>Product 2</h3>
+                    - generic [ref=e958]: <button>Add to cart</button>
+                    - generic [ref=e959]: </li>
+                    - generic [ref=e960]: </ul>
+              - generic [ref=e961]:
+                - tablist [ref=e962]:
+                  - tab "Sync" [selected] [ref=e963] [cursor=pointer]
+                  - tab "Async" [ref=e964] [cursor=pointer]
+                - tabpanel [ref=e966]:
+                  - code [ref=e970]:
+                    - generic [ref=e971]: page.get_by_role("listitem").filter(
+                    - generic [ref=e972]: has=page.get_by_role("heading", name="Product 2")
+                    - generic [ref=e973]: ).get_by_role("button", name="Add to cart").click()
+              - paragraph [ref=e974]: "We can also assert the product card to make sure there is only one:"
+              - generic [ref=e975]:
+                - tablist [ref=e976]:
+                  - tab "Sync" [selected] [ref=e977] [cursor=pointer]
+                  - tab "Async" [ref=e978] [cursor=pointer]
+                - tabpanel [ref=e980]:
+                  - code [ref=e984]:
+                    - generic [ref=e985]: expect(
+                    - generic [ref=e986]: page.get_by_role("listitem").filter(
+                    - generic [ref=e987]: has=page.get_by_role("heading", name="Product 2")
+                    - generic [ref=e988]: )
+                    - generic [ref=e989]: ).to_have_count(1)
+              - paragraph [ref=e990]:
+                - text: The filtering locator
+                - strong [ref=e991]: must be relative
+                - text: to the original locator and is queried starting with the original locator match, not the document root. Therefore, the following will not work, because the filtering locator starts matching from the
+                - code [ref=e992]: <ul>
+                - text: list element that is outside of the
+                - code [ref=e993]: <li>
+                - text: "list item matched by the original locator:"
+              - generic [ref=e994]:
+                - tablist [ref=e995]:
+                  - tab "Sync" [selected] [ref=e996] [cursor=pointer]
+                  - tab "Async" [ref=e997] [cursor=pointer]
+                - tabpanel [ref=e999]:
+                  - code [ref=e1003]:
+                    - generic [ref=e1004]: "# ✖ WRONG"
+                    - generic [ref=e1005]: expect(
+                    - generic [ref=e1006]: page.get_by_role("listitem").filter(
+                    - generic [ref=e1007]: has=page.get_by_role("list").get_by_role("heading", name="Product 2")
+                    - generic [ref=e1008]: )
+                    - generic [ref=e1009]: ).to_have_count(1)
+              - heading "Filter by not having child/descendantDirect link to Filter by not having child/descendant" [level=3] [ref=e1010]:
+                - text: Filter by not having child/descendant
+                - link "Direct link to Filter by not having child/descendant" [ref=e1011] [cursor=pointer]:
+                  - /url: "#filter-by-not-having-childdescendant"
+                  - text: "#"
+              - paragraph [ref=e1012]:
+                - text: We can also filter by
+                - strong [ref=e1013]: not having
+                - text: a matching element inside.
+              - generic [ref=e1014]:
+                - tablist [ref=e1015]:
+                  - tab "Sync" [selected] [ref=e1016] [cursor=pointer]
+                  - tab "Async" [ref=e1017] [cursor=pointer]
+                - tabpanel [ref=e1019]:
+                  - code [ref=e1023]:
+                    - generic [ref=e1024]: expect(
+                    - generic [ref=e1025]: page.get_by_role("listitem").filter(
+                    - generic [ref=e1026]: has_not=page.get_by_role("heading", name="Product 2")
+                    - generic [ref=e1027]: )
+                    - generic [ref=e1028]: ).to_have_count(1)
+              - paragraph [ref=e1029]: Note that the inner locator is matched starting from the outer one, not from the document root.
+              - heading "Locator operatorsDirect link to Locator operators" [level=2] [ref=e1030]:
+                - text: Locator operators
+                - link "Direct link to Locator operators" [ref=e1031] [cursor=pointer]:
+                  - /url: "#locator-operators"
+                  - text: "#"
+              - heading "Matching inside a locatorDirect link to Matching inside a locator" [level=3] [ref=e1032]:
+                - text: Matching inside a locator
+                - link "Direct link to Matching inside a locator" [ref=e1033] [cursor=pointer]:
+                  - /url: "#matching-inside-a-locator"
+                  - text: "#"
+              - paragraph [ref=e1034]:
+                - text: You can chain methods that create a locator, like
+                - link "page.get_by_text()" [ref=e1035] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-text
+                - text: or
+                - link "locator.get_by_role()" [ref=e1036] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-get-by-role
+                - text: ", to narrow down the search to a particular part of the page."
+              - paragraph [ref=e1037]:
+                - text: In this example we first create a locator called product by locating its role of
+                - code [ref=e1038]: listitem
+                - text: . We then filter by text. We can use the product locator again to get by role of button and click it and then use an assertion to make sure there is only one product with the text "Product 2".
+              - generic [ref=e1039]:
+                - tablist [ref=e1040]:
+                  - tab "Sync" [selected] [ref=e1041] [cursor=pointer]
+                  - tab "Async" [ref=e1042] [cursor=pointer]
+                - tabpanel [ref=e1044]:
+                  - code [ref=e1048]:
+                    - generic [ref=e1049]: product = page.get_by_role("listitem").filter(has_text="Product 2")
+                    - generic [ref=e1050]: product.get_by_role("button", name="Add to cart").click()
+              - paragraph [ref=e1051]: "You can also chain two locators together, for example to find a \"Save\" button inside a particular dialog:"
+              - generic [ref=e1052]:
+                - tablist [ref=e1053]:
+                  - tab "Sync" [selected] [ref=e1054] [cursor=pointer]
+                  - tab "Async" [ref=e1055] [cursor=pointer]
+                - tabpanel [ref=e1057]:
+                  - code [ref=e1061]:
+                    - generic [ref=e1062]: save_button = page.get_by_role("button", name="Save")
+                    - generic [ref=e1063]: "# ..."
+                    - generic [ref=e1064]: dialog = page.get_by_test_id("settings-dialog")
+                    - generic [ref=e1065]: dialog.locator(save_button).click()
+              - heading "Matching two locators simultaneouslyDirect link to Matching two locators simultaneously" [level=3] [ref=e1066]:
+                - text: Matching two locators simultaneously
+                - link "Direct link to Matching two locators simultaneously" [ref=e1067] [cursor=pointer]:
+                  - /url: "#matching-two-locators-simultaneously"
+                  - text: "#"
+              - paragraph [ref=e1068]:
+                - text: Method
+                - link "locator.and_()" [ref=e1069] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-and
+                - text: narrows down an existing locator by matching an additional locator. For example, you can combine
+                - link "page.get_by_role()" [ref=e1070] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-role
+                - text: and
+                - link "page.get_by_title()" [ref=e1071] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-title
+                - text: to match by both role and title.
+              - generic [ref=e1072]:
+                - tablist [ref=e1073]:
+                  - tab "Sync" [selected] [ref=e1074] [cursor=pointer]
+                  - tab "Async" [ref=e1075] [cursor=pointer]
+                - tabpanel [ref=e1077]:
+                  - code [ref=e1081]:
+                    - generic [ref=e1082]: button = page.get_by_role("button").and_(page.getByTitle("Subscribe"))
+              - heading "Matching one of the two alternative locatorsDirect link to Matching one of the two alternative locators" [level=3] [ref=e1083]:
+                - text: Matching one of the two alternative locators
+                - link "Direct link to Matching one of the two alternative locators" [ref=e1084] [cursor=pointer]:
+                  - /url: "#matching-one-of-the-two-alternative-locators"
+                  - text: "#"
+              - paragraph [ref=e1085]:
+                - text: If you'd like to target one of the two or more elements, and you don't know which one it will be, use
+                - link "locator.or_()" [ref=e1086] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-or
+                - text: to create a locator that matches any one or both of the alternatives.
+              - paragraph [ref=e1087]: For example, consider a scenario where you'd like to click on a "New email" button, but sometimes a security settings dialog shows up instead. In this case, you can wait for either a "New email" button, or a dialog and act accordingly.
+              - generic [ref=e1088]:
+                - generic [ref=e1089]:
+                  - img [ref=e1091]
+                  - text: note
+                - paragraph [ref=e1094]:
+                  - text: If both "New email" button and security dialog appear on screen, the "or" locator will match both of them, possibly throwing the
+                  - link "\"strict mode violation\" error" [ref=e1095] [cursor=pointer]:
+                    - /url: "#strictness"
+                  - text: . In this case, you can use
+                  - link "locator.first" [ref=e1096] [cursor=pointer]:
+                    - /url: /python/docs/api/class-locator#locator-first
+                  - text: to only match one of them.
+              - generic [ref=e1097]:
+                - tablist [ref=e1098]:
+                  - tab "Sync" [selected] [ref=e1099] [cursor=pointer]
+                  - tab "Async" [ref=e1100] [cursor=pointer]
+                - tabpanel [ref=e1102]:
+                  - code [ref=e1106]:
+                    - generic [ref=e1107]: new_email = page.get_by_role("button", name="New")
+                    - generic [ref=e1108]: dialog = page.get_by_text("Confirm security settings")
+                    - generic [ref=e1109]: expect(new_email.or_(dialog).first).to_be_visible()
+                    - generic [ref=e1110]: "if (dialog.is_visible()):"
+                    - generic [ref=e1111]: page.get_by_role("button", name="Dismiss").click()
+                    - generic [ref=e1112]: new_email.click()
+              - heading "Matching only visible elementsDirect link to Matching only visible elements" [level=3] [ref=e1113]:
+                - text: Matching only visible elements
+                - link "Direct link to Matching only visible elements" [ref=e1114] [cursor=pointer]:
+                  - /url: "#matching-only-visible-elements"
+                  - text: "#"
+              - generic [ref=e1115]:
+                - generic [ref=e1116]:
+                  - img [ref=e1118]
+                  - text: note
+                - paragraph [ref=e1121]:
+                  - text: It's usually better to find a
+                  - link "more reliable way" [ref=e1122] [cursor=pointer]:
+                    - /url: /python/docs/locators#quick-guide
+                  - text: to uniquely identify the element instead of checking the visibility.
+              - paragraph [ref=e1123]:
+                - text: Consider a page with two buttons, the first invisible and the second
+                - link "visible" [ref=e1124] [cursor=pointer]:
+                  - /url: /python/docs/actionability#visible
+                - text: .
+              - code [ref=e1128]:
+                - generic [ref=e1129]: "<button style='display: none'>Invisible</button>"
+                - generic [ref=e1130]: <button>Visible</button>
+              - list [ref=e1131]:
+                - listitem [ref=e1132]:
+                  - paragraph [ref=e1133]:
+                    - text: This will find both buttons and throw a
+                    - link "strictness" [ref=e1134] [cursor=pointer]:
+                      - /url: /python/docs/locators#strictness
+                    - text: "violation error:"
+                  - generic [ref=e1135]:
+                    - tablist [ref=e1136]:
+                      - tab "Sync" [selected] [ref=e1137] [cursor=pointer]
+                      - tab "Async" [ref=e1138] [cursor=pointer]
+                    - tabpanel [ref=e1140]:
+                      - code [ref=e1144]:
+                        - generic [ref=e1145]: page.locator("button").click()
+                - listitem [ref=e1146]:
+                  - paragraph [ref=e1147]: This will only find a second button, because it is visible, and then click it.
+                  - generic [ref=e1148]:
+                    - tablist [ref=e1149]:
+                      - tab "Sync" [selected] [ref=e1150] [cursor=pointer]
+                      - tab "Async" [ref=e1151] [cursor=pointer]
+                    - tabpanel [ref=e1153]:
+                      - code [ref=e1157]:
+                        - generic [ref=e1158]: page.locator("button").filter(visible=True).click()
+              - heading "ListsDirect link to Lists" [level=2] [ref=e1159]:
+                - text: Lists
+                - link "Direct link to Lists" [ref=e1160] [cursor=pointer]:
+                  - /url: "#lists"
+                  - text: "#"
+              - heading "Count items in a listDirect link to Count items in a list" [level=3] [ref=e1161]:
+                - text: Count items in a list
+                - link "Direct link to Count items in a list" [ref=e1162] [cursor=pointer]:
+                  - /url: "#count-items-in-a-list"
+                  - text: "#"
+              - paragraph [ref=e1163]: You can assert locators in order to count the items in a list.
+              - paragraph [ref=e1164]: "For example, consider the following DOM structure:"
+              - generic [ref=e1165]:
+                - generic [ref=e1171]: http://localhost:3000
+                - generic [ref=e1177]:
+                  - list [ref=e1180]:
+                    - listitem [ref=e1181]: apple
+                    - listitem [ref=e1182]: banana
+                    - listitem [ref=e1183]: orange
+                  - code [ref=e1188]:
+                    - generic [ref=e1189]: <ul>
+                    - generic [ref=e1190]: <li>apple</li>
+                    - generic [ref=e1191]: <li>banana</li>
+                    - generic [ref=e1192]: <li>orange</li>
+                    - generic [ref=e1193]: </ul>
+              - paragraph [ref=e1194]: Use the count assertion to ensure that the list has 3 items.
+              - generic [ref=e1195]:
+                - tablist [ref=e1196]:
+                  - tab "Sync" [selected] [ref=e1197] [cursor=pointer]
+                  - tab "Async" [ref=e1198] [cursor=pointer]
+                - tabpanel [ref=e1200]:
+                  - code [ref=e1204]:
+                    - generic [ref=e1205]: expect(page.get_by_role("listitem")).to_have_count(3)
+              - heading "Assert all text in a listDirect link to Assert all text in a list" [level=3] [ref=e1206]:
+                - text: Assert all text in a list
+                - link "Direct link to Assert all text in a list" [ref=e1207] [cursor=pointer]:
+                  - /url: "#assert-all-text-in-a-list"
+                  - text: "#"
+              - paragraph [ref=e1208]: You can assert locators in order to find all the text in a list.
+              - paragraph [ref=e1209]: "For example, consider the following DOM structure:"
+              - generic [ref=e1210]:
+                - generic [ref=e1216]: http://localhost:3000
+                - generic [ref=e1222]:
+                  - list [ref=e1225]:
+                    - listitem [ref=e1226]: apple
+                    - listitem [ref=e1227]: banana
+                    - listitem [ref=e1228]: orange
+                  - code [ref=e1233]:
+                    - generic [ref=e1234]: <ul>
+                    - generic [ref=e1235]: <li>apple</li>
+                    - generic [ref=e1236]: <li>banana</li>
+                    - generic [ref=e1237]: <li>orange</li>
+                    - generic [ref=e1238]: </ul>
+              - paragraph [ref=e1239]:
+                - text: Use
+                - link "expect(locator).to_have_text()" [ref=e1240] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locatorassertions#locator-assertions-to-have-text
+                - text: to ensure that the list has the text "apple", "banana" and "orange".
+              - generic [ref=e1241]:
+                - tablist [ref=e1242]:
+                  - tab "Sync" [selected] [ref=e1243] [cursor=pointer]
+                  - tab "Async" [ref=e1244] [cursor=pointer]
+                - tabpanel [ref=e1246]:
+                  - code [ref=e1250]:
+                    - generic [ref=e1251]: expect(page.get_by_role("listitem")).to_have_text(["apple", "banana", "orange"])
+              - heading "Get a specific itemDirect link to Get a specific item" [level=3] [ref=e1252]:
+                - text: Get a specific item
+                - link "Direct link to Get a specific item" [ref=e1253] [cursor=pointer]:
+                  - /url: "#get-a-specific-item"
+                  - text: "#"
+              - paragraph [ref=e1254]: There are many ways to get a specific item in a list.
+              - heading "Get by textDirect link to Get by text" [level=4] [ref=e1255]:
+                - text: Get by text
+                - link "Direct link to Get by text" [ref=e1256] [cursor=pointer]:
+                  - /url: "#get-by-text"
+                  - text: "#"
+              - paragraph [ref=e1257]:
+                - text: Use the
+                - link "page.get_by_text()" [ref=e1258] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-text
+                - text: method to locate an element in a list by its text content and then click on it.
+              - paragraph [ref=e1259]: "For example, consider the following DOM structure:"
+              - generic [ref=e1260]:
+                - generic [ref=e1266]: http://localhost:3000
+                - generic [ref=e1272]:
+                  - list [ref=e1275]:
+                    - listitem [ref=e1276]: apple
+                    - listitem [ref=e1277]: banana
+                    - listitem [ref=e1278]: orange
+                  - code [ref=e1283]:
+                    - generic [ref=e1284]: <ul>
+                    - generic [ref=e1285]: <li>apple</li>
+                    - generic [ref=e1286]: <li>banana</li>
+                    - generic [ref=e1287]: <li>orange</li>
+                    - generic [ref=e1288]: </ul>
+              - paragraph [ref=e1289]: Locate an item by its text content and click it.
+              - generic [ref=e1290]:
+                - tablist [ref=e1291]:
+                  - tab "Sync" [selected] [ref=e1292] [cursor=pointer]
+                  - tab "Async" [ref=e1293] [cursor=pointer]
+                - tabpanel [ref=e1295]:
+                  - code [ref=e1299]:
+                    - generic [ref=e1300]: page.get_by_text("orange").click()
+              - heading "Filter by textDirect link to Filter by text" [level=4] [ref=e1301]:
+                - text: Filter by text
+                - link "Direct link to Filter by text" [ref=e1302] [cursor=pointer]:
+                  - /url: "#filter-by-text-1"
+                  - text: "#"
+              - paragraph [ref=e1303]:
+                - text: Use the
+                - link "locator.filter()" [ref=e1304] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-filter
+                - text: to locate a specific item in a list.
+              - paragraph [ref=e1305]: "For example, consider the following DOM structure:"
+              - generic [ref=e1306]:
+                - generic [ref=e1312]: http://localhost:3000
+                - generic [ref=e1318]:
+                  - list [ref=e1321]:
+                    - listitem [ref=e1322]: apple
+                    - listitem [ref=e1323]: banana
+                    - listitem [ref=e1324]: orange
+                  - code [ref=e1329]:
+                    - generic [ref=e1330]: <ul>
+                    - generic [ref=e1331]: <li>apple</li>
+                    - generic [ref=e1332]: <li>banana</li>
+                    - generic [ref=e1333]: <li>orange</li>
+                    - generic [ref=e1334]: </ul>
+              - paragraph [ref=e1335]: Locate an item by the role of "listitem" and then filter by the text of "orange" and then click it.
+              - generic [ref=e1336]:
+                - tablist [ref=e1337]:
+                  - tab "Sync" [selected] [ref=e1338] [cursor=pointer]
+                  - tab "Async" [ref=e1339] [cursor=pointer]
+                - tabpanel [ref=e1341]:
+                  - code [ref=e1345]:
+                    - generic [ref=e1346]: page.get_by_role("listitem").filter(has_text="orange").click()
+              - heading "Get by test idDirect link to Get by test id" [level=4] [ref=e1347]:
+                - text: Get by test id
+                - link "Direct link to Get by test id" [ref=e1348] [cursor=pointer]:
+                  - /url: "#get-by-test-id"
+                  - text: "#"
+              - paragraph [ref=e1349]:
+                - text: Use the
+                - link "page.get_by_test_id()" [ref=e1350] [cursor=pointer]:
+                  - /url: /python/docs/api/class-page#page-get-by-test-id
+                - text: method to locate an element in a list. You may need to modify the html and add a test id if you don't already have a test id.
+              - paragraph [ref=e1351]: "For example, consider the following DOM structure:"
+              - generic [ref=e1352]:
+                - generic [ref=e1358]: http://localhost:3000
+                - generic [ref=e1364]:
+                  - list [ref=e1367]:
+                    - listitem [ref=e1368]: apple
+                    - listitem [ref=e1369]: banana
+                    - listitem [ref=e1370]: orange
+                  - code [ref=e1375]:
+                    - generic [ref=e1376]: <ul>
+                    - generic [ref=e1377]: <li data-testid='apple'>apple</li>
+                    - generic [ref=e1378]: <li data-testid='banana'>banana</li>
+                    - generic [ref=e1379]: <li data-testid='orange'>orange</li>
+                    - generic [ref=e1380]: </ul>
+              - paragraph [ref=e1381]: Locate an item by its test id of "orange" and then click it.
+              - generic [ref=e1382]:
+                - tablist [ref=e1383]:
+                  - tab "Sync" [selected] [ref=e1384] [cursor=pointer]
+                  - tab "Async" [ref=e1385] [cursor=pointer]
+                - tabpanel [ref=e1387]:
+                  - code [ref=e1391]:
+                    - generic [ref=e1392]: page.get_by_test_id("orange").click()
+              - heading "Get by nth itemDirect link to Get by nth item" [level=4] [ref=e1393]:
+                - text: Get by nth item
+                - link "Direct link to Get by nth item" [ref=e1394] [cursor=pointer]:
+                  - /url: "#get-by-nth-item"
+                  - text: "#"
+              - paragraph [ref=e1395]:
+                - text: If you have a list of identical elements, and the only way to distinguish between them is the order, you can choose a specific element from a list with
+                - link "locator.first" [ref=e1396] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-first
+                - text: ","
+                - link "locator.last" [ref=e1397] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-last
+                - text: or
+                - link "locator.nth()" [ref=e1398] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-nth
+                - text: .
+              - generic [ref=e1399]:
+                - tablist [ref=e1400]:
+                  - tab "Sync" [selected] [ref=e1401] [cursor=pointer]
+                  - tab "Async" [ref=e1402] [cursor=pointer]
+                - tabpanel [ref=e1404]:
+                  - code [ref=e1408]:
+                    - generic [ref=e1409]: banana = page.get_by_role("listitem").nth(1)
+              - paragraph [ref=e1410]:
+                - text: However, use this method with caution. Often times, the page might change, and the locator will point to a completely different element from the one you expected. Instead, try to come up with a unique locator that will pass the
+                - link "strictness criteria" [ref=e1411] [cursor=pointer]:
+                  - /url: "#strictness"
+                - text: .
+              - heading "Chaining filtersDirect link to Chaining filters" [level=3] [ref=e1412]:
+                - text: Chaining filters
+                - link "Direct link to Chaining filters" [ref=e1413] [cursor=pointer]:
+                  - /url: "#chaining-filters"
+                  - text: "#"
+              - paragraph [ref=e1414]:
+                - text: When you have elements with various similarities, you can use the
+                - link "locator.filter()" [ref=e1415] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-filter
+                - text: method to select the right one. You can also chain multiple filters to narrow down the selection.
+              - paragraph [ref=e1416]: "For example, consider the following DOM structure:"
+              - generic [ref=e1417]:
+                - generic [ref=e1423]: http://localhost:3000
+                - generic [ref=e1429]:
+                  - list [ref=e1432]:
+                    - listitem [ref=e1433]:
+                      - generic [ref=e1434]: John
+                      - button "Say hello" [ref=e1436] [cursor=pointer]
+                    - listitem [ref=e1437]:
+                      - generic [ref=e1438]: Mary
+                      - button "Say hello" [ref=e1440] [cursor=pointer]
+                    - listitem [ref=e1441]:
+                      - generic [ref=e1442]: John
+                      - button "Say goodbye" [ref=e1444] [cursor=pointer]
+                    - listitem [ref=e1445]:
+                      - generic [ref=e1446]: Mary
+                      - button "Say goodbye" [ref=e1448] [cursor=pointer]
+                  - code [ref=e1453]:
+                    - generic [ref=e1454]: <ul>
+                    - generic [ref=e1455]: <li>
+                    - generic [ref=e1456]: <div>John</div>
+                    - generic [ref=e1457]: <div><button>Say hello</button></div>
+                    - generic [ref=e1458]: </li>
+                    - generic [ref=e1459]: <li>
+                    - generic [ref=e1460]: <div>Mary</div>
+                    - generic [ref=e1461]: <div><button>Say hello</button></div>
+                    - generic [ref=e1462]: </li>
+                    - generic [ref=e1463]: <li>
+                    - generic [ref=e1464]: <div>John</div>
+                    - generic [ref=e1465]: <div><button>Say goodbye</button></div>
+                    - generic [ref=e1466]: </li>
+                    - generic [ref=e1467]: <li>
+                    - generic [ref=e1468]: <div>Mary</div>
+                    - generic [ref=e1469]: <div><button>Say goodbye</button></div>
+                    - generic [ref=e1470]: </li>
+                    - generic [ref=e1471]: </ul>
+              - paragraph [ref=e1472]: "To take a screenshot of the row with \"Mary\" and \"Say goodbye\":"
+              - generic [ref=e1473]:
+                - tablist [ref=e1474]:
+                  - tab "Sync" [selected] [ref=e1475] [cursor=pointer]
+                  - tab "Async" [ref=e1476] [cursor=pointer]
+                - tabpanel [ref=e1478]:
+                  - code [ref=e1482]:
+                    - generic [ref=e1483]: row_locator = page.get_by_role("listitem")
+                    - generic [ref=e1484]: row_locator.filter(has_text="Mary").filter(
+                    - generic [ref=e1485]: has=page.get_by_role("button", name="Say goodbye")
+                    - generic [ref=e1486]: ).screenshot(path="screenshot.png")
+              - paragraph [ref=e1487]: You should now have a "screenshot.png" file in your project's root directory.
+              - heading "Rare use casesDirect link to Rare use cases" [level=3] [ref=e1488]:
+                - text: Rare use cases
+                - link "Direct link to Rare use cases" [ref=e1489] [cursor=pointer]:
+                  - /url: "#rare-use-cases"
+                  - text: "#"
+              - heading "Do something with each element in the listDirect link to Do something with each element in the list" [level=4] [ref=e1490]:
+                - text: Do something with each element in the list
+                - link "Direct link to Do something with each element in the list" [ref=e1491] [cursor=pointer]:
+                  - /url: "#do-something-with-each-element-in-the-list"
+                  - text: "#"
+              - paragraph [ref=e1492]: "Iterate elements:"
+              - generic [ref=e1493]:
+                - tablist [ref=e1494]:
+                  - tab "Sync" [selected] [ref=e1495] [cursor=pointer]
+                  - tab "Async" [ref=e1496] [cursor=pointer]
+                - tabpanel [ref=e1498]:
+                  - code [ref=e1502]:
+                    - generic [ref=e1503]: "for row in page.get_by_role(\"listitem\").all():"
+                    - generic [ref=e1504]: print(row.text_content())
+              - paragraph [ref=e1505]: "Iterate using regular for loop:"
+              - generic [ref=e1506]:
+                - tablist [ref=e1507]:
+                  - tab "Sync" [selected] [ref=e1508] [cursor=pointer]
+                  - tab "Async" [ref=e1509] [cursor=pointer]
+                - tabpanel [ref=e1511]:
+                  - code [ref=e1515]:
+                    - generic [ref=e1516]: rows = page.get_by_role("listitem")
+                    - generic [ref=e1517]: count = rows.count()
+                    - generic [ref=e1518]: "for i in range(count):"
+                    - generic [ref=e1519]: print(rows.nth(i).text_content())
+              - heading "Evaluate in the pageDirect link to Evaluate in the page" [level=4] [ref=e1520]:
+                - text: Evaluate in the page
+                - link "Direct link to Evaluate in the page" [ref=e1521] [cursor=pointer]:
+                  - /url: "#evaluate-in-the-page"
+                  - text: "#"
+              - paragraph [ref=e1522]:
+                - text: The code inside
+                - link "locator.evaluate_all()" [ref=e1523] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-evaluate-all
+                - text: runs in the page, you can call any DOM apis there.
+              - generic [ref=e1524]:
+                - tablist [ref=e1525]:
+                  - tab "Sync" [selected] [ref=e1526] [cursor=pointer]
+                  - tab "Async" [ref=e1527] [cursor=pointer]
+                - tabpanel [ref=e1529]:
+                  - code [ref=e1533]:
+                    - generic [ref=e1534]: rows = page.get_by_role("listitem")
+                    - generic [ref=e1535]: texts = rows.evaluate_all("list => list.map(element => element.textContent)")
+              - heading "StrictnessDirect link to Strictness" [level=2] [ref=e1536]:
+                - text: Strictness
+                - link "Direct link to Strictness" [ref=e1537] [cursor=pointer]:
+                  - /url: "#strictness"
+                  - text: "#"
+              - paragraph [ref=e1538]: "Locators are strict. This means that all operations on locators that imply some target DOM element will throw an exception if more than one element matches. For example, the following call throws if there are several buttons in the DOM:"
+              - heading "Throws an error if more than oneDirect link to Throws an error if more than one" [level=4] [ref=e1539]:
+                - text: Throws an error if more than one
+                - link "Direct link to Throws an error if more than one" [ref=e1540] [cursor=pointer]:
+                  - /url: "#throws-an-error-if-more-than-one"
+                  - text: "#"
+              - generic [ref=e1541]:
+                - tablist [ref=e1542]:
+                  - tab "Sync" [selected] [ref=e1543] [cursor=pointer]
+                  - tab "Async" [ref=e1544] [cursor=pointer]
+                - tabpanel [ref=e1546]:
+                  - code [ref=e1550]:
+                    - generic [ref=e1551]: page.get_by_role("button").click()
+              - paragraph [ref=e1552]: On the other hand, Playwright understands when you perform a multiple-element operation, so the following call works perfectly fine when the locator resolves to multiple elements.
+              - heading "Works fine with multiple elementsDirect link to Works fine with multiple elements" [level=4] [ref=e1553]:
+                - text: Works fine with multiple elements
+                - link "Direct link to Works fine with multiple elements" [ref=e1554] [cursor=pointer]:
+                  - /url: "#works-fine-with-multiple-elements"
+                  - text: "#"
+              - generic [ref=e1555]:
+                - tablist [ref=e1556]:
+                  - tab "Sync" [selected] [ref=e1557] [cursor=pointer]
+                  - tab "Async" [ref=e1558] [cursor=pointer]
+                - tabpanel [ref=e1560]:
+                  - code [ref=e1564]:
+                    - generic [ref=e1565]: page.get_by_role("button").count()
+              - paragraph [ref=e1566]:
+                - text: You can explicitly opt-out from strictness check by telling Playwright which element to use when multiple elements match, through
+                - link "locator.first" [ref=e1567] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-first
+                - text: ","
+                - link "locator.last" [ref=e1568] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-last
+                - text: ", and"
+                - link "locator.nth()" [ref=e1569] [cursor=pointer]:
+                  - /url: /python/docs/api/class-locator#locator-nth
+                - text: . These methods are
+                - strong [ref=e1570]: not recommended
+                - text: because when your page changes, Playwright may click on an element you did not intend. Instead, follow best practices above to create a locator that uniquely identifies the target element.
+              - heading "More LocatorsDirect link to More Locators" [level=2] [ref=e1571]:
+                - text: More Locators
+                - link "Direct link to More Locators" [ref=e1572] [cursor=pointer]:
+                  - /url: "#more-locators"
+                  - text: "#"
+              - paragraph [ref=e1573]:
+                - text: For less commonly used locators, look at the
+                - link "other locators" [ref=e1574] [cursor=pointer]:
+                  - /url: /python/docs/other-locators
+                - text: guide.
+          - navigation "Docs pages" [ref=e1575]:
+            - link "Previous « Isolation" [ref=e1576] [cursor=pointer]:
+              - /url: /python/docs/browser-contexts
+              - generic [ref=e1577]: Previous
+              - generic [ref=e1578]: « Isolation
+            - link "Next Mock APIs »" [ref=e1579] [cursor=pointer]:
+              - /url: /python/docs/mock
+              - generic [ref=e1580]: Next
+              - generic [ref=e1581]: Mock APIs »
+        - list [ref=e1584]:
+          - listitem [ref=e1585]:
+            - link "Introduction" [ref=e1586] [cursor=pointer]:
+              - /url: "#introduction"
+            - list [ref=e1587]:
+              - listitem [ref=e1588]:
+                - link "Quick Guide" [ref=e1589] [cursor=pointer]:
+                  - /url: "#quick-guide"
+          - listitem [ref=e1590]:
+            - link "Locating elements" [ref=e1591] [cursor=pointer]:
+              - /url: "#locating-elements"
+            - list [ref=e1592]:
+              - listitem [ref=e1593]:
+                - link "Locate by role" [ref=e1594] [cursor=pointer]:
+                  - /url: "#locate-by-role"
+              - listitem [ref=e1595]:
+                - link "Locate by label" [ref=e1596] [cursor=pointer]:
+                  - /url: "#locate-by-label"
+              - listitem [ref=e1597]:
+                - link "Locate by placeholder" [ref=e1598] [cursor=pointer]:
+                  - /url: "#locate-by-placeholder"
+              - listitem [ref=e1599]:
+                - link "Locate by text" [ref=e1600] [cursor=pointer]:
+                  - /url: "#locate-by-text"
+              - listitem [ref=e1601]:
+                - link "Locate by alt text" [ref=e1602] [cursor=pointer]:
+                  - /url: "#locate-by-alt-text"
+              - listitem [ref=e1603]:
+                - link "Locate by title" [ref=e1604] [cursor=pointer]:
+                  - /url: "#locate-by-title"
+              - listitem [ref=e1605]:
+                - link "Locate by test id" [ref=e1606] [cursor=pointer]:
+                  - /url: "#locate-by-test-id"
+              - listitem [ref=e1607]:
+                - link "Locate by CSS or XPath" [ref=e1608] [cursor=pointer]:
+                  - /url: "#locate-by-css-or-xpath"
+          - listitem [ref=e1609]:
+            - link "Locate in Shadow DOM" [ref=e1610] [cursor=pointer]:
+              - /url: "#locate-in-shadow-dom"
+          - listitem [ref=e1611]:
+            - link "Filtering Locators" [ref=e1612] [cursor=pointer]:
+              - /url: "#filtering-locators"
+            - list [ref=e1613]:
+              - listitem [ref=e1614]:
+                - link "Filter by text" [ref=e1615] [cursor=pointer]:
+                  - /url: "#filter-by-text"
+              - listitem [ref=e1616]:
+                - link "Filter by not having text" [ref=e1617] [cursor=pointer]:
+                  - /url: "#filter-by-not-having-text"
+              - listitem [ref=e1618]:
+                - link "Filter by child/descendant" [ref=e1619] [cursor=pointer]:
+                  - /url: "#filter-by-childdescendant"
+              - listitem [ref=e1620]:
+                - link "Filter by not having child/descendant" [ref=e1621] [cursor=pointer]:
+                  - /url: "#filter-by-not-having-childdescendant"
+          - listitem [ref=e1622]:
+            - link "Locator operators" [ref=e1623] [cursor=pointer]:
+              - /url: "#locator-operators"
+            - list [ref=e1624]:
+              - listitem [ref=e1625]:
+                - link "Matching inside a locator" [ref=e1626] [cursor=pointer]:
+                  - /url: "#matching-inside-a-locator"
+              - listitem [ref=e1627]:
+                - link "Matching two locators simultaneously" [ref=e1628] [cursor=pointer]:
+                  - /url: "#matching-two-locators-simultaneously"
+              - listitem [ref=e1629]:
+                - link "Matching one of the two alternative locators" [ref=e1630] [cursor=pointer]:
+                  - /url: "#matching-one-of-the-two-alternative-locators"
+              - listitem [ref=e1631]:
+                - link "Matching only visible elements" [ref=e1632] [cursor=pointer]:
+                  - /url: "#matching-only-visible-elements"
+          - listitem [ref=e1633]:
+            - link "Lists" [ref=e1634] [cursor=pointer]:
+              - /url: "#lists"
+            - list [ref=e1635]:
+              - listitem [ref=e1636]:
+                - link "Count items in a list" [ref=e1637] [cursor=pointer]:
+                  - /url: "#count-items-in-a-list"
+              - listitem [ref=e1638]:
+                - link "Assert all text in a list" [ref=e1639] [cursor=pointer]:
+                  - /url: "#assert-all-text-in-a-list"
+              - listitem [ref=e1640]:
+                - link "Get a specific item" [ref=e1641] [cursor=pointer]:
+                  - /url: "#get-a-specific-item"
+              - listitem [ref=e1642]:
+                - link "Chaining filters" [ref=e1643] [cursor=pointer]:
+                  - /url: "#chaining-filters"
+              - listitem [ref=e1644]:
+                - link "Rare use cases" [ref=e1645] [cursor=pointer]:
+                  - /url: "#rare-use-cases"
+          - listitem [ref=e1646]:
+            - link "Strictness" [ref=e1647] [cursor=pointer]:
+              - /url: "#strictness"
+          - listitem [ref=e1648]:
+            - link "More Locators" [ref=e1649] [cursor=pointer]:
+              - /url: "#more-locators"
+  - contentinfo [ref=e1650]:
+    - generic [ref=e1651]:
+      - generic [ref=e1652]:
+        - generic [ref=e1653]:
+          - generic [ref=e1654]: Learn
+          - list [ref=e1655]:
+            - listitem [ref=e1656]:
+              - link "Getting started" [ref=e1657] [cursor=pointer]:
+                - /url: /python/docs/intro
+            - listitem [ref=e1658]:
+              - link "Playwright Training" [ref=e1659] [cursor=pointer]:
+                - /url: https://learn.microsoft.com/en-us/training/modules/build-with-playwright/
+                - text: Playwright Training
+                - img [ref=e1660]
+            - listitem [ref=e1662]:
+              - link "Learn Videos" [ref=e1663] [cursor=pointer]:
+                - /url: /python/community/learn-videos
+            - listitem [ref=e1664]:
+              - link "Feature Videos" [ref=e1665] [cursor=pointer]:
+                - /url: /python/community/feature-videos
+        - generic [ref=e1666]:
+          - generic [ref=e1667]: Community
+          - list [ref=e1668]:
+            - listitem [ref=e1669]:
+              - link "Stack Overflow" [ref=e1670] [cursor=pointer]:
+                - /url: https://stackoverflow.com/questions/tagged/playwright
+                - text: Stack Overflow
+                - img [ref=e1671]
+            - listitem [ref=e1673]:
+              - link "Discord" [ref=e1674] [cursor=pointer]:
+                - /url: https://aka.ms/playwright/discord
+                - text: Discord
+                - img [ref=e1675]
+            - listitem [ref=e1677]:
+              - link "Twitter" [ref=e1678] [cursor=pointer]:
+                - /url: https://twitter.com/playwrightweb
+                - text: Twitter
+                - img [ref=e1679]
+            - listitem [ref=e1681]:
+              - link "LinkedIn" [ref=e1682] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/playwrightweb
+                - text: LinkedIn
+                - img [ref=e1683]
+        - generic [ref=e1685]:
+          - generic [ref=e1686]: More
+          - list [ref=e1687]:
+            - listitem [ref=e1688]:
+              - link "GitHub" [ref=e1689] [cursor=pointer]:
+                - /url: https://github.com/microsoft/playwright-python
+                - text: GitHub
+                - img [ref=e1690]
+            - listitem [ref=e1692]:
+              - link "YouTube" [ref=e1693] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg
+                - text: YouTube
+                - img [ref=e1694]
+            - listitem [ref=e1696]:
+              - link "Blog" [ref=e1697] [cursor=pointer]:
+                - /url: https://dev.to/playwright
+                - text: Blog
+                - img [ref=e1698]
+            - listitem [ref=e1700]:
+              - link "Ambassadors" [ref=e1701] [cursor=pointer]:
+                - /url: /python/community/ambassadors
+      - generic [ref=e1703]: Copyright © 2026 Microsoft
