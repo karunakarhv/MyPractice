@@ -16,10 +16,11 @@ jobs:
         python-version: '3.13'
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        cd Playwright/python
+        python3 -m pip install --upgrade pip
+        pip3 install -r requirements.txt
     - name: Ensure browsers are installed
-      run: python -m playwright install --with-deps
+      run: python3 -m playwright install --with-deps
     - name: Run your tests
       run: cd Playwright/python && pytest --tracing=retain-on-failure
     - uses: actions/upload-artifact@v4
