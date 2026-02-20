@@ -21,3 +21,5 @@
 network_packet_log.txt
 test_log.txt
 *.log
+*.zip
+*.DS_Store
