@@ -1,5 +1,5 @@
 def is_isogram(string):
-    if string is '':
+    if string == '':
         return True
     listItems = list(string)
     setItems = set(listItems)
@@ -11,4 +11,6 @@ def is_isogram(string):
             return False
     return True
 
-is_isogram("Dermatoglyphics")
+print(is_isogram("Dermatoglyphics"))
+print(is_isogram("aba"))
+print(is_isogram("moOse"))

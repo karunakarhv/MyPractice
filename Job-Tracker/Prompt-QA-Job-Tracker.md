@@ -1,0 +1,5 @@
+Monitor the web for Quality Assurance Engineer/Software Development Engineer in Test/QA Automation Engineer/Automation Tester/Performance Test Engineer/Mobile Automation Tester/Test Automation Developer/Software Engineer/Senior Test Automation Engineer positions that are remote/hybrid/onsite in Sydney, NSW. 
+Focus on companies in Insurance/Work Force Management/Rail/Defence/Air/Embedded Systems with 10-1000 employees. 
+Salary range: $140000-$160000. Check company career pages, LinkedIn, Seek, Indeed, Glassdoor, AngelList, Wellfound, Y Combinator's Work at a Startup, Hacker News Who's Hiring threads, and any other relevant job boards. 
+Include staffing agencies and contract roles unless specified. 
+Include the company name, role title, location, salary if listed, and direct application link for each result.
